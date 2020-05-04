@@ -16,7 +16,7 @@
                     { "map_id": "299", "mode": "25人普通", "boss_index": 0 },
                     { "map_id": "299", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/fanyangyebian.png"
+                "icon": "img/fb/fanyangyebian.png"
             },
             {
                 "type": 2,
@@ -30,7 +30,7 @@
                     { "map_id": "299", "mode": "25人普通", "boss_index": 0 },
                     { "map_id": "299", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/aolongdao.png"
+                "icon": "img/fb/aolongdao.png"
             },
             {
                 "type": 2,
@@ -43,7 +43,7 @@
                     { "map_id": "299", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "299", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/xuanhebieyuan.jpg"
+                "icon": "img/fb/xuanhebieyuan.jpg"
             },
             {
                 "type": 2,
@@ -58,7 +58,7 @@
                     { "map_id": "360", "mode": "25人挑战", "boss_index": 0 },
                     { "map_id": "361", "mode": "试炼秘境", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/341.jpg"
+                "icon": "img/fb/341.jpg"
             },
             {
                 "type": 2,
@@ -73,7 +73,7 @@
                     { "map_id": "349", "mode": "25人挑战", "boss_index": 0 },
                     { "map_id": "350", "mode": "试炼秘境", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/347.jpg"
+                "icon": "img/fb/347.jpg"
             },
             {
                 "type": 2,
@@ -87,7 +87,7 @@
                     { "map_id": "365", "mode": "25人英雄", "boss_index": 0 },
                     { "map_id": "366", "mode": "25人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/364.jpg"
+                "icon": "img/fb/364.jpg"
             },
             {
                 "type": 2,
@@ -101,7 +101,7 @@
                     { "map_id": "369", "mode": "25人英雄", "boss_index": 0 },
                     { "map_id": "370", "mode": "25人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/368.jpg"
+                "icon": "img/fb/368.jpg"
             },
             {
                 "type": 1,
@@ -114,7 +114,7 @@
                     { "map_id": "337", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "356", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/337.jpg"
+                "icon": "img/fb/337.jpg"
             },
             {
                 "type": 1,
@@ -127,7 +127,7 @@
                     { "map_id": "339", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "355", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/339.jpg"
+                "icon": "img/fb/339.jpg"
             },
             {
                 "type": 1,
@@ -140,7 +140,7 @@
                     { "map_id": "340", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "357", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/340.jpg"
+                "icon": "img/fb/340.jpg"
             },
             {
                 "type": 1,
@@ -153,7 +153,7 @@
                     { "map_id": "342", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "359", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/342.jpg"
+                "icon": "img/fb/342.jpg"
             },
             {
                 "type": 1,
@@ -166,7 +166,7 @@
                     { "map_id": "343", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "358", "mode": "5人普通", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/343.jpg"
+                "icon": "img/fb/343.jpg"
             },
             {
                 "type": 1,
@@ -179,7 +179,7 @@
                     { "map_id": "406", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "407", "mode": "5人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/406.jpg"
+                "icon": "img/fb/406.jpg"
             }
         ]
     },
@@ -199,7 +199,7 @@
                     { "map_id": "299", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "301", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/299.jpg"
+                "icon": "img/fb/299.jpg"
             },
             {
                 "type": 2,
@@ -212,7 +212,7 @@
                     { "map_id": "283", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "286", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/283.jpg"
+                "icon": "img/fb/283.jpg"
             },
             {
                 "type": 2,
@@ -225,7 +225,7 @@
                     { "map_id": "284", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "287", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/284.jpg"
+                "icon": "img/fb/284.jpg"
             },
             {
                 "type": 2,
@@ -238,7 +238,7 @@
                     { "map_id": "298", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "300", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/298.jpg"
+                "icon": "img/fb/298.jpg"
             },
             {
                 "type": 1,
@@ -251,7 +251,7 @@
                     { "map_id": "285", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "290", "mode": "5人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/285.jpg"
+                "icon": "img/fb/285.jpg"
             },
             {
                 "type": 1,
@@ -265,7 +265,7 @@
                     { "map_id": "292", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "295", "mode": "5人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/291.jpg"
+                "icon": "img/fb/291.jpg"
             },
             {
                 "type": 2,
@@ -278,7 +278,7 @@
                     { "map_id": "263", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "271", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/263.jpg"
+                "icon": "img/fb/263.jpg"
             },
             {
                 "type": 2,
@@ -291,7 +291,7 @@
                     { "map_id": "264", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "270", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/264.jpg"
+                "icon": "img/fb/264.jpg"
             },
             {
                 "type": 1,
@@ -304,7 +304,7 @@
                     { "map_id": "262", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "275", "mode": "5人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/262.jpg"
+                "icon": "img/fb/262.jpg"
             },
             {
                 "type": 2,
@@ -317,7 +317,7 @@
                     { "map_id": "240", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "248", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/240.jpg"
+                "icon": "img/fb/240.jpg"
             },
             {
                 "type": 2,
@@ -330,7 +330,7 @@
                     { "map_id": "241", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "249", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/241.jpg"
+                "icon": "img/fb/241.jpg"
             },
             {
                 "type": 1,
@@ -344,7 +344,7 @@
                     { "map_id": "257", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "260", "mode": "5人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/256.jpg"
+                "icon": "img/fb/256.jpg"
             },
             {
                 "type": 2,
@@ -359,7 +359,7 @@
                     { "map_id": "234", "mode": "10人挑战", "boss_index": 0 },
                     { "map_id": "236", "mode": "25人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/220.jpg"
+                "icon": "img/fb/220.jpg"
             },
             {
                 "type": 2,
@@ -374,7 +374,7 @@
                     { "map_id": "235", "mode": "10人挑战", "boss_index": 0 },
                     { "map_id": "237", "mode": "25人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/221.jpg"
+                "icon": "img/fb/221.jpg"
             },
             {
                 "type": 1,
@@ -387,7 +387,7 @@
                     { "map_id": "203", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "224", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/203.jpg"
+                "icon": "img/fb/203.jpg"
             },
             {
                 "type": 1,
@@ -400,7 +400,7 @@
                     { "map_id": "204", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "227", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/204.jpg"
+                "icon": "img/fb/204.jpg"
             },
             {
                 "type": 1,
@@ -413,7 +413,7 @@
                     { "map_id": "209", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "228", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/209.jpg"
+                "icon": "img/fb/209.jpg"
             },
             {
                 "type": 1,
@@ -426,7 +426,7 @@
                     { "map_id": "218", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "229", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/218.jpg"
+                "icon": "img/fb/218.jpg"
             },
             {
                 "type": 1,
@@ -439,7 +439,7 @@
                     { "map_id": "219", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "225", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/219.jpg"
+                "icon": "img/fb/219.jpg"
             },
             {
                 "type": 1,
@@ -452,7 +452,7 @@
                     { "map_id": "242", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "244", "mode": "5人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/242.jpg"
+                "icon": "img/fb/242.jpg"
             }
         ]
     },
@@ -472,7 +472,7 @@
                     { "map_id": "160", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "171", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/160.jpg"
+                "icon": "img/fb/160.jpg"
             },
             {
                 "type": 2,
@@ -485,7 +485,7 @@
                     { "map_id": "164", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "165", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/164.jpg"
+                "icon": "img/fb/164.jpg"
             },
             {
                 "type": 2,
@@ -498,7 +498,7 @@
                     { "map_id": "175", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "176", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/175.jpg"
+                "icon": "img/fb/175.jpg"
             },
             {
                 "type": 2,
@@ -511,7 +511,7 @@
                     { "map_id": "177", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "178", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/177.jpg"
+                "icon": "img/fb/177.jpg"
             },
             {
                 "type": 2,
@@ -524,7 +524,7 @@
                     { "map_id": "182", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "183", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/182.jpg"
+                "icon": "img/fb/182.jpg"
             },
             {
                 "type": 2,
@@ -539,7 +539,7 @@
                     { "map_id": "205", "mode": "25人挑战", "boss_index": 0 },
                     { "map_id": "211", "mode": "10人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/191.jpg"
+                "icon": "img/fb/191.jpg"
             },
             {
                 "type": 2,
@@ -554,7 +554,7 @@
                     { "map_id": "206", "mode": "25人挑战", "boss_index": 0 },
                     { "map_id": "212", "mode": "10人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/192.jpg"
+                "icon": "img/fb/192.jpg"
             },
             {
                 "type": 1,
@@ -567,7 +567,7 @@
                     { "map_id": "157", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "167", "mode": "5人普通", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/157.jpg"
+                "icon": "img/fb/157.jpg"
             },
             {
                 "type": 1,
@@ -580,7 +580,7 @@
                     { "map_id": "161", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "162", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/161.jpg"
+                "icon": "img/fb/161.jpg"
             },
             {
                 "type": 1,
@@ -592,7 +592,7 @@
                 "maps": [
                     { "map_id": "163", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/163.jpg"
+                "icon": "img/fb/163.jpg"
             },
             {
                 "type": 1,
@@ -605,7 +605,7 @@
                     { "map_id": "169", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "170", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/169.jpg"
+                "icon": "img/fb/169.jpg"
             },
             {
                 "type": 1,
@@ -617,7 +617,7 @@
                 "maps": [
                     { "map_id": "179", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/179.jpg"
+                "icon": "img/fb/179.jpg"
             },
             {
                 "type": 1,
@@ -629,7 +629,7 @@
                 "maps": [
                     { "map_id": "184", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/184.jpg"
+                "icon": "img/fb/184.jpg"
             },
             {
                 "type": 1,
@@ -641,7 +641,7 @@
                 "maps": [
                     { "map_id": "187", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/187.jpg"
+                "icon": "img/fb/187.jpg"
             },
             {
                 "type": 1,
@@ -654,7 +654,7 @@
                     { "map_id": "195", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "196", "mode": "5人普通", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/195.jpg"
+                "icon": "img/fb/195.jpg"
             },
             {
                 "type": 1,
@@ -667,7 +667,7 @@
                     { "map_id": "200", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "222", "mode": "5人挑战", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/200.jpg"
+                "icon": "img/fb/200.jpg"
             }
         ]
     },
@@ -689,7 +689,7 @@
                     { "map_id": "70", "mode": "25人普通", "boss_index": 0 },
                     { "map_id": "72", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/68.jpg"
+                "icon": "img/fb/68.jpg"
             },
             {
                 "type": 2,
@@ -704,7 +704,7 @@
                     { "map_id": "118", "mode": "25人普通", "boss_index": 0 },
                     { "map_id": "119", "mode": "10人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/109.jpg"
+                "icon": "img/fb/109.jpg"
             },
             {
                 "type": 2,
@@ -717,7 +717,7 @@
                     { "map_id": "120", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "130", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/120.jpg"
+                "icon": "img/fb/120.jpg"
             },
             {
                 "type": 2,
@@ -729,7 +729,7 @@
                 "maps": [
                     { "map_id": "126", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/126.jpg"
+                "icon": "img/fb/126.jpg"
             },
             {
                 "type": 2,
@@ -742,7 +742,7 @@
                     { "map_id": "131", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "148", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/131.jpg"
+                "icon": "img/fb/131.jpg"
             },
             {
                 "type": 2,
@@ -755,7 +755,7 @@
                     { "map_id": "133", "mode": "25人英雄", "boss_index": 0 },
                     { "map_id": "134", "mode": "10人普通", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/133.jpg"
+                "icon": "img/fb/133.jpg"
             },
             {
                 "type": 2,
@@ -768,7 +768,7 @@
                     { "map_id": "136", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "138", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/136.jpg"
+                "icon": "img/fb/136.jpg"
             },
             {
                 "type": 2,
@@ -781,7 +781,7 @@
                     { "map_id": "140", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "155", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/140.jpg"
+                "icon": "img/fb/140.jpg"
             },
             {
                 "type": 1,
@@ -795,7 +795,7 @@
                     { "map_id": "111", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "116", "mode": "20级5人普通", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/71.jpg"
+                "icon": "img/fb/71.jpg"
             },
             {
                 "type": 1,
@@ -808,7 +808,7 @@
                     { "map_id": "75", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "112", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/75.jpg"
+                "icon": "img/fb/75.jpg"
             },
             {
                 "type": 1,
@@ -821,7 +821,7 @@
                     { "map_id": "106", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "115", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/106.jpg"
+                "icon": "img/fb/106.jpg"
             },
             {
                 "type": 1,
@@ -834,7 +834,7 @@
                     { "map_id": "107", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "114", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/107.jpg"
+                "icon": "img/fb/107.jpg"
             },
             {
                 "type": 1,
@@ -847,7 +847,7 @@
                     { "map_id": "110", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "113", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/110.jpg"
+                "icon": "img/fb/110.jpg"
             },
             {
                 "type": 1,
@@ -860,7 +860,7 @@
                     { "map_id": "123", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "125", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/123.jpg"
+                "icon": "img/fb/123.jpg"
             },
             {
                 "type": 1,
@@ -873,7 +873,7 @@
                     { "map_id": "141", "mode": "5人英雄", "boss_index": 0 },
                     { "map_id": "142", "mode": "5人普通", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/141.jpg"
+                "icon": "img/fb/141.jpg"
             }
         ]
     },
@@ -893,7 +893,7 @@
                     { "map_id": "32", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "46", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/32.jpg"
+                "icon": "img/fb/32.jpg"
             },
             {
                 "type": 2,
@@ -907,7 +907,7 @@
                     { "map_id": "65", "mode": "25人普通", "boss_index": 0 },
                     { "map_id": "66", "mode": "25人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/60.jpg"
+                "icon": "img/fb/60.jpg"
             },
             {
                 "type": 2,
@@ -921,7 +921,7 @@
                     { "map_id": "63", "mode": "25人英雄", "boss_index": 0 },
                     { "map_id": "64", "mode": "25人普通", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/61.jpg"
+                "icon": "img/fb/61.jpg"
             },
             {
                 "type": 2,
@@ -934,7 +934,7 @@
                     { "map_id": "67", "mode": "10人普通", "boss_index": 0 },
                     { "map_id": "73", "mode": "10人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/67.jpg"
+                "icon": "img/fb/67.jpg"
             },
             {
                 "type": 1,
@@ -947,7 +947,7 @@
                     { "map_id": "14", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "45", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/14.jpg"
+                "icon": "img/fb/14.jpg"
             },
             {
                 "type": 1,
@@ -960,7 +960,7 @@
                     { "map_id": "17", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "37", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/17.jpg"
+                "icon": "img/fb/17.jpg"
             },
             {
                 "type": 1,
@@ -973,7 +973,7 @@
                     { "map_id": "18", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "41", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/18.jpg"
+                "icon": "img/fb/18.jpg"
             },
             {
                 "type": 1,
@@ -986,7 +986,7 @@
                     { "map_id": "19", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "43", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/19.jpg"
+                "icon": "img/fb/19.jpg"
             },
             {
                 "type": 1,
@@ -999,7 +999,7 @@
                     { "map_id": "20", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "36", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/20.jpg"
+                "icon": "img/fb/20.jpg"
             },
             {
                 "type": 1,
@@ -1012,7 +1012,7 @@
                     { "map_id": "26", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "40", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/26.jpg"
+                "icon": "img/fb/26.jpg"
             },
             {
                 "type": 1,
@@ -1025,7 +1025,7 @@
                     { "map_id": "28", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "44", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/28.jpg"
+                "icon": "img/fb/28.jpg"
             },
             {
                 "type": 1,
@@ -1038,7 +1038,7 @@
                     { "map_id": "33", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "42", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/33.jpg"
+                "icon": "img/fb/33.jpg"
             },
             {
                 "type": 1,
@@ -1051,7 +1051,7 @@
                     { "map_id": "34", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "47", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/34.jpg"
+                "icon": "img/fb/34.jpg"
             },
             {
                 "type": 1,
@@ -1064,7 +1064,7 @@
                     { "map_id": "51", "mode": "5人普通", "boss_index": 0 },
                     { "map_id": "62", "mode": "5人英雄", "boss_index": 0 }
                 ],
-                "icon": "https://cdn.jx3box.com/img/fb/51.jpg"
+                "icon": "img/fb/51.jpg"
             }
         ]
     }
