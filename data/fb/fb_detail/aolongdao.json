@@ -1,0 +1,60 @@
+{
+    "code": 0,
+    "msg": "success",
+    "tag": "filter-equip",
+    "data": {
+        "info": {
+            "type": 1,
+            "map_id": "406",
+            "name": "敖龙岛",
+            "mode": "10人普通",
+            "introduce": "东海之上，从不乏诡辩莫测无人踏足的海域。在东海三家的典籍中都曾记载过海上有一处灵气汇聚的神秘岛屿“敖龙岛”，亦不乏前去寻找此地之人，只不过归来者寥寥。方乾与三家后人通过当年初代苍天君与东海三家的协定，继而确定了九天宝藏的所在——敖龙岛的位置。并且借助尹家首席术师尹青羲与神算赵涵雅的卜卦，最终确定了敖龙岛就是传说灵气汇聚的东海秘岛，即为龙脉所在。三家齐心协力，献物献技，最终方乾、方子游、尹拓、尹青羲、康宴别、源明雅、赵涵雅、源明玉，等人成功驾驶海船，航行到墟海尽头的敖龙岛。",
+            "backgroup": "",
+            "boss_infos": [
+                {
+                    "index": 664,
+                    "icon": "https://dl.pvp.xoyo.com/prod/icons/",
+                    "name": "铁黎",
+                    "summary": "东海巨鳌岛的岛主，力气巨大，擅用掌法与铁钩。"
+                },
+                {
+                    "index": 665,
+                    "icon": "https://dl.pvp.xoyo.com/prod/icons/",
+                    "name": "陈徽",
+                    "summary": "鬼山会核心成员，善察言观色，武艺高强。"
+                },
+                {
+                    "index": 666,
+                    "icon": "https://dl.pvp.xoyo.com/prod/icons/",
+                    "name": "藤原武裔",
+                    "summary": "自小接受武士的教育，无畏生死，将保护主人的性命当做最高的信仰。"
+                },
+                {
+                    "index": 666,
+                    "icon": "https://dl.pvp.xoyo.com/prod/icons/",
+                    "name": "源思弦",
+                    "summary": "源氏一族的旁支弟子，与生俱来的宿命就是尽心辅佐主家的继承人。"
+                },
+                {
+                    "index": 666,
+                    "icon": "https://dl.pvp.xoyo.com/prod/icons/",
+                    "name": "驺吾",
+                    "summary": "生长于敖龙岛上的灵兽，依托“汇灵池”中的灵气繁衍生息已有千年，也是龙脉的守护者。"
+                },
+                {
+                    "index": 666,
+                    "icon": "https://dl.pvp.xoyo.com/prod/icons/",
+                    "name": "方有崖",
+                    "summary": "初代苍天君，出身于东海蓬莱方家长门一脉，自小天赋异禀、博学多才。"
+                }
+            ],
+            "stategy_infos": [],
+            "maps": [
+                { "map_id": "406", "mode": "10人普通", "boss_index": 0 },
+                { "map_id": "299", "mode": "25人普通", "boss_index": 0 },
+                { "map_id": "299", "mode": "25人英雄", "boss_index": 0 }
+            ]
+        },
+        "cat_id": "aolongdao"
+    }
+}

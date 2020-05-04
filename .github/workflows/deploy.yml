@@ -1,0 +1,19 @@
+name: Github Pages
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: OSS
+        uses: manyuanrong/setup-ossutil@v1.0
+        with:
+          endpoint: "oss-cn-hangzhou.aliyuncs.com"
+          access-key-id: ${{secrets.AccessKey_ID_CDN}}
+          access-key-secret: ${{secrets.Access_Key_Secret_CDN}}
+      - run: ossutil cp -rf data oss://jx3box/data/v2
