@@ -18,4 +18,4 @@ for(let level1 of list){
     }
 }
 
-fs.writeFileSync('./data/fb/fb_list.json',JSON.stringify(_map))
+fs.writeFileSync('./data/fb/fb_map.json',JSON.stringify(_map))
