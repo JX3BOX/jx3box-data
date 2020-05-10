@@ -16,4 +16,4 @@ jobs:
           endpoint: "oss-cn-hangzhou.aliyuncs.com"
           access-key-id: ${{secrets.AccessKey_ID_CDN}}
           access-key-secret: ${{secrets.Access_Key_Secret_CDN}}
-      - run: ossutil cp -rf data oss://jx3box/data/v2
+      - run: ossutil cp -rf data oss://jx3box/data

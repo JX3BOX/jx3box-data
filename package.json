@@ -1,0 +1,23 @@
+{
+  "name": "@jx3box/jx3box-data",
+  "version": "1.0.0",
+  "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JX3BOX/jx3box-data.git"
+  },
+  "keywords": [],
+  "author": "iRuxu <rx6@qq.com> (https://iruxu.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JX3BOX/jx3box-data/issues"
+  },
+  "homepage": "https://github.com/JX3BOX/jx3box-data#readme",
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}
