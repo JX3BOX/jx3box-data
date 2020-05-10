@@ -14,7 +14,7 @@ for(let level1 of list){
         _map[level1['devide_name']]['dungeon'][level2['name']] = level2
         let cat_id = level2['cat_id']
         let data = JSON.parse(fs.readFileSync(`${root}fb_detail/${cat_id}.json`,'utf-8'))
-        level2['detail'] = data
+        level2['detail'] = data['data']['info']
     }
 }
 
