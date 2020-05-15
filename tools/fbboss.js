@@ -14,7 +14,7 @@ fs.writeFileSync('./data/fb/fb_boss.json',JSON.stringify(records))
 
 let arr = []
 for(let record of records){
-    arr.push(record.NpcID)
+    if(record.NpcID) arr.push(parseInt(record.NpcID))
 }
 fs.writeFileSync('./data/fb/fb_boss_ids.json',JSON.stringify(arr))
 
