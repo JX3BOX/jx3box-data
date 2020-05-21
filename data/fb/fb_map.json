@@ -17,12 +17,12 @@
                         "boss_index": 0
                     },
                     {
-                        "map_id": "452",
+                        "map_id": "453",
                         "mode": "25人普通",
                         "boss_index": 0
                     },
                     {
-                        "map_id": "452",
+                        "map_id": "454",
                         "mode": "25人英雄",
                         "boss_index": 0
                     }
@@ -75,12 +75,12 @@
                             "boss_index": 0
                         },
                         {
-                            "map_id": "452",
+                            "map_id": "453",
                             "mode": "25人普通",
                             "boss_index": 0
                         },
                         {
-                            "map_id": "452",
+                            "map_id": "454",
                             "mode": "25人英雄",
                             "boss_index": 0
                         }
@@ -101,12 +101,12 @@
                         "boss_index": 0
                     },
                     {
-                        "map_id": "426",
+                        "map_id": "427",
                         "mode": "25人普通",
                         "boss_index": 0
                     },
                     {
-                        "map_id": "426",
+                        "map_id": "428",
                         "mode": "25人英雄",
                         "boss_index": 0
                     }
@@ -165,12 +165,12 @@
                             "boss_index": 0
                         },
                         {
-                            "map_id": "426",
+                            "map_id": "427",
                             "mode": "25人普通",
                             "boss_index": 0
                         },
                         {
-                            "map_id": "426",
+                            "map_id": "428",
                             "mode": "25人英雄",
                             "boss_index": 0
                         }
@@ -191,7 +191,7 @@
                         "boss_index": 0
                     },
                     {
-                        "map_id": "431",
+                        "map_id": "432",
                         "mode": "5人英雄",
                         "boss_index": 0
                     }
@@ -232,7 +232,7 @@
                             "boss_index": 0
                         },
                         {
-                            "map_id": "431",
+                            "map_id": "432",
                             "mode": "5人英雄",
                             "boss_index": 0
                         }
