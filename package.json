@@ -4,7 +4,8 @@
   "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
   "main": "index.js",
   "scripts": {
-    "bossids": "node ./tools/fbboss.js"
+    "bossids": "node ./tools/fbboss.js",
+    "house": "node ./tools/house.js"
   },
   "repository": {
     "type": "git",
