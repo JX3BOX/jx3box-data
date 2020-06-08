@@ -14,7 +14,9 @@
         { "zone_id": "z21", "server_id": "gate2106" },
         { "zone_id": "z22", "server_id": "gate2204" },
         { "zone_id": "z24", "server_id": "gate2402" },
-        { "zone_id": "z24", "server_id": "gate2407" }
+        { "zone_id": "z24", "server_id": "gate2407" },
+        { "zone_id": "z24", "server_id": "gate2410" },
+        { "zone_id": "z24", "server_id": "gate2409" }
     ],
     "server_dict": {
         "gate0126": "蝶恋花",
@@ -31,6 +33,8 @@
         "gate2106": "破阵子",
         "gate2204": "飞龙在天",
         "gate2402": "青梅煮酒",
-        "gate2407": "凌雪藏锋"
+        "gate2407": "凌雪藏锋",
+        "gate2409":"风月同天",
+        "gate2410": "江湖故人"
     }
 }
