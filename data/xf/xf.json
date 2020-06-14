@@ -84,7 +84,8 @@
         "color":"#E6BC31",
         "id":10003,
         "icon":425,
-        "force":1
+        "force":1,
+        "kungfuId":2
     },
     "洗髓经": {
         "name": "洗髓经",
