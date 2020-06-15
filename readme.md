@@ -13,3 +13,5 @@ const fbmap = __dataPath + 'data/fb/fb_map.json'
 npm install @jx3box/jx3box-data
 const data = require('@jx3box/jx3box-data/<path>')
 ```
+
+.
