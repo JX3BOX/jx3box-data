@@ -1,11 +1,12 @@
 {
   "name": "@jx3box/jx3box-data",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
   "main": "index.js",
   "scripts": {
     "bossids": "node ./tools/fbboss.js",
-    "house": "node ./tools/house.js"
+    "house": "node ./tools/house.js",
+    "face": "node ./tools/facedecal.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,10 @@
   "homepage": "https://github.com/JX3BOX/jx3box-data#readme",
   "devDependencies": {
     "axios": "^0.19.2",
-    "csv-parse": "^4.9.1"
+    "csv-parse": "^4.9.1",
+    "lodash": "^4.17.15"
+  },
+  "dependencies": {
+    "csv": "^5.3.2"
   }
 }
