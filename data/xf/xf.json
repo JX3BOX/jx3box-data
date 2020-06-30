@@ -5,7 +5,8 @@
         "id":10081,
         "icon":888,
         "force":5,
-        "kungfuId":10
+        "kungfuId":10,
+        "school":4
     },
     "云裳心经": {
         "name": "云裳心经",
@@ -13,7 +14,8 @@
         "id":10080,
         "icon":887,
         "force":5,
-        "kungfuId":9
+        "kungfuId":9,
+        "school":4
     },
     "花间游": {
         "name": "花间游",
@@ -21,7 +23,8 @@
         "id":10021,
         "icon":406,
         "force":2,
-        "kungfuId":5
+        "kungfuId":5,
+        "school":2
     },
     "离经易道": {
         "name": "离经易道",
@@ -29,7 +32,8 @@
         "id":10028,
         "icon":412,
         "force":2,
-        "kungfuId":7
+        "kungfuId":7,
+        "school":2
     },
     "毒经": {
         "name": "毒经",
@@ -37,7 +41,8 @@
         "id":10175,
         "icon":2766,
         "force":6,
-        "kungfuId":13
+        "kungfuId":13,
+        "school":9
     },
     "补天诀": {
         "name": "补天诀",
@@ -45,7 +50,8 @@
         "id":10176,
         "icon":2767,
         "force":6,
-        "kungfuId":14
+        "kungfuId":14,
+        "school":9
     },
     "莫问": {
         "name": "莫问",
@@ -53,7 +59,8 @@
         "id":10447,
         "icon":7071,
         "force":22,
-        "kungfuId":22
+        "kungfuId":22,
+        "school":19
     },
     "相知": {
         "name": "相知",
@@ -61,7 +68,8 @@
         "id":10448,
         "icon":7067,
         "force":22,
-        "kungfuId":23
+        "kungfuId":23,
+        "school":19
     },
     "傲血战意": {
         "name": "傲血战意",
@@ -69,7 +77,8 @@
         "id":10026,
         "icon":633,
         "force":3,
-        "kungfuId":6
+        "kungfuId":6,
+        "school":1
     },
     "铁牢律": {
         "name": "铁牢律",
@@ -77,7 +86,8 @@
         "id":10062,
         "icon":632,
         "force":3,
-        "kungfuId":8
+        "kungfuId":8,
+        "school":1
     },
     "易筋经": {
         "name": "易筋经",
@@ -85,7 +95,8 @@
         "id":10003,
         "icon":425,
         "force":1,
-        "kungfuId":2
+        "kungfuId":2,
+        "school":5
     },
     "洗髓经": {
         "name": "洗髓经",
@@ -93,7 +104,8 @@
         "id":10002,
         "icon":429,
         "force":1,
-        "kungfuId":1
+        "kungfuId":1,
+        "school":5
     },
     "焚影圣诀": {
         "name": "焚影圣诀",
@@ -101,7 +113,8 @@
         "id":10242,
         "icon":3865,
         "force":10,
-        "kungfuId":17
+        "kungfuId":17,
+        "school":8
     },
     "明尊琉璃体": {
         "name": "明尊琉璃体",
@@ -109,7 +122,8 @@
         "id":10243,
         "icon":3864,
         "force":10,
-        "kungfuId":18
+        "kungfuId":18,
+        "school":8
     },
     "分山劲": {
         "name": "分山劲",
@@ -117,7 +131,8 @@
         "id":10390,
         "icon":6314,
         "force":21,
-        "kungfuId":21
+        "kungfuId":21,
+        "school":18
     },
     "铁骨衣": {
         "name": "铁骨衣",
@@ -125,7 +140,8 @@
         "id":10389,
         "icon":6315,
         "force":21,
-        "kungfuId":20
+        "kungfuId":20,
+        "school":18
     },
     "紫霞功": {
         "name": "紫霞功",
@@ -133,7 +149,8 @@
         "id":10014,
         "icon":627,
         "force":4,
-        "kungfuId":3
+        "kungfuId":3,
+        "school":3
     },
     "太虚剑意": {
         "name": "太虚剑意",
@@ -141,7 +158,8 @@
         "id":10015,
         "icon":619,
         "force":4,
-        "kungfuId":4
+        "kungfuId":4,
+        "school":3
     },
     "天罗诡道": {
         "name": "天罗诡道",
@@ -149,7 +167,8 @@
         "id":10225,
         "icon":3184,
         "force":7,
-        "kungfuId":16
+        "kungfuId":16,
+        "school":10
     },
     "惊羽诀": {
         "name": "惊羽诀",
@@ -157,7 +176,8 @@
         "id":10224,
         "icon":3165,
         "force":7,
-        "kungfuId":15
+        "kungfuId":15,
+        "school":10
     },
     "问水诀": {
         "name": "问水诀",
@@ -165,7 +185,8 @@
         "id":10144,
         "icon":2376,
         "force":8,
-        "kungfuId":11
+        "kungfuId":11,
+        "school":6
     },
     "笑尘诀": {
         "name": "笑尘诀",
@@ -173,7 +194,8 @@
         "id":10268,
         "icon":4610,
         "force":9,
-        "kungfuId":19
+        "kungfuId":19,
+        "school":7
     },
     "北傲诀": {
         "name": "北傲诀",
@@ -181,7 +203,8 @@
         "id":10464,
         "icon":8424,
         "force":23,
-        "kungfuId":24
+        "kungfuId":24,
+        "school":20
     },
     "凌海诀": {
         "name": "凌海诀",
@@ -189,7 +212,8 @@
         "id":10533,
         "icon":10709,
         "force":24,
-        "kungfuId":25
+        "kungfuId":25,
+        "school":21
     },
     "隐龙诀": {
         "name": "隐龙诀",
@@ -197,7 +221,8 @@
         "id":10585,
         "icon":12128,
         "force":25,
-        "kungfuId":26
+        "kungfuId":26,
+        "school":22
     },
     "通用": {
         "name": "通用",
@@ -205,6 +230,7 @@
         "id":0,
         "icon":2589,
         "force":0,
-        "kungfuId":0
+        "kungfuId":0,
+        "school":0
     }
 }
