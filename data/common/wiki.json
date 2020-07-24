@@ -1,0 +1,15 @@
+{
+    "types": {
+        "bigbang": "大事件",
+        "news": "杂闻",
+        "gossip": "八卦",
+        "celebrity": "名人",
+        "player": "玩家",
+        "organization": "帮会",
+        "team": "团队",
+        "game": "玩法",
+        "plot": "剧情",
+        "video": "视频",
+        "music": "音乐"
+    }
+}
