@@ -1,15 +1,17 @@
 {
     "types": {
-        "bigbang": "大事件",
-        "news": "杂闻",
+        "noun":"名词",
+        "jargon":"术语",
+        "video": "视频",
+        "music": "音乐",
+        "bigbang": "事件",
         "gossip": "八卦",
+        "game": "玩法",
+        "plot": "剧情",
         "celebrity": "名人",
         "player": "玩家",
         "organization": "帮会",
         "team": "团队",
-        "game": "玩法",
-        "plot": "剧情",
-        "video": "视频",
-        "music": "音乐"
+        "other":"其它"
     }
 }
