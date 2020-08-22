@@ -21,9 +21,9 @@ let facedata = {
         'role_type':'萝莉'
     }
 }
-//装饰类型type 0-12
+//装饰类型type 0-19
 _.each(facedata,function (val,key){
-    for(let i=0;i<=12;i++){
+    for(let i=0;i<=19;i++){
         //let type_key = 'type_' + i
         facedata[key][i] = {}
     }
