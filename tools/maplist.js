@@ -13,4 +13,16 @@ const records = parse(data, {
 fs.writeFileSync('./data/common/maplist.json',JSON.stringify(records))
 
 // console.log(records)
+let idmap = []
+records.forEach((item) => {
+    idmap.push({
+        DisplayName : item.DisplayName,
+        ID : ~~item.ID
+    })
+})
+
+// console.log(idmap)
+fs.writeFileSync('./data/common/maplistids.json',JSON.stringify(idmap))
+
+
 
