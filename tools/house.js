@@ -3,31 +3,28 @@ const fs = require("fs");
 
 let data = fs.readFileSync("./raw/house/landinfo.txt");
 let record = parse(data, { delimiter: "\t", quote: null });
-let housedata = []
+let housedata = {
+    '455' : [],
+    '471' : [],
+    '486' : []
+}
 record.forEach((item, i) => {
     let house = {
-        style: {
-            width: 10,
-            height: 10,
-            left: 0,
-            top: 0,
-        },
+        x:0,
+        y:0,
         name: "",
-        link: "#",
         area: 0,
+        price : 0,
     };
     if (i > 1) {
         house.name = item[3] + item[2];
         house.area = parseInt(item[6]);
-        house.style.left = parseInt(item[10]);
-        house.style.top = parseInt(item[11]);
+        house.price = parseInt(item[8]);
+        house.x = parseInt(item[10]);
+        house.y = parseInt(item[11]);
+        let mapid = item[0]
 
-        housedata.push(house)
+        housedata[mapid].push(house)
     }
 });
-let all = {
-    '广陵邑' : []
-}
-all.广陵邑 = housedata
-// console.log(all)
-fs.writeFileSync('./data/house/area.json',JSON.stringify(all))
+fs.writeFileSync('./data/house/area.json',JSON.stringify(housedata))
