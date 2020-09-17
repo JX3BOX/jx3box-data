@@ -15,17 +15,20 @@ fs.writeFileSync('./data/common/maplist.json',JSON.stringify(records))
 // console.log(records)
 let idmap = []
 let mapindex = {}
+let mapids = {}
 records.forEach((item) => {
     idmap.push({
         DisplayName : item.DisplayName,
         ID : ~~item.ID
     })
     mapindex[item.ID] = item.DisplayName
+    mapids[item.DisplayName] = item.ID
 })
 
 // console.log(idmap)
 fs.writeFileSync('./data/common/maplistids.json',JSON.stringify(idmap))
 fs.writeFileSync('./data/common/mapindex.json',JSON.stringify(mapindex))
+fs.writeFileSync('./data/common/mapids.json',JSON.stringify(mapids))
 
 
 
