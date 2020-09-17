@@ -1,17 +1,7 @@
 # Data
 
-## 在线加载
-```javascript 
-const {__dataPath} = require('@jx3box/jx3box-common/js/jx3box')
-const yoururl = __dataPath + '$filepath'
-const fbmap = __dataPath + 'data/fb/fb_map.json'
-//output https://data.jx3box.com/data/fb/fb_map.json
-```
-
-## 本地加载
-```javascript
-npm install @jx3box/jx3box-data
-const data = require('@jx3box/jx3box-data/<path>')
-```
-
-.
+- [ ] fb/fb_map.json中副本介绍文字
+- [ ] xf/school.json中force为推栏id，需要修正衍天宗
+- [ ] server 待补充新开服务器&万宝楼对应编码
+- [ ] house 待补充新开家园地图（七秀坊）
+- [ ] face 待补充新增贴花数据

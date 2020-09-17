@@ -1,14 +1,13 @@
 {
   "name": "@jx3box/jx3box-data",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
   "main": "index.js",
   "scripts": {
-    "bossids": "node ./tools/fbboss.js",
+    "map":"node ./tools/map.js",
+    "fb": "node ./tools/fb.js",
     "house": "node ./tools/house.js",
-    "face": "node ./tools/facedecal.js",
-    "fbdrop": "node ./tools/fbdrop.js",
-    "maplist":"node ./tools/maplist.js"
+    "face": "node ./tools/facedecal.js"
   },
   "repository": {
     "type": "git",

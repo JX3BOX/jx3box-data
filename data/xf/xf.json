@@ -224,6 +224,15 @@
         "kungfuId":26,
         "school":22
     },
+    "太玄经": {
+        "name": "太玄经",
+        "color":"#b9c1ff",
+        "id":10615,
+        "icon":13894,
+        "force":211,
+        "kungfuId":27,
+        "school":23
+    },
     "通用": {
         "name": "通用",
         "color":"#c3c5c1",
