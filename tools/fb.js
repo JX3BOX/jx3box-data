@@ -9,7 +9,7 @@ const records = parse(data, {
     skip_empty_lines: true
 })
 
-fs.writeFileSync('./data/fb/fb_boss.json',JSON.stringify(records))
+// fs.writeFileSync('./data/fb/fb_boss.json',JSON.stringify(records))
 
 
 let arr = []
