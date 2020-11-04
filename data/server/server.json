@@ -13,7 +13,9 @@
         { "zone_id": "z21", "server_id": "gate2107", "language": "zhcn" },
         { "zone_id": "z21", "server_id": "gate2106", "language": "zhcn" },
         { "zone_id": "z22", "server_id": "gate2204", "language": "zhcn" },
-        { "zone_id": "z24", "server_id": "gate2402", "language": "zhcn" }
+        { "zone_id": "z24", "server_id": "gate2402", "language": "zhcn" },
+        { "zone_id": "z05", "server_id": "gate0530", "language": "zhcn" },
+        { "zone_id": "z24", "server_id": "gate2411", "language": "zhcn" }
     ],
     "server_dict": {
         "gate0126": "蝶恋花",
@@ -29,7 +31,9 @@
         "gate2107": "天鹅坪",
         "gate2106": "破阵子",
         "gate2204": "飞龙在天",
-        "gate2402": "青梅煮酒"
+        "gate2402": "青梅煮酒",
+        "gate0530": "执子之手",
+        "gate2411": "奉天证道"
     },
     "zone_dict": {
         "z01": "电信一区",
