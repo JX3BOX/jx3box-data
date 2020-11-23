@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: OSS
-        uses: manyuanrong/setup-ossutil@v1.0
+        uses: manyuanrong/setup-ossutil@v2.0
         with:
           endpoint: "oss-cn-hangzhou.aliyuncs.com"
           access-key-id: ${{secrets.AccessKey_ID_CDN}}
