@@ -1,32 +1,32 @@
 [
     {
         "name": "default",
-        "files": [
-            {
-                "name": "xs",
+        "files": {
+            "xs": {
                 "w": 48,
-                "width": 60
+                "width": 60,
+                "file": "default-xs.gif"
             },
-            {
-                "name": "s",
+            "s": {
                 "w": 68,
-                "width": 84
+                "width": 84,
+                "file": "default-s.gif"
             },
-            {
-                "name": "m",
+            "m": {
                 "w": 108,
-                "width": 136
+                "width": 136,
+                "file": "default-m.png"
             },
-            {
-                "name": "l",
+            "l": {
                 "w": 180,
-                "width": 224
+                "width": 224,
+                "file": "default-l.png"
             },
-            {
-                "name": "xl",
+            "xl": {
                 "w": 240,
-                "width": 300
+                "width": 300,
+                "file": "default-xl.png"
             }
-        ]
+        }
     }
 ]
