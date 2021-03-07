@@ -1,6 +1,6 @@
 {
   "name": "@jx3box/jx3box-data",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
   "main": "index.js",
   "scripts": {

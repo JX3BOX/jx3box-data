@@ -1,0 +1,32 @@
+[
+    {
+        "name": "default",
+        "files": [
+            {
+                "name": "xs",
+                "w": 48,
+                "width": 60
+            },
+            {
+                "name": "s",
+                "w": 68,
+                "width": 84
+            },
+            {
+                "name": "m",
+                "w": 108,
+                "width": 136
+            },
+            {
+                "name": "l",
+                "w": 180,
+                "width": 224
+            },
+            {
+                "name": "xl",
+                "w": 240,
+                "width": 300
+            }
+        ]
+    }
+]
