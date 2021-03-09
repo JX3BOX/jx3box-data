@@ -1,0 +1,42 @@
+[
+    {
+        "zoneName": "國際服",
+        "serverName": "共結來緣",
+        "ipAddress": "103.98.19.140",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "共結來緣"
+    },
+    {
+        "zoneName": "國際服",
+        "serverName": "傲血戰意",
+        "ipAddress": "103.98.19.138",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "傲血戰意"
+    },
+    {
+        "zoneName": "國際服",
+        "serverName": "巔峰再起",
+        "ipAddress": "103.98.19.139",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "巔峰再起"
+    },
+    {
+        "zoneName": "國際服",
+        "serverName": "江海雲夢",
+        "ipAddress": "103.98.19.136",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "江海雲夢"
+    },
+    {
+        "zoneName": "WeGame",
+        "serverName": "WeGame",
+        "ipAddress": "120.92.176.215",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "WeGame"
+    }
+]
