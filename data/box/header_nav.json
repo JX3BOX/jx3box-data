@@ -106,13 +106,8 @@
         "key": "bbs",
         "children": [
             {
-                "label": "捏脸分享",
-                "link": "/share",
-                "status": 1,
-                "key": "share"
-            },
-            {
-                "label": "铭牌（剑网3.com）",
+                "label": "铭牌",
+                "desc":"（剑网3.com）",
                 "link": "/bbs/#namespace",
                 "status": 1,
                 "key": "namespace"
@@ -134,6 +129,12 @@
                 "link": "/bbs/#/forum",
                 "status": 1,
                 "key": "forum"
+            },
+            {
+                "label": "捏脸分享",
+                "link": "/share",
+                "status": 1,
+                "key": "share"
             }
         ]
     },
