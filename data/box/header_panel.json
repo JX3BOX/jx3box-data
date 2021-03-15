@@ -1,0 +1,18 @@
+[
+    {
+        "label": "个人中心",
+        "link": "/dashboard"
+    },
+    {
+        "label": "作品管理",
+        "link": "/dashboard/#/work"
+    },
+    {
+        "label": "角色管理",
+        "link": "/team/role/manage"
+    },
+    {
+        "label": "团队管理",
+        "link": "/team/org/manage/"
+    }
+]
