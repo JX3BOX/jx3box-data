@@ -3,37 +3,109 @@
         "label": "首页",
         "link": "/index",
         "status": 1,
-        "key": "index"
+        "key": "index",
+        "hasChildren": false
     },
     {
         "label": "宏库",
         "link": "/macro",
         "status": 1,
-        "key": "macro"
+        "key": "macro",
+        "hasChildren": false
     },
     {
         "label": "插件",
         "link": "/jx3dat",
         "status": 1,
-        "key": "jx3dat"
+        "key": "jx3dat",
+        "hasChildren": false,
+        "children": [
+            {
+                "label": "插件数据",
+                "link": "/jx3dat",
+                "status": 1,
+                "key": "plugins"
+            },
+            {
+                "label": "在线构建",
+                "link": "/dbm",
+                "status": 1,
+                "key": "dbm"
+            }
+        ]
     },
     {
         "label": "副本",
         "link": "/fb",
         "status": 1,
-        "key": "fb"
+        "key": "fb",
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "副本攻略",
+                "link": "/fb/#/",
+                "status": 1,
+                "key": "fb_post"
+            },
+            {
+                "label": "首领数据",
+                "link": "/fb/#/npc",
+                "status": 1,
+                "key": "fb_npc"
+            },
+            {
+                "label": "机制数据",
+                "link": "/fb/#/skill",
+                "status": 1,
+                "key": "fb_skill"
+            },
+            {
+                "label": "掉落奖励",
+                "link": "/fb/#/drop",
+                "status": 1,
+                "key": "fb_drop"
+            },
+            {
+                "label": "瑰石一览",
+                "link": "/fb/#/gem",
+                "status": 1,
+                "key": "fb_gem"
+            }
+        ]
     },
     {
         "label": "职业",
         "link": "/bps",
         "status": 1,
-        "key": "bps"
+        "key": "bps",
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "门派攻略",
+                "link": "/bps/#/",
+                "status": 1,
+                "key": "bps_post"
+            },
+            {
+                "label": "DPS排行榜",
+                "link": "/dps",
+                "status": 0,
+                "key": "dps_rank"
+            },
+            {
+                "label": "DPS模拟器",
+                "link": "/app/dps",
+                "status": 1,
+                "key": "dps_calc"
+            }
+        ]
     },
     {
         "label": "百科",
         "link": "/cj",
         "status": 1,
         "key": "wiki",
+        "hasChildren": true,
         "children": [
             {
                 "label": "成就百科",
@@ -66,6 +138,7 @@
         "link": "/tool",
         "status": 1,
         "key": "tool",
+        "hasChildren": true,
         "children": [
             {
                 "label": "团队平台",
@@ -74,16 +147,16 @@
                 "key": "team"
             },
             {
-                "label": "剑三数据库",
-                "link": "/app/database",
-                "status": 1,
-                "key": "database"
-            },
-            {
                 "label": "魔盒助手",
                 "link": "/assistant",
                 "status": 0,
                 "key": "assistant"
+            },
+            {
+                "label": "剑三数据库",
+                "link": "/app/database",
+                "status": 1,
+                "key": "database"
             },
             {
                 "label": "教程指南",
@@ -104,10 +177,11 @@
         "link": "/bbs",
         "status": 1,
         "key": "bbs",
+        "hasChildren": true,
         "children": [
             {
                 "label": "铭牌",
-                "desc":"（剑网3.com）",
+                "desc": "（剑网3.com）",
                 "link": "/bbs/#namespace",
                 "status": 1,
                 "key": "namespace"
@@ -143,23 +217,24 @@
         "link": "/trade",
         "status": 0,
         "key": "trade",
+        "hasChildren": true,
         "children": [
             {
-                "label": "在线交易行",
+                "label": "全服交易行",
                 "link": "/trade/#item",
-                "status": 0,
+                "status": 1,
                 "key": "bourse"
             },
             {
-                "label": "外观交易",
+                "label": "不绑定交易",
                 "link": "/trade/#jewelry",
-                "status": 0,
+                "status": 1,
                 "key": "jewelry"
             },
             {
                 "label": "角色交易",
                 "link": "/trade/#cosrole",
-                "status": 0,
+                "status": 1,
                 "key": "cosrole"
             }
         ]
@@ -168,6 +243,7 @@
         "label": "商城",
         "link": "/mall",
         "status": 0,
-        "key": "mall"
+        "key": "mall",
+        "hasChildren": false
     }
 ]
