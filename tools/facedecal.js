@@ -41,7 +41,7 @@ const records = parse(data, {
 }).slice(1)
 
 for(let record of records){
-    console.log(record)
+    // console.log(record)
 
     let role_type = record.RoleType,     //体型
         type = record.Type,          //装饰类型

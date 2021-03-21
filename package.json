@@ -7,7 +7,8 @@
     "map":"node ./tools/map.js",
     "fb": "node ./tools/fb.js",
     "house": "node ./tools/house.js",
-    "face": "node ./tools/facedecal.js"
+    "face": "node ./tools/facedecal.js",
+    "build":"npm run map && npm run fb && npm run face"
   },
   "repository": {
     "type": "git",

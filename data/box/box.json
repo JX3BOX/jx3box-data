@@ -347,6 +347,18 @@
         "mark": "HOT",
         "status": true
     },
+    "namespace": {
+        "uuid": "namespace",
+        "href": "/bbs/#namespace",
+        "img": "/box/namespace.svg",
+        "hover": "/box/namespace.svg",
+        "name": "剑三铭牌",
+        "abbr": "铭牌",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "j3pz": {
         "uuid": "j3pz",
         "href": "https://www.j3pz.com/",

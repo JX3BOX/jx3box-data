@@ -1,14 +1,10 @@
 # Data
 
-```
-#跨域设置
-location / {  
-    add_header Access-Control-Allow-Origin *;
-    add_header Access-Control-Allow-Methods 'GET, POST, OPTIONS';
-    add_header Access-Control-Allow-Headers 'DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Authorization';
+## 更新
++ /raw/common/MapList.tab => /data/common/maplist.json
++ /raw/fb/dungeonnpc.txt => /data/fb/fb_boss_ids.json
 
-    if ($request_method = 'OPTIONS') {
-        return 204;
-    }
-} 
+## Build
+```
+$ npm run build
 ```
