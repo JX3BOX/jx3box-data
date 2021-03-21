@@ -182,19 +182,19 @@
             {
                 "label": "铭牌",
                 "desc": "（剑网3.com）",
-                "link": "/bbs/#namespace",
+                "link": "/bbs/#/namespace",
                 "status": 1,
                 "key": "namespace"
             },
             {
                 "label": "剑三骚话",
-                "link": "/bbs/#joke",
+                "link": "/bbs/#/joke",
                 "status": 0,
                 "key": "joke"
             },
             {
                 "label": "剑三表情",
-                "link": "/bbs/#emotion",
+                "link": "/bbs/#/emotion",
                 "status": 0,
                 "key": "emotion"
             },
