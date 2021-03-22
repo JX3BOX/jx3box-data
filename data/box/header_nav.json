@@ -48,6 +48,12 @@
                 "key": "fb_post"
             },
             {
+                "label": "秘境百强",
+                "link": "/rank",
+                "status": 1,
+                "key": "fb_rank"
+            },
+            {
                 "label": "首领数据",
                 "link": "/fb/#/npc",
                 "status": 1,
