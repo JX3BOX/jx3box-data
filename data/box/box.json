@@ -258,9 +258,9 @@
         "hover": "/box/rank.svg",
         "name": "秘境百强",
         "abbr": "百强榜",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
+        "hasMark": true,
+        "markcls": "ishot",
+        "mark": "HOT",
         "status": true
     },
     "dbm": {
