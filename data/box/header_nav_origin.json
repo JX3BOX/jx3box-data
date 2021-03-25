@@ -15,9 +15,9 @@
     },
     {
         "label": "插件",
-        "link": "/plugins",
+        "link": "/plugin",
         "status": 1,
-        "key": "plugins",
+        "key": "plugin",
         "hasChildren": false
     },
     {
