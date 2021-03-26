@@ -119,6 +119,18 @@
         "mark": "HOT",
         "status": true
     },
+    "share": {
+        "uuid": "share",
+        "href": "/share",
+        "img": "/box/share.svg",
+        "hover": "/box/share.svg",
+        "name": "捏脸分享",
+        "abbr": "捏脸",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
     "database": {
         "uuid": "database",
         "href": "/app/database",
@@ -333,18 +345,6 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
-    },
-    "share": {
-        "uuid": "share",
-        "href": "/share",
-        "img": "/box/share.svg",
-        "hover": "/box/share.svg",
-        "name": "捏脸分享",
-        "abbr": "捏脸",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
         "status": true
     },
     "namespace": {

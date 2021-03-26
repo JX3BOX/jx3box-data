@@ -15,7 +15,7 @@
     },
     {
         "label": "插件",
-        "link": "/plugin",
+        "link": "/tool/?subtype=5",
         "status": 1,
         "key": "plugin",
         "hasChildren": false

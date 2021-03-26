@@ -11,14 +11,14 @@
         "mark": "HOT",
         "status": true
     },
-    "jx3dat": {
-        "uuid": "jx3dat",
-        "href": "/jx3dat",
+    "plugin": {
+        "uuid": "plugin",
+        "href": "/tool/?subtype=5",
         "img": "/box/jx3dat.svg",
         "hover": "/box/jx3dat.svg",
         "name": "插件数据",
         "abbr": "插件",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -30,7 +30,7 @@
         "hover": "/box/fb.svg",
         "name": "副本专栏",
         "abbr": "副本",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -42,7 +42,7 @@
         "hover": "/box/bps.svg",
         "name": "职业专栏",
         "abbr": "职业",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -54,7 +54,7 @@
         "hover": "/box/cj.svg",
         "name": "成就百科",
         "abbr": "成就",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -66,7 +66,7 @@
         "hover": "/box/item.svg",
         "name": "物品百科",
         "abbr": "物品",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -119,6 +119,18 @@
         "mark": "HOT",
         "status": true
     },
+    "share": {
+        "uuid": "share",
+        "href": "/share",
+        "img": "/box/share.svg",
+        "hover": "/box/share.svg",
+        "name": "捏脸分享",
+        "abbr": "捏脸",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
     "database": {
         "uuid": "database",
         "href": "/app/database",
@@ -131,14 +143,14 @@
         "mark": "HOT",
         "status": true
     },
-    "talent": {
-        "uuid": "talent",
-        "href": "/app/talent",
-        "img": "/box/talent.svg",
-        "hover": "/box/talent.svg",
-        "name": "奇穴模拟",
-        "abbr": "奇穴",
-        "hasMark": false,
+    "database": {
+        "uuid": "database",
+        "href": "/app/database",
+        "img": "/box/database.svg",
+        "hover": "/box/database.svg",
+        "name": "数据库",
+        "abbr": "数据库",
+        "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -189,7 +201,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": false
     },
     "price": {
         "uuid": "price",
@@ -201,7 +213,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": false
     },
     "facedata": {
         "uuid": "facedata",
@@ -213,30 +225,18 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": false
     },
-    "furniture": {
-        "uuid": "furniture",
-        "href": "/app/furniture",
-        "img": "/box/furniture.svg",
-        "hover": "/box/furniture.svg",
-        "name": "家具大全",
-        "abbr": "家具",
+    "keju": {
+        "uuid": "keju",
+        "href": "https://j3cx.com/exam/",
+        "img": "/box/keju.svg",
+        "hover": "/box/keju.svg",
+        "name": "科举题库",
+        "abbr": "科举",
         "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "flower": {
-        "uuid": "flower",
-        "href": "/app/flower",
-        "img": "/box/flower.svg",
-        "hover": "/box/flower.svg",
-        "name": "实时花价",
-        "abbr": "实时花价",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "team": {
@@ -250,30 +250,6 @@
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
-    },
-    "rank": {
-        "uuid": "rank",
-        "href": "/rank",
-        "img": "/box/rank.svg",
-        "hover": "/box/rank.svg",
-        "name": "秘境百强",
-        "abbr": "百强榜",
-        "hasMark": true,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "dbm": {
-        "uuid": "dbm",
-        "href": "/dbm",
-        "img": "/box/dbm.svg",
-        "hover": "/box/dbm.svg",
-        "name": "数据构建",
-        "abbr": "云数据",
-        "hasMark": false,
-        "markcls": "isdoing",
-        "mark": "ING",
-        "status": false
     },
     "fbdata": {
         "uuid": "fbdata",
@@ -297,31 +273,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
-    },
-    "fbgem": {
-        "uuid": "fbgem",
-        "href": "/fb/#/gem",
-        "img": "/box/fbgem.svg",
-        "hover": "/box/fbgem.svg",
-        "name": "瑰石查询",
-        "abbr": "瑰石",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "exam": {
-        "uuid": "exam",
-        "href": "/exam",
-        "img": "/box/exam.svg",
-        "hover": "/box/exam.svg",
-        "name": "趣味题库",
-        "abbr": "题库",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
+        "status": false
     },
     "collection": {
         "uuid": "collection",
@@ -335,18 +287,6 @@
         "mark": "NEW",
         "status": true
     },
-    "share": {
-        "uuid": "share",
-        "href": "/share",
-        "img": "/box/share.svg",
-        "hover": "/box/share.svg",
-        "name": "捏脸分享",
-        "abbr": "捏脸",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
     "namespace": {
         "uuid": "namespace",
         "href": "/bbs/#/namespace",
@@ -355,103 +295,6 @@
         "name": "剑三铭牌",
         "abbr": "铭牌",
         "hasMark": true,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "j3pz": {
-        "uuid": "j3pz",
-        "href": "https://www.j3pz.com/",
-        "img": "/box/j3pz.svg",
-        "hover": "/box/j3pz.svg",
-        "name": "在线配装",
-        "abbr": "配装",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true,
-        "skip":true
-    },
-    "haste": {
-        "uuid": "haste",
-        "href": "https://www.j3pz.com/tools/haste/",
-        "img": "/box/haste.svg",
-        "hover": "/box/haste.svg",
-        "name": "急速阈值",
-        "abbr": "急速",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "xls": {
-        "uuid": "xls",
-        "href": "https://www.jx3box.com/app/dps",
-        "img": "/box/xls.svg",
-        "hover": "/box/xls.svg",
-        "name": "DPS模拟",
-        "abbr": "DPS",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "j3dps": {
-        "uuid": "j3dps",
-        "href": "https://j3dps.com/fightlog",
-        "img": "/box/j3dps.svg",
-        "hover": "/box/j3dps.svg",
-        "name": "战斗复盘",
-        "abbr": "复盘",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "keju": {
-        "uuid": "keju",
-        "href": "https://j3cx.com/exam/",
-        "img": "/box/keju.svg",
-        "hover": "/box/keju.svg",
-        "name": "科举题库",
-        "abbr": "科举",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "qiyu": {
-        "uuid": "qiyu",
-        "href": "https://j3cx.com/serendipity",
-        "img": "/box/qiyu.svg",
-        "hover": "/box/qiyu.svg",
-        "name": "奇遇查询",
-        "abbr": "奇遇",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "house": {
-        "uuid": "house",
-        "href": "https://jx3.xoyo.com/zt/2020/09/24/blueprint/#/",
-        "img": "/box/house.svg",
-        "hover": "/box/house.svg",
-        "name": "家园蓝图",
-        "abbr": "蓝图",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "wbl": {
-        "uuid": "wbl",
-        "href": "https://jx3.seasunwbl.com",
-        "img": "/box/wbl.png",
-        "hover": "/box/wbl.png",
-        "name": "万宝楼",
-        "abbr": "万宝楼",
-        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
