@@ -95,6 +95,18 @@
         "mark": "NEW",
         "status": true
     },
+    "pet": {
+        "uuid": "pet",
+        "href": "/knowledge/#/pet",
+        "img": "/box/pet.svg",
+        "hover": "/box/pet.svg",
+        "name": "宠物百科",
+        "abbr": "宠物",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "tool": {
         "uuid": "tool",
         "href": "/tool",

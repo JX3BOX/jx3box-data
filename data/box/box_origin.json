@@ -95,6 +95,18 @@
         "mark": "NEW",
         "status": true
     },
+    "pet": {
+        "uuid": "pet",
+        "href": "/knowledge/#/pet",
+        "img": "/box/pet.svg",
+        "hover": "/box/pet.svg",
+        "name": "宠物百科",
+        "abbr": "宠物",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "tool": {
         "uuid": "tool",
         "href": "/tool",
@@ -127,18 +139,6 @@
         "name": "捏脸分享",
         "abbr": "捏脸",
         "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "database": {
-        "uuid": "database",
-        "href": "/app/database",
-        "img": "/box/database.svg",
-        "hover": "/box/database.svg",
-        "name": "数据库",
-        "abbr": "数据库",
-        "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -201,7 +201,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": false
+        "status": true
     },
     "price": {
         "uuid": "price",
@@ -213,7 +213,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": false
+        "status": true
     },
     "facedata": {
         "uuid": "facedata",
@@ -225,7 +225,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": false
+        "status": true
     },
     "keju": {
         "uuid": "keju",
@@ -273,7 +273,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": false
+        "status": true
     },
     "collection": {
         "uuid": "collection",
@@ -294,7 +294,7 @@
         "hover": "/box/namespace.svg",
         "name": "剑三铭牌",
         "abbr": "铭牌",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true

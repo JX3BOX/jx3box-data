@@ -93,7 +93,7 @@
                 "key": "bps_post"
             },
             {
-                "label": "DPS排行榜",
+                "label": "DPS天梯榜",
                 "link": "/dps",
                 "status": 0,
                 "key": "dps_rank"
@@ -136,6 +136,12 @@
                 "link": "/knowledge",
                 "status": 1,
                 "key": "knowledge"
+            },
+            {
+                "label": "宠物百科",
+                "link": "/knowledge/#/pet",
+                "status": 1,
+                "key": "pet"
             }
         ]
     },
@@ -217,39 +223,5 @@
                 "key": "share"
             }
         ]
-    },
-    {
-        "label": "交易",
-        "link": "/trade",
-        "status": 0,
-        "key": "trade",
-        "hasChildren": true,
-        "children": [
-            {
-                "label": "全服交易行",
-                "link": "/trade/#item",
-                "status": 1,
-                "key": "bourse"
-            },
-            {
-                "label": "不绑定交易",
-                "link": "/trade/#jewelry",
-                "status": 1,
-                "key": "jewelry"
-            },
-            {
-                "label": "角色交易",
-                "link": "/trade/#cosrole",
-                "status": 1,
-                "key": "cosrole"
-            }
-        ]
-    },
-    {
-        "label": "商城",
-        "link": "/mall",
-        "status": 0,
-        "key": "mall",
-        "hasChildren": false
     }
 ]

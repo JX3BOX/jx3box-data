@@ -96,6 +96,12 @@
                 "link": "/knowledge",
                 "status": 1,
                 "key": "knowledge"
+            },
+            {
+                "label": "宠物百科",
+                "link": "/knowledge/#/pet",
+                "status": 1,
+                "key": "pet"
             }
         ]
     },
