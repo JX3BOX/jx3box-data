@@ -4,8 +4,8 @@
         "link": "/dashboard"
     },
     {
-        "label": "作品管理",
-        "link": "/dashboard/#/work"
+        "label": "创作中心",
+        "link": "/publish"
     },
     {
         "label": "角色管理",
