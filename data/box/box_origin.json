@@ -11,18 +11,6 @@
         "mark": "HOT",
         "status": true
     },
-    "plugin": {
-        "uuid": "plugin",
-        "href": "/tool/?subtype=5",
-        "img": "/box/jx3dat.svg",
-        "hover": "/box/jx3dat.svg",
-        "name": "插件数据",
-        "abbr": "插件",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
     "fb": {
         "uuid": "fb",
         "href": "/fb",
@@ -105,7 +93,7 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": false
     },
     "tool": {
         "uuid": "tool",

@@ -192,13 +192,6 @@
         "hasChildren": true,
         "children": [
             {
-                "label": "铭牌",
-                "desc": "（剑网3.com）",
-                "link": "/bbs/#/namespace",
-                "status": 1,
-                "key": "namespace"
-            },
-            {
                 "label": "剑三骚话",
                 "link": "/bbs/#/joke",
                 "status": 0,
@@ -221,6 +214,13 @@
                 "link": "/share",
                 "status": 1,
                 "key": "share"
+            },
+            {
+                "label": "铭牌",
+                "desc": "（剑网3.com）",
+                "link": "/bbs/#/namespace",
+                "status": 1,
+                "key": "namespace"
             }
         ]
     }
