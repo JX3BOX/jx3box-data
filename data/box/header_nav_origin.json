@@ -14,6 +14,27 @@
         "hasChildren": false
     },
     {
+        "label": "插件",
+        "link": "/jx3dat",
+        "status": 1,
+        "key": "jx3dat",
+        "hasChildren": false,
+        "children": [
+            {
+                "label": "插件数据",
+                "link": "/jx3dat",
+                "status": 1,
+                "key": "plugins"
+            },
+            {
+                "label": "在线构建",
+                "link": "/dbm",
+                "status": 1,
+                "key": "dbm"
+            }
+        ]
+    },
+    {
         "label": "副本",
         "link": "/fb",
         "status": 1,

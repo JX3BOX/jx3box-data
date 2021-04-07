@@ -11,6 +11,18 @@
         "mark": "HOT",
         "status": true
     },
+    "jx3dat": {
+        "uuid": "jx3dat",
+        "href": "/jx3dat",
+        "img": "/box/jx3dat.svg",
+        "hover": "/box/jx3dat.svg",
+        "name": "插件数据",
+        "abbr": "插件",
+        "hasMark": true,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
     "fb": {
         "uuid": "fb",
         "href": "/fb",
@@ -66,10 +78,10 @@
         "hover": "/box/quest.svg",
         "name": "任务百科",
         "abbr": "任务",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": false
+        "status": true
     },
     "knowledge": {
         "uuid": "knowledge",
@@ -93,7 +105,7 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": false
+        "status": true
     },
     "tool": {
         "uuid": "tool",

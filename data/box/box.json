@@ -78,10 +78,10 @@
         "hover": "/box/quest.svg",
         "name": "任务百科",
         "abbr": "任务",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": false
+        "status": true
     },
     "knowledge": {
         "uuid": "knowledge",
