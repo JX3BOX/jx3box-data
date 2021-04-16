@@ -1,0 +1,519 @@
+{
+    "IdKey": {
+        "desc": "无",
+        "adv": false
+    },
+    "SkillID": {
+        "desc": "ID",
+        "adv": false,
+        "basic": true
+    },
+    "Level": {
+        "desc": "等级",
+        "adv": false,
+        "basic": true
+    },
+    "IconID": {
+        "desc": "图标ID",
+        "adv": false,
+        "basic": true
+    },
+    "Show": {
+        "desc": "",
+        "adv": true
+    },
+    "CombatShow": {
+        "desc": "",
+        "adv": true
+    },
+    "Formation": {
+        "desc": "阵法",
+        "adv": true
+    },
+    "FormationCaster": {
+        "desc": "阵眼",
+        "adv": true
+    },
+    "PracticeID": {
+        "desc": "",
+        "adv": true
+    },
+    "SortOrder": {
+        "desc": "",
+        "adv": true
+    },
+    "Remark": {
+        "desc": "备注",
+        "adv": true
+    },
+    "Name": {
+        "desc": "名称",
+        "adv": true
+    },
+    "Desc": {
+        "desc": "",
+        "adv": false,
+        "basic": true
+    },
+    "ShortDesc": {
+        "desc": "简要描述",
+        "adv": false,
+        "basic": true
+    },
+    "SpecialDesc": {
+        "desc": "特殊描述",
+        "adv": false,
+        "basic": true
+    },
+    "KungfuDesc": {
+        "desc": "武学描述",
+        "adv": false,
+        "basic": true
+    },
+    "HelpDesc": {
+        "desc": "其它描述",
+        "adv": false,
+        "basic": true
+    },
+    "IsShowInNewSkill": {
+        "desc": "新技能提示",
+        "adv": true
+    },
+    "CanDrag": {
+        "desc": "可拖拽",
+        "adv": true
+    },
+    "SkillRelyOnShow": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRelyOnNotShow": {
+        "desc": "",
+        "adv": true
+    },
+    "IsShowNotLearn": {
+        "desc": "未习得时显示",
+        "adv": true
+    },
+    "IsHotkeyExitWhenForget": {
+        "desc": "",
+        "adv": true
+    },
+    "Buff": {
+        "desc": "",
+        "adv": true
+    },
+    "Debuff": {
+        "desc": "",
+        "adv": true
+    },
+    "BlackList": {
+        "desc": "黑名单过滤",
+        "adv": true
+    },
+    "SimpleDesc": {
+        "desc": "独立描述",
+        "adv": false,
+        "basic": true
+    },
+    "AutoSelectTarget": {
+        "desc": "自动寻找目标",
+        "adv": true
+    },
+    "Decoration": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillName": {
+        "desc": "名称",
+        "adv": false,
+        "basic": true
+    },
+    "Design_Belong": {
+        "desc": "",
+        "adv": true
+    },
+    "Design_Effect": {
+        "desc": "生效方式",
+        "adv": false
+    },
+    "MaxLevel": {
+        "desc": "最高等级",
+        "adv": false
+    },
+    "KindType": {
+        "desc": "类型",
+        "adv": false,
+        "detail": "区分物理或魔法等"
+    },
+    "FunctionType": {
+        "desc": "功能",
+        "adv": false,
+        "detail": "区分眩晕或伤害等"
+    },
+    "UIType": {
+        "desc": "UI类型",
+        "adv": true
+    },
+    "BelongKungfu": {
+        "desc": "所属套路",
+        "adv": false
+    },
+    "BelongSchool": {
+        "desc": "所属门派",
+        "adv": false
+    },
+    "CastMode": {
+        "desc": "释放模式",
+        "adv": false,
+        "detail": "范围或指定目标等"
+    },
+    "WeaponRequest": {
+        "desc": "需要武器",
+        "adv": false
+    },
+    "IsCostAmmo": {
+        "desc": "需要弹药",
+        "adv": false
+    },
+    "CostItemType": {
+        "desc": "消耗弹药类型",
+        "adv": false
+    },
+    "CostItemIndex": {
+        "desc": "消耗弹药数量",
+        "adv": false
+    },
+    "MountRequestType": {
+        "desc": "心法需求类型",
+        "adv": true
+    },
+    "MountRequestDetail": {
+        "desc": "心法需求详情",
+        "adv": true
+    },
+    "MountType": {
+        "desc": "心法类型",
+        "adv": true
+    },
+    "IsMountAble": {
+        "desc": "是否为心法特有",
+        "adv": true
+    },
+    "IsPassiveSkill": {
+        "desc": "是否被动技能",
+        "adv": false
+    },
+    "IsChannelSkill": {
+        "desc": "是否为通道/引导技能",
+        "adv": false
+    },
+    "IsExpSkill": {
+        "desc": "是否为经验技能",
+        "adv": true
+    },
+
+    "IsExactHit": {
+        "desc": "必定命中",
+        "adv": true
+    },
+    "IsInstinct": {
+        "desc": "",
+        "adv": true
+    },
+    "IsAutoTurn": {
+        "desc": "",
+        "adv": true
+    },
+    "CauseAbradeEquipment": {
+        "desc": "消耗武器耐久",
+        "adv": false
+    },
+    "CauseBeatBreak": {
+        "desc": "可导致打断",
+        "adv": false
+    },
+    "CauseBeatBack": {
+        "desc": "可导致打退",
+        "adv": false
+    },
+    "hasCriticalStrike": {
+        "desc": "可会心",
+        "adv": true
+    },
+
+    "SkillEventMask1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillEventMask2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillCastFlag": {
+        "desc": "",
+        "adv": true
+    },
+    "UseCastScript": {
+        "desc": "使用释放脚本",
+        "adv": true
+    },
+    "Use3DObstacle": {
+        "desc": "是否受障碍影响",
+        "adv": true
+    },
+
+    "CheckReachable": {
+        "desc": "检查是否可够到",
+        "adv": true
+    },
+    "IgnorePositiveShield": {
+        "desc": "无视「免疫增益效果」",
+        "adv": true
+    },
+    "IgnoreNegativeShield": {
+        "desc": "无视「免疫减益效果」",
+        "adv": true
+    },
+    "NeedOutOfFight": {
+        "desc": "需要脱战",
+        "adv": true
+    },
+    "SelfOnFear": {
+        "desc": "自身在恐惧状态",
+        "adv": true
+    },
+    "SelfHorseStateRequest": {
+        "desc": "需要上马",
+        "adv": true
+    },
+
+    "TargetTypePlayer": {
+        "desc": "作用玩家",
+        "adv": true
+    },
+    "TargetTypeNpc": {
+        "desc": "作用NPC",
+        "adv": true
+    },
+    "TargetRelationNone": {
+        "desc": "作用空目标",
+        "adv": true
+    },
+    "TargetRelationSelf": {
+        "desc": "作用自己",
+        "adv": true
+    },
+    "TargetRelationAlly": {
+        "desc": "作用队友",
+        "adv": true
+    },
+    "TargetRelationEnemy": {
+        "desc": "作用敌对",
+        "adv": true
+    },
+    "TargetRelationDialog": {
+        "desc": "作用对话框",
+        "adv": true
+    },
+    "TargetRelationNeutrality": {
+        "desc": "作用中立",
+        "adv": true
+    },
+    "TargetRelationParty": {
+        "desc": "作用小队",
+        "adv": true
+    },
+    "TargetRelationRaid": {
+        "desc": "作用团队",
+        "adv": true
+    },
+    "TargetHorseStateRequest": {
+        "desc": "目标需要上马",
+        "adv": true
+    },
+    "TargetOnFear": {
+        "desc": "目标需要恐惧",
+        "adv": true
+    },
+    "NPCWeaponType": {
+        "desc": "NPC武器类型",
+        "adv": true
+    },
+    "CommonSkillActiveMode": {
+        "desc": "主动激活类型",
+        "adv": true
+    },
+    "IsBindCombatTag": {
+        "desc": "是否绑定战斗标识",
+        "adv": true
+    },
+    "EffectPlayType": {
+        "desc": "",
+        "adv": true
+    },
+    "ScriptFile": {
+        "desc": "脚本文件",
+        "adv": true
+    },
+    "_ScriptFileHashID": {
+        "desc": "脚本文件哈希ID",
+        "adv": true
+    },
+    "EffectType": {
+        "desc": "效果类型",
+        "adv": false,
+        "detail": "Harmful伤害类型技能/Neutral中立类型技能/Beneficial增益类型技能"
+    },
+    "CheckBindBuff": {
+        "desc": "检查是否绑定Buff",
+        "adv": true
+    },
+    "MountRequestDetailLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "CastMask": {
+        "desc": "",
+        "adv": true
+    },
+    "SelfMoveStateMask": {
+        "desc": "",
+        "adv": true
+    },
+    "TargetMoveStateMask": {
+        "desc": "",
+        "adv": true
+    },
+    "RecipeType": {
+        "desc": "秘籍类型",
+        "adv": true
+    },
+    "MapBanMask": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillMark": {
+        "desc": "",
+        "adv": true
+    },
+    "SelfBackupMoveStateMask": {
+        "desc": "",
+        "adv": true
+    },
+    "TargetRelationMentor": {
+        "desc": "",
+        "adv": true
+    },
+    "TargetRelationApprentice": {
+        "desc": "",
+        "adv": true
+    },
+    "KungfuMountID": {
+        "desc": "套路心法ID",
+        "adv": true
+    },
+    "HorseMask": {
+        "desc": "",
+        "adv": true
+    },
+    "PetTemplateID": {
+        "desc": "宠物模板ID",
+        "adv": true
+    },
+    "TargetNpcSpeciesMask": {
+        "desc": "",
+        "adv": true
+    },
+    "SelfSprintStateRequest": {
+        "desc": "",
+        "adv": true
+    },
+    "SelfTerrainStateRequest": {
+        "desc": "",
+        "adv": true
+    },
+    "SelfFollowStateRequest": {
+        "desc": "",
+        "adv": true
+    },
+    "IgnoreCamp": {
+        "desc": "",
+        "adv": true
+    },
+    "TargetFollowStateRequest": {
+        "desc": "",
+        "adv": true
+    },
+    "IsCheckStealth": {
+        "desc": "是否检查潜行",
+        "adv": true
+    },
+    "SelfMoveStateMask2": {
+        "desc": "",
+        "adv": true
+    },
+    "SelfBackupMoveStateMask2": {
+        "desc": "",
+        "adv": true
+    },
+    "TargetMoveStateMask2": {
+        "desc": "",
+        "adv": true
+    },
+    "Pos": {
+        "desc": "",
+        "adv": true
+    },
+    "CanReverse": {
+        "desc": "可逆向",
+        "adv": true
+    },
+    "CanCastOnTower": {
+        "desc": "",
+        "adv": true
+    },
+    "TargetRelationTeamGroup": {
+        "desc": "作用小队",
+        "adv": true
+    },
+    "TargetJumpCountMask": {
+        "desc": "",
+        "adv": true
+    },
+    "UseEarlyWarningScript": {
+        "desc": "使用早期脚本",
+        "adv": true
+    },
+    "TargetFollowTypeRequest": {
+        "desc": "",
+        "adv": true
+    },
+    "IgnoreSilence": {
+        "desc": "无视「无法释放技能效果」",
+        "adv": true,
+        "detail": "包括沉默、任意属性封内"
+    },
+    "LongRange": {
+        "desc": "视为弹道技能",
+        "adv": false,
+        "detail": "用于例如凌雪阁技能斩无常是否能反弹"
+    },
+    "AOE": {
+        "desc": "是否为AOE（受到的范围伤害降低）",
+        "adv": true
+    },
+    "AbradeEquipRate": {
+        "desc": "武器磨损比例",
+        "adv": true
+    },
+    "UseSkillCoefficient": {
+        "desc": "是否使用技能系数",
+        "adv": true
+    },
+    "IsMentalPassiveSkill": {
+        "desc": "是否为特殊被动技能",
+        "adv": true
+    }
+}

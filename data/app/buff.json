@@ -1,0 +1,541 @@
+{
+    "IdKey": {
+        "desc": "无",
+        "adv": false
+    },
+    "BuffID": {
+        "desc": "ID",
+        "adv": false,
+        "basic": true
+    },
+    "Level": {
+        "desc": "等级",
+        "adv": false,
+        "basic": true
+    },
+    "IconID": {
+        "desc": "图标ID",
+        "adv": false,
+        "basic": true
+    },
+    "Sparking": {
+        "desc": "",
+        "adv": true
+    },
+    "ShowTime": {
+        "desc": "",
+        "adv": true
+    },
+    "Show": {
+        "desc": "",
+        "adv": true
+    },
+    "Remark": {
+        "desc": "备注",
+        "adv": false,
+        "basic": true
+    },
+    "Name": {
+        "desc": "名称",
+        "adv": false,
+        "basic": true
+    },
+    "Desc": {
+        "desc": "描述",
+        "adv": false,
+        "basic": true
+    },
+    "IsAddPeriod": {
+        "desc": "",
+        "adv": true
+    },
+    "BuffName": {
+        "desc": "名称",
+        "adv": false,
+        "basic": true
+    },
+    "Useage": {
+        "desc": "用途",
+        "adv": false
+    },
+    "KindType": {
+        "desc": "基本类型",
+        "adv": false
+    },
+    "FunctionType": {
+        "desc": "功能类型",
+        "adv": false
+    },
+    "RepresentPos": {
+        "desc": "表现位置",
+        "adv": true
+    },
+    "RepresentID": {
+        "desc": "表现ID",
+        "adv": true
+    },
+    "AppendType": {
+        "desc": "附加类型",
+        "adv": false
+    },
+    "DetachType": {
+        "desc": "能否驱散",
+        "adv": true
+    },
+    "BuffType": {
+        "desc": "Buff类型",
+        "adv": false
+    },
+    "Intensity": {
+        "desc": "强度优先级",
+        "adv": false
+    },
+    "IsStackable": {
+        "desc": "能否叠加",
+        "adv": false
+    },
+    "MaxStackNum": {
+        "desc": "最大叠加层数",
+        "adv": false
+    },
+    "Count": {
+        "desc": "跳数",
+        "adv": false
+    },
+    "Interval": {
+        "desc": "作用间隔（帧）",
+        "adv": false
+    },
+    "Hide": {
+        "desc": "是否隐藏",
+        "adv": false
+    },
+    "Exclude": {
+        "desc": "",
+        "adv": true
+    },
+    "Save": {
+        "desc": "",
+        "adv": true
+    },
+
+    "OnStand": {
+        "desc": "站立",
+        "adv": true
+    },
+    "OnWalk": {
+        "desc": "走路",
+        "adv": true
+    },
+    "OnRun": {
+        "desc": "跑步",
+        "adv": true
+    },
+    "OnJump": {
+        "desc": "跳跃",
+        "adv": true
+    },
+    "OnSwim": {
+        "desc": "游泳",
+        "adv": true
+    },
+    "OnFloat": {
+        "desc": "浮空",
+        "adv": true
+    },
+    "OnSit": {
+        "desc": "打坐",
+        "adv": true
+    },
+    "OnKnockedDown": {
+        "desc": "",
+        "adv": true
+    },
+    "OnKnockedBack": {
+        "desc": "击退",
+        "adv": true
+    },
+    "OnKnockedOff": {
+        "desc": "",
+        "adv": true
+    },
+    "OnHalt": {
+        "desc": "",
+        "adv": true
+    },
+    "OnAutoFly": {
+        "desc": "",
+        "adv": true
+    },
+    "OnDeath": {
+        "desc": "死亡",
+        "adv": true
+    },
+    "OnDash": {
+        "desc": "",
+        "adv": true
+    },
+    "OnPull": {
+        "desc": "",
+        "adv": true
+    },
+    "OnManaShield": {
+        "desc": "护盾",
+        "adv": true
+    },
+    "OnFight": {
+        "desc": "战斗",
+        "adv": true
+    },
+    "OnHorse": {
+        "desc": "马上",
+        "adv": true
+    },
+    "OnTerrain": {
+        "desc": "",
+        "adv": true
+    },
+
+    "FormationLeader": {
+        "desc": "",
+        "adv": true
+    },
+    "ScriptFile": {
+        "desc": "调用脚本",
+        "adv": true
+    },
+    "GlobalExclude": {
+        "desc": "",
+        "adv": true
+    },
+    "UniqueTarget": {
+        "desc": "唯一目标",
+        "adv": true
+    },
+    "CanCancel": {
+        "desc": "能否取消",
+        "adv": false
+    },
+
+    "BeginAttrib1": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue1A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue1B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib2": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue2A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue2B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib3": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue3A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue3B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib4": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue4A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue4B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib5": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue5A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue5B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib6": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue6A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue6B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib7": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue7A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue7B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib8": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue8A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue8B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib9": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue9A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue9B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib10": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue10A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue10B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib11": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue11A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue11B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib12": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue12A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue12B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib13": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue13A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue13B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib14": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue14A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue14B": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginAttrib15": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue15A": {
+        "desc": "",
+        "adv": true
+    },
+    "BeginValue15B": {
+        "desc": "",
+        "adv": true
+    },
+    "ActiveAttrib1": {
+        "desc": "",
+        "adv": true
+    },
+    "ActiveValue1A": {
+        "desc": "",
+        "adv": true
+    },
+    "ActiveValue1B": {
+        "desc": "",
+        "adv": true
+    },
+    "ActiveAttrib2": {
+        "desc": "",
+        "adv": true
+    },
+    "ActiveValue2A": {
+        "desc": "",
+        "adv": true
+    },
+    "ActiveValue2B": {
+        "desc": "",
+        "adv": true
+    },
+    "EndTimeAttrib1": {
+        "desc": "",
+        "adv": true
+    },
+    "EndTimeValue1A": {
+        "desc": "",
+        "adv": true
+    },
+    "EndTimeValue1B": {
+        "desc": "",
+        "adv": true
+    },
+    "EndTimeAttrib2": {
+        "desc": "",
+        "adv": true
+    },
+    "EndTimeValue2A": {
+        "desc": "",
+        "adv": true
+    },
+    "EndTimeValue2B": {
+        "desc": "",
+        "adv": true
+    },
+
+    "IsCountable": {
+        "desc": "",
+        "adv": true
+    },
+    "DecayType": {
+        "desc": "",
+        "adv": true
+    },
+    "MoveStateMask": {
+        "desc": "",
+        "adv": true
+    },
+    "MapBanMask": {
+        "desc": "",
+        "adv": true
+    },
+    "IsOffLineClock": {
+        "desc": "",
+        "adv": true
+    },
+    "CanAccumulate": {
+        "desc": "",
+        "adv": true
+    },
+    "SrcDistance": {
+        "desc": "",
+        "adv": true
+    },
+    "InSprint": {
+        "desc": "",
+        "adv": true
+    },
+    "InParkour": {
+        "desc": "",
+        "adv": true
+    },
+    "InFollow": {
+        "desc": "",
+        "adv": true
+    },
+    "CancelByUseItem": {
+        "desc": "",
+        "adv": true
+    },
+    "MapInvalidMask": {
+        "desc": "",
+        "adv": true
+    },
+    "IsCombatBuff": {
+        "desc": "",
+        "adv": true
+    },
+    "MinInterval": {
+        "desc": "最小间隔",
+        "adv": true
+    },
+    "ClearUnderWater": {
+        "desc": "",
+        "adv": true
+    },
+    "MoveStateMask2": {
+        "desc": "",
+        "adv": true
+    },
+    "ShapeShiftInvalid": {
+        "desc": "",
+        "adv": true
+    },
+    "MaxInterval": {
+        "desc": "最大间隔",
+        "adv": true
+    },
+    "ActiveCoefficient": {
+        "desc": "每跳增幅",
+        "adv": true
+    },
+    "CanBeSteal": {
+        "desc": "能否被偷取",
+        "adv": true
+    },
+    "NeedSync": {
+        "desc": "需要同步",
+        "adv": true
+    },
+    "InBirdMove": {
+        "desc": "",
+        "adv": true
+    },
+    "CanTransfer": {
+        "desc": "能否传染",
+        "adv": true
+    }
+}
