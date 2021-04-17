@@ -1,7 +1,9 @@
 const parse = require('csv-parse/lib/sync')
 const fs = require('fs');
+const iconv = require("iconv-lite");
 
 let data = fs.readFileSync('./raw/common/MapList.tab')
+data = iconv.decode(Buffer.from(data), "gbk");
 
 const records = parse(data, {
     delimiter: "\t",
