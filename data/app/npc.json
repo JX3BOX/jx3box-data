@@ -1,0 +1,1140 @@
+{
+    "ID": {
+        "desc": "ID",
+        "adv": false
+    },
+    "Name": {
+        "desc": "名称",
+        "adv": false,
+        "basic": true
+    },
+    "Title": {
+        "desc": "称谓",
+        "adv": false,
+        "basic": true
+    },
+    "Model": {
+        "desc": "",
+        "adv": true
+    },
+    "Kind": {
+        "desc": "",
+        "adv": true
+    },
+    "CampRequire": {
+        "desc": "",
+        "adv": true
+    },
+    "ForceID": {
+        "desc": "",
+        "adv": true
+    },
+    "MoveMode": {
+        "desc": "",
+        "adv": true
+    },
+    "Species": {
+        "desc": "",
+        "adv": true
+    },
+    "DropClassID": {
+        "desc": "",
+        "adv": true
+    },
+    "Level": {
+        "desc": "等级",
+        "adv": false,
+        "basic": true
+    },
+    "AdjustLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "Height": {
+        "desc": "",
+        "adv": true
+    },
+    "TouchRange": {
+        "desc": "攻击补偿距离",
+        "adv": true
+    },
+    "Intensity": {
+        "desc": "强度",
+        "adv": false,
+        "basic": true
+    },
+    "IsSelectable": {
+        "desc": "可被选择",
+        "adv": false,
+        "basic": true
+    },
+    "CanSeeLifeBar": {
+        "desc": "可见血条",
+        "adv": false,
+        "basic": true
+    },
+    "AlarmRange": {
+        "desc": "进入战斗距离",
+        "adv": true
+    },
+    "ReviveTime": {
+        "desc": "复活时间",
+        "adv": true
+    },
+    "MaxLife": {
+        "desc": "血量",
+        "adv": false,
+        "basic": true
+    },
+    "LifeReplenish": {
+        "desc": "生命恢复",
+        "adv": true
+    },
+    "LifeReplenishPercent": {
+        "desc": "生命恢复速率",
+        "adv": true
+    },
+    "MaxMana": {
+        "desc": "内力",
+        "adv": false,
+        "basic": true
+    },
+    "ManaReplenish": {
+        "desc": "内力恢复",
+        "adv": true
+    },
+    "ManaReplenishPercent": {
+        "desc": "内力恢复速率",
+        "adv": true
+    },
+    "MaxRage": {
+        "desc": "最大能量",
+        "adv": true
+    },
+    "RunSpeed": {
+        "desc": "跑步速度",
+        "adv": true
+    },
+    "WalkSpeed": {
+        "desc": "走路速度",
+        "adv": true
+    },
+
+    "PhysicsAttackHit": {
+        "desc": "外攻命中",
+        "adv": false,
+        "basic": true
+    },
+    "SolarMagicHit": {
+        "desc": "阳性命中",
+        "adv": false,
+        "basic": true
+    },
+    "NeutralMagicHit": {
+        "desc": "混元命中",
+        "adv": false,
+        "basic": true
+    },
+    "LunarMagicHit": {
+        "desc": "阴性命中",
+        "adv": false,
+        "basic": true
+    },
+    "PoisonMagicHit": {
+        "desc": "毒性命中",
+        "adv": false,
+        "basic": true
+    },
+
+    "Dodge": {
+        "desc": "闪避",
+        "adv": false,
+        "basic": true
+    },
+    "PhysicsCriticalStrike": {
+        "desc": "外攻会心",
+        "adv": false,
+        "basic": true
+    },
+    "SolarCriticalStrike": {
+        "desc": "阳性会心",
+        "adv": false,
+        "basic": true
+    },
+    "NeutralCriticalStrike": {
+        "desc": "混元会心",
+        "adv": false,
+        "basic": true
+    },
+    "LunarCriticalStrike": {
+        "desc": "阴性会心",
+        "adv": false,
+        "basic": true
+    },
+    "PoisonCriticalStrike": {
+        "desc": "毒性会心",
+        "adv": false,
+        "basic": true
+    },
+
+    "PhysicsDefenceMax": {
+        "desc": "外功防御最大值",
+        "adv": true
+    },
+    "PhysicsShieldBase": {
+        "desc": "外功防御",
+        "adv": true
+    },
+    "SolarMagicDefence": {
+        "desc": "阳性内防",
+        "adv": true
+    },
+    "NeutralMagicDefence": {
+        "desc": "混元内防",
+        "adv": true
+    },
+    "LunarMagicDefence": {
+        "desc": "阴性内防",
+        "adv": true
+    },
+    "PoisonMagicDefence": {
+        "desc": "毒性内防",
+        "adv": true
+    },
+
+    "NpcDialogID": {
+        "desc": "",
+        "adv": true
+    },
+    "AIType": {
+        "desc": "",
+        "adv": true
+    },
+    "AIParamTemplateID": {
+        "desc": "",
+        "adv": true
+    },
+    "MeleeWeaponDamageBase": {
+        "desc": "普通攻击基础伤害",
+        "adv": true
+    },
+    "MeleeWeaponDamageRand": {
+        "desc": "普通攻击浮动值",
+        "adv": true
+    },
+    "RangeWeaponDamageBase": {
+        "desc": "",
+        "adv": true
+    },
+    "RangeWeaponDamageRand": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame1": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame1": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame2": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame2": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID3": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel3": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval3": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval3": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType3": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate3": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame3": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame3": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID4": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel4": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval4": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval4": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType4": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate4": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame4": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame4": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID5": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel5": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval5": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval5": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType5": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate5": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame5": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame5": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID6": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel6": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval6": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval6": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType6": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate6": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame6": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame6": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID7": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel7": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval7": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval7": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType7": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate7": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame7": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame7": {
+        "desc": "",
+        "adv": true
+    },
+
+    "SkillID8": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillLevel8": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillInterval8": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillFirstInterval8": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillType8": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRate8": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillAniFrame8": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillRestFrame8": {
+        "desc": "",
+        "adv": true
+    },
+
+    "ThreatTime": {
+        "desc": "仇恨保持时间",
+        "adv": true
+    },
+    "ThreatPercent": {
+        "desc": "仇恨百分比",
+        "adv": true
+    },
+    "OverThreatPercent": {
+        "desc": "OT百分比",
+        "adv": false,
+        "basic": true
+    },
+
+    "Drop1": {
+        "desc": "",
+        "adv": true
+    },
+    "Count1": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop2": {
+        "desc": "",
+        "adv": true
+    },
+    "Count2": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop3": {
+        "desc": "",
+        "adv": true
+    },
+    "Count3": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop4": {
+        "desc": "",
+        "adv": true
+    },
+    "Count4": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop5": {
+        "desc": "",
+        "adv": true
+    },
+    "Count5": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop6": {
+        "desc": "",
+        "adv": true
+    },
+    "Count6": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop7": {
+        "desc": "",
+        "adv": true
+    },
+    "Count7": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop8": {
+        "desc": "",
+        "adv": true
+    },
+    "Count8": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop9": {
+        "desc": "",
+        "adv": true
+    },
+    "Count9": {
+        "desc": "",
+        "adv": true
+    },
+    "Drop10": {
+        "desc": "",
+        "adv": true
+    },
+    "Count10": {
+        "desc": "",
+        "adv": true
+    },
+
+    "RepresentID1": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID2": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID3": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID4": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID5": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID6": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID7": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID8": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID9": {
+        "desc": "",
+        "adv": true
+    },
+    "RepresentID10": {
+        "desc": "",
+        "adv": true
+    },
+
+    "CorpseDoodadID": {
+        "desc": "",
+        "adv": true
+    },
+    "MoneyMin": {
+        "desc": "金钱掉落最小值",
+        "adv": true
+    },
+    "MoneyMax": {
+        "desc": "金钱掉落最大值",
+        "adv": true
+    },
+    "MoneyDropRate": {
+        "desc": "金钱掉落比率",
+        "adv": true
+    },
+    "MapName": {
+        "desc": "所在地图名称",
+        "adv": true
+    },
+    "MasterID": {
+        "desc": "",
+        "adv": true
+    },
+    "CraftMasterID": {
+        "desc": "",
+        "adv": true
+    },
+    "RaceClass": {
+        "desc": "",
+        "adv": true
+    },
+    "CombatType": {
+        "desc": "",
+        "adv": true
+    },
+    "IsSpecial": {
+        "desc": "",
+        "adv": true
+    },
+    "JumpSpeed": {
+        "desc": "跳跃速度",
+        "adv": true
+    },
+
+    "IdleDialog1": {
+        "desc": "",
+        "adv": true
+    },
+    "IdleDialogRate1": {
+        "desc": "",
+        "adv": true
+    },
+    "IdleDialog2": {
+        "desc": "",
+        "adv": true
+    },
+    "IdleDialogRate2": {
+        "desc": "",
+        "adv": true
+    },
+    "IdleDialog3": {
+        "desc": "",
+        "adv": true
+    },
+    "IdleDialogRate3": {
+        "desc": "",
+        "adv": true
+    },
+
+    "IdleDialogAfterQuest": {
+        "desc": "",
+        "adv": true
+    },
+    "IdleDialogQuestID": {
+        "desc": "",
+        "adv": true
+    },
+    "HasBank": {
+        "desc": "",
+        "adv": true
+    },
+    "HasMailBox": {
+        "desc": "",
+        "adv": true
+    },
+    "ScriptName": {
+        "desc": "所用脚本",
+        "adv": true
+    },
+    "MailOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "BankOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "SkillMasterOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "CraftMasterOptionText": {
+        "desc": "",
+        "adv": true
+    },
+
+    "ReputeID1": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeValue1": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeID2": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeValue2": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeID3": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeValue3": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeID4": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeValue4": {
+        "desc": "",
+        "adv": true
+    },
+
+    "Parry": {
+        "desc": "招架",
+        "adv": false,
+        "basic": true
+    },
+    "ParryValue": {
+        "desc": "招架值",
+        "adv": false,
+        "basic": true
+    },
+    "Sense": {
+        "desc": "识破",
+        "adv": false,
+        "basic": true
+    },
+    "HitBase": {
+        "desc": "命中率",
+        "adv": true
+    },
+    "PursuitRange": {
+        "desc": "第一仇恨保持距离",
+        "adv": true
+    },
+    "ShopRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "MasterRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "CraftMasterRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "BankRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "MailBoxRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "QuestRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "CanSeeName": {
+        "desc": "名字可见",
+        "adv": true
+    },
+    "AIDefaultMode": {
+        "desc": "",
+        "adv": true
+    },
+    "ImmunityMask": {
+        "desc": "免疫控制种类",
+        "adv": true
+    },
+    "DropNotQuestItemFlag": {
+        "desc": "",
+        "adv": true
+    },
+    "_NormalDpsCof": {
+        "desc": "",
+        "adv": true
+    },
+    "DailyQuestCycle": {
+        "desc": "",
+        "adv": true
+    },
+    "DailyQuestOffset": {
+        "desc": "",
+        "adv": true
+    },
+    "_Intensity": {
+        "desc": "",
+        "adv": true
+    },
+    "_EquipLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "NpcExp": {
+        "desc": "击杀经验",
+        "adv": true
+    },
+    "ProgressID": {
+        "desc": "",
+        "adv": true
+    },
+    "HasAuction": {
+        "desc": "",
+        "adv": true
+    },
+    "AuctionOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "AuctionRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "AchievementID": {
+        "desc": "",
+        "adv": true
+    },
+    "CampLootPrestige": {
+        "desc": "",
+        "adv": true
+    },
+    "Prestige": {
+        "desc": "",
+        "adv": true
+    },
+    "CoinType1": {
+        "desc": "",
+        "adv": true
+    },
+    "CoinAmount1": {
+        "desc": "",
+        "adv": true
+    },
+    "Contribution": {
+        "desc": "",
+        "adv": true
+    },
+
+    "GuardForceID": {
+        "desc": "",
+        "adv": true
+    },
+    "HasTongRepertory": {
+        "desc": "",
+        "adv": true
+    },
+    "TongRepertoryOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "TongRepertoryRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "DynamicReviveMinTime": {
+        "desc": "",
+        "adv": true
+    },
+    "KnockedBackRate": {
+        "desc": "击退概率",
+        "adv": true
+    },
+    "KnockedDownRate": {
+        "desc": "击倒概率",
+        "adv": true
+    },
+    "KnockedOffRate": {
+        "desc": "击飞概率",
+        "adv": true
+    },
+    "RepulsedRate": {
+        "desc": "被推概率",
+        "adv": true
+    },
+    "PullRate": {
+        "desc": "被拉概率",
+        "adv": true
+    },
+    "AddCampScore": {
+        "desc": "",
+        "adv": true
+    },
+    "BattleFieldID": {
+        "desc": "",
+        "adv": true
+    },
+    "BattleFieldSide": {
+        "desc": "",
+        "adv": true
+    },
+
+    "ReputeLevel1": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeLevel2": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeLevel3": {
+        "desc": "",
+        "adv": true
+    },
+    "ReputeLevel4": {
+        "desc": "",
+        "adv": true
+    },
+
+    "LogLootFlag": {
+        "desc": "",
+        "adv": true
+    },
+    "TitlePoint": {
+        "desc": "",
+        "adv": true
+    },
+    "Train": {
+        "desc": "",
+        "adv": true
+    },
+    "DropJustice": {
+        "desc": "",
+        "adv": true
+    },
+    "DropExamPrint": {
+        "desc": "",
+        "adv": true
+    },
+    "DropActivityAward": {
+        "desc": "",
+        "adv": true
+    },
+    "ValidReputeLootBuff": {
+        "desc": "",
+        "adv": true
+    },
+    "BuffReputeValue": {
+        "desc": "",
+        "adv": true
+    },
+    "BuffReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "HasGameCard": {
+        "desc": "",
+        "adv": true
+    },
+    "GameCardSaleOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "GameCardBuyOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "GameCardOrderOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "GameCardOrderBuyOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "CounterStealth": {
+        "desc": "反隐",
+        "adv": true
+    },
+    "CounterStealthRange": {
+        "desc": "反隐距离",
+        "adv": true
+    },
+    "HasCubPackage": {
+        "desc": "",
+        "adv": true
+    },
+    "CubPackageOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "CubPackageRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "ForceDrop": {
+        "desc": "",
+        "adv": true
+    },
+    "IndependentDrop": {
+        "desc": "",
+        "adv": true
+    },
+    "IndependentDropCount": {
+        "desc": "",
+        "adv": true
+    },
+    "IndependentDropType": {
+        "desc": "",
+        "adv": true
+    },
+    "IsCostMana": {
+        "desc": "",
+        "adv": true
+    },
+    "CriticalDamagePowerBase": {
+        "desc": "会心效果",
+        "adv": true
+    },
+    "DisableSkillMove": {
+        "desc": "禁用僵直",
+        "adv": true
+    },
+    "HideLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "DecreaseDamagePercent": {
+        "desc": "",
+        "adv": true
+    },
+    "ReturnNotRecoveryBlood": {
+        "desc": "",
+        "adv": true
+    },
+    "CanShareNpcKillByQuestEvent": {
+        "desc": "",
+        "adv": true
+    },
+    "IdentityVisiableID": {
+        "desc": "",
+        "adv": true
+    },
+    "CanSeeLifeNum": {
+        "desc": "可见血量数值",
+        "adv": true
+    },
+    "TouchWidth": {
+        "desc": "",
+        "adv": true
+    },
+    "HasSharePackage": {
+        "desc": "",
+        "adv": true
+    },
+    "SharePackageOptionText": {
+        "desc": "",
+        "adv": true
+    },
+    "SharePackageRequireReputeLevel": {
+        "desc": "",
+        "adv": true
+    },
+    "LeaveFightNotify": {
+        "desc": "",
+        "adv": true
+    },
+    "RecoverHP": {
+        "desc": "疲劳值",
+        "adv": true
+    },
+    "BroadcastLookup": {
+        "desc": "",
+        "adv": true
+    },
+    "DropVigor": {
+        "desc": "增加精力",
+        "adv": true
+    },
+    "MaxLifeCount": {
+        "desc": "最大血量计数",
+        "adv": true
+    },
+    "SceneNpcFilter": {
+        "desc": "",
+        "adv": true
+    }
+}

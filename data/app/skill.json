@@ -57,8 +57,7 @@
     },
     "ShortDesc": {
         "desc": "简要描述",
-        "adv": false,
-        "basic": true
+        "adv": false
     },
     "SpecialDesc": {
         "desc": "特殊描述",
@@ -67,8 +66,7 @@
     },
     "KungfuDesc": {
         "desc": "武学描述",
-        "adv": false,
-        "basic": true
+        "adv": false
     },
     "HelpDesc": {
         "desc": "其它描述",
@@ -100,11 +98,11 @@
         "adv": true
     },
     "Buff": {
-        "desc": "",
+        "desc": "描述用附加增益效果",
         "adv": true
     },
     "Debuff": {
-        "desc": "",
+        "desc": "描述用附加减益效果",
         "adv": true
     },
     "BlackList": {
@@ -219,11 +217,12 @@
         "adv": true
     },
     "IsInstinct": {
-        "desc": "",
-        "adv": true
+        "desc": "本能",
+        "adv": true,
+        "detail": "（不需要学习就可以使用）"
     },
     "IsAutoTurn": {
-        "desc": "",
+        "desc": "自动转向释放",
         "adv": true
     },
     "CauseAbradeEquipment": {
@@ -375,8 +374,9 @@
         "adv": true
     },
     "CastMask": {
-        "desc": "",
-        "adv": true
+        "desc": "技能释放分类",
+        "adv": true,
+        "detail": "用作某些技能是否受到玩家身上的特定属性影响"
     },
     "SelfMoveStateMask": {
         "desc": "",
@@ -463,8 +463,9 @@
         "adv": true
     },
     "Pos": {
-        "desc": "",
-        "adv": true
+        "desc": "苍云姿态",
+        "adv": true,
+        "detail": "1为持刀，2为持盾"
     },
     "CanReverse": {
         "desc": "可逆向",
@@ -475,7 +476,7 @@
         "adv": true
     },
     "TargetRelationTeamGroup": {
-        "desc": "作用小队",
+        "desc": "作用关联小队",
         "adv": true
     },
     "TargetJumpCountMask": {
@@ -483,7 +484,7 @@
         "adv": true
     },
     "UseEarlyWarningScript": {
-        "desc": "使用早期脚本",
+        "desc": "使用技能特效预警",
         "adv": true
     },
     "TargetFollowTypeRequest": {

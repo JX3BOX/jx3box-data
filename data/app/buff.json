@@ -23,7 +23,7 @@
         "adv": true
     },
     "ShowTime": {
-        "desc": "",
+        "desc": "显示剩余时间",
         "adv": true
     },
     "Show": {
@@ -76,7 +76,8 @@
     },
     "AppendType": {
         "desc": "附加类型",
-        "adv": false
+        "adv": false,
+	"detail": "对比强度优先级时，这个作为主要类别来排序，不同类别间不受强度影响"
     },
     "DetachType": {
         "desc": "能否驱散",
@@ -88,7 +89,8 @@
     },
     "Intensity": {
         "desc": "强度优先级",
-        "adv": false
+        "adv": false,
+	"detail": "需要先用相同的附加类型来进行强度排序"
     },
     "IsStackable": {
         "desc": "能否叠加",
@@ -99,7 +101,7 @@
         "adv": false
     },
     "Count": {
-        "desc": "跳数",
+        "desc": "作用次数",
         "adv": false
     },
     "Interval": {
@@ -148,7 +150,7 @@
         "adv": true
     },
     "OnKnockedDown": {
-        "desc": "",
+        "desc": "击倒",
         "adv": true
     },
     "OnKnockedBack": {
@@ -156,11 +158,11 @@
         "adv": true
     },
     "OnKnockedOff": {
-        "desc": "",
+        "desc": "击飞",
         "adv": true
     },
     "OnHalt": {
-        "desc": "",
+        "desc": "眩晕",
         "adv": true
     },
     "OnAutoFly": {
@@ -172,15 +174,16 @@
         "adv": true
     },
     "OnDash": {
-        "desc": "",
-        "adv": true
+        "desc": "处于冲击状态",
+        "adv": true,
+	"detail": "例如小轻功处于免控时即这个状态"
     },
     "OnPull": {
-        "desc": "",
+        "desc": "被拉拽状态",
         "adv": true
     },
     "OnManaShield": {
-        "desc": "护盾",
+        "desc": "内力值护盾",
         "adv": true
     },
     "OnFight": {
@@ -205,15 +208,16 @@
         "adv": true
     },
     "GlobalExclude": {
-        "desc": "",
-        "adv": true
+        "desc": "全局排除",
+        "adv": true,
+	"detail": "当生效时，buff强度就不再限制该类效果只能存在1个，而是可以与其他同类buff同时存在，即使强度比它高"
     },
     "UniqueTarget": {
         "desc": "唯一目标",
         "adv": true
     },
     "CanCancel": {
-        "desc": "能否取消",
+        "desc": "能否主动取消",
         "adv": false
     },
 
@@ -463,7 +467,7 @@
         "adv": true
     },
     "IsOffLineClock": {
-        "desc": "",
+        "desc": "离线计时",
         "adv": true
     },
     "CanAccumulate": {
@@ -499,8 +503,9 @@
         "adv": true
     },
     "MinInterval": {
-        "desc": "最小间隔",
-        "adv": true
+        "desc": "最小作用间隔",
+        "adv": true,
+	"detail": "当这个值小于默认作用间隔时，一般认为可以被加速属性影响"
     },
     "ClearUnderWater": {
         "desc": "",
@@ -516,7 +521,8 @@
     },
     "MaxInterval": {
         "desc": "最大间隔",
-        "adv": true
+        "adv": true,
+	"detail": "当这个值大于默认作用间隔时，一般认为可以被负加速属性影响"
     },
     "ActiveCoefficient": {
         "desc": "每跳增幅",
@@ -531,11 +537,11 @@
         "adv": true
     },
     "InBirdMove": {
-        "desc": "",
+        "desc": "战斗轻功状态",
         "adv": true
     },
     "CanTransfer": {
-        "desc": "能否传染",
+        "desc": "能否被转移",
         "adv": true
     }
 }
