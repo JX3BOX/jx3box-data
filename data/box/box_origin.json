@@ -167,6 +167,18 @@
         "mark": "HOT",
         "status": true
     },
+    "meridians": {
+        "uuid": "meridians",
+        "href": "/app/meridians",
+        "img": "/box/meridians.svg",
+        "hover": "/box/meridians.svg",
+        "name": "经脉模拟",
+        "abbr": "经脉",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "macroeditor": {
         "uuid": "macroeditor",
         "href": "/app/macroeditor",
