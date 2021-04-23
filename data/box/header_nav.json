@@ -95,7 +95,7 @@
             {
                 "label": "战斗分析（JCL）",
                 "link": "/battle",
-                "status": 0,
+                "status": 1,
                 "key": "battle"
             },
             {
