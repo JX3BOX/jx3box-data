@@ -93,7 +93,8 @@
                 "key": "bps_post"
             },
             {
-                "label": "战斗分析（JCL）",
+                "label": "战斗分析",
+                "desc": "（JCL）",
                 "link": "/battle",
                 "status": 1,
                 "key": "battle"
