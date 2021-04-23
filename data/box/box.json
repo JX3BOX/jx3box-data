@@ -299,6 +299,18 @@
         "mark": "HOT",
         "status": true
     },
+    "battle": {
+        "uuid": "battle",
+        "href": "/battle",
+        "img": "/box/battle.svg",
+        "hover": "/box/battle.svg",
+        "name": "战斗分析",
+        "abbr": "复盘",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "dbm": {
         "uuid": "dbm",
         "href": "/dbm",
@@ -415,18 +427,6 @@
         "hover": "/box/xls.svg",
         "name": "DPS模拟",
         "abbr": "DPS",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "j3dps": {
-        "uuid": "j3dps",
-        "href": "https://j3dps.com/fightlog",
-        "img": "/box/j3dps.svg",
-        "hover": "/box/j3dps.svg",
-        "name": "战斗复盘",
-        "abbr": "复盘",
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",

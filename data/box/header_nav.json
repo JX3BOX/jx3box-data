@@ -43,7 +43,7 @@
         "children": [
             {
                 "label": "副本攻略",
-                "link": "/fb/#/",
+                "link": "/fb",
                 "status": 1,
                 "key": "fb_post"
             },
@@ -60,7 +60,7 @@
                 "key": "fb_npc"
             },
             {
-                "label": "机制数据",
+                "label": "技能数据",
                 "link": "/fb/#/skill",
                 "status": 1,
                 "key": "fb_skill"
@@ -88,15 +88,15 @@
         "children": [
             {
                 "label": "门派攻略",
-                "link": "/bps/#/",
+                "link": "/bps",
                 "status": 1,
                 "key": "bps_post"
             },
             {
-                "label": "DPS天梯榜",
-                "link": "/dps",
+                "label": "战斗分析（JCL）",
+                "link": "/battle",
                 "status": 0,
-                "key": "dps_rank"
+                "key": "battle"
             },
             {
                 "label": "DPS模拟器",
@@ -128,7 +128,7 @@
             {
                 "label": "任务百科",
                 "link": "/quest",
-                "status": 0,
+                "status": 1,
                 "key": "quest"
             },
             {

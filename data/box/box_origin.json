@@ -263,6 +263,18 @@
         "mark": "HOT",
         "status": true
     },
+    "battle": {
+        "uuid": "battle",
+        "href": "/battle",
+        "img": "/box/battle.svg",
+        "hover": "/box/battle.svg",
+        "name": "战斗分析",
+        "abbr": "复盘",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "fbdata": {
         "uuid": "fbdata",
         "href": "/fb/#/skill",

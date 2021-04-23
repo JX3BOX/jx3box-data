@@ -54,7 +54,7 @@
                 "key": "fb_npc"
             },
             {
-                "label": "机制数据",
+                "label": "技能数据",
                 "link": "/fb/#/skill",
                 "status": 1,
                 "key": "fb_skill"
@@ -102,7 +102,7 @@
             {
                 "label": "任务百科",
                 "link": "/quest",
-                "status": 0,
+                "status": 1,
                 "key": "quest"
             },
             {
