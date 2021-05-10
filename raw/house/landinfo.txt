@@ -1,6 +1,6 @@
 nMapID	nLandIndex	szLandIndex	szLandName	szQuality	szState	nArea	szArea	nPrice	nUIComponentIndex	nPosX	nPosY	szIconPath	nNormalFrame	nOverFrame	nDownFrame
 0		一		普通宅邸	淮南道		七千二					ui/Image/JYMap/JYUi_03.UITex	12	13	14
-455	1	一号	句容里		江南道	7200	七千二百平	144000	1	1130	968	ui/Image/JYMap/JYUi_03.UITex	12	13	14
+455	1	一号	句容里	稀有宅邸	江南道	7200	七千二百平	144000	1	1130	968	ui/Image/JYMap/JYUi_03.UITex	12	13	14
 455	2	二号	挂剑里		江南道	2240	两千二百四十平	11200	2	1004	1215	ui/Image/JYMap/JYUi_03.UITex	12	13	14
 455	3	三号	挂剑里		江南道	4032	四千零三十二平	20160	3	906	1439	ui/Image/JYMap/JYUi_03.UITex	12	13	14
 455	4	四号	挂剑里		江南道	2240	两千二百四十平	11200	4	1092	1579	ui/Image/JYMap/JYUi_03.UITex	12	13	14
@@ -33,35 +33,35 @@ nMapID	nLandIndex	szLandIndex	szLandName	szQuality	szState	nArea	szArea	nPrice	n
 455	31	三十一号	襟江里		江南道	2240	两千二百四十平	11200	31	2103	2284	ui/Image/JYMap/JYUi_03.UITex	12	13	14
 455	32	三十二号	襟江里		江南道	1280	一千二百八十平	6400	32	2298	1876	ui/Image/JYMap/JYUi_03.UITex	12	13	14
 455	33	三十三号	襟江里		江南道	2240	两千二百四十平	11200	33	2298	2036	ui/Image/JYMap/JYUi_03.UITex	12	13	14
-462	1	一号	树正里		剑南道	4032	四千零三十二平	40320	1	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	2	二号	树正里		剑南道	4032	四千零三十二平	40320	2	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	3	三号	树正里		剑南道	4032	四千零三十二平	40320	3	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	4	四号	树正里		剑南道	7200	七千二百平	288000	4	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	5	五号	树正里		剑南道	4032	四千零三十二平	40320	5	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	6	六号	树正里		剑南道	4032	四千零三十二平	40320	6	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	7	七号	树正里		剑南道	7200	七千二百平	288000	7	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	8	八号	树正里		剑南道	4032	四千零三十二平	40320	8	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	9	九号	知雪里		剑南道	4032	四千零三十二平	40320	9	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	10	十号	知雪里		剑南道	4032	四千零三十二平	40320	10	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	11	十一号	知雪里		剑南道	4032	四千零三十二平	40320	11	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	12	十二号	知雪里		剑南道	4032	四千零三十二平	40320	12	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	13	十三号	知雪里		剑南道	4032	四千零三十二平	40320	13	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	14	十四号	知雪里		剑南道	4032	四千零三十二平	40320	14	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	15	十五号	闲野里		剑南道	7200	七千二百平	288000	15	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	1	一号	树正里	稀有宅邸	剑南道	4032	四千零三十二平	40320	1	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	2	二号	树正里	稀有宅邸	剑南道	4032	四千零三十二平	40320	2	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	3	三号	树正里	稀有宅邸	剑南道	4032	四千零三十二平	40320	3	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	4	四号	树正里	稀有宅邸	剑南道	7200	七千二百平	288000	4	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	5	五号	树正里	稀有宅邸	剑南道	4032	四千零三十二平	40320	5	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	6	六号	树正里	稀有宅邸	剑南道	4032	四千零三十二平	40320	6	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	7	七号	树正里	稀有宅邸	剑南道	7200	七千二百平	288000	7	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	8	八号	树正里	稀有宅邸	剑南道	4032	四千零三十二平	40320	8	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	9	九号	知雪里	稀有宅邸	剑南道	4032	四千零三十二平	40320	9	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	10	十号	知雪里	稀有宅邸	剑南道	4032	四千零三十二平	40320	10	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	11	十一号	知雪里	稀有宅邸	剑南道	4032	四千零三十二平	40320	11	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	12	十二号	知雪里	稀有宅邸	剑南道	4032	四千零三十二平	40320	12	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	13	十三号	知雪里	稀有宅邸	剑南道	4032	四千零三十二平	40320	13	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	14	十四号	知雪里	稀有宅邸	剑南道	4032	四千零三十二平	40320	14	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	15	十五号	闲野里	稀有宅邸	剑南道	7200	七千二百平	288000	15	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
 462	16	十六号	闲野里		剑南道	2240	两千二百四十平	22400	16	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	17	十七号	闲野里		剑南道	4032	四千零三十二平	40320	17	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	18	十八号	望唐里		剑南道	4032	四千零三十二平	40320	18	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	19	十九号	望唐里		剑南道	4032	四千零三十二平	40320	19	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	20	二十号	望唐里		剑南道	4032	四千零三十二平	40320	20	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	21	二十一号	望唐里		剑南道	7200	七千二百平	288000	21	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	17	十七号	闲野里	稀有宅邸	剑南道	4032	四千零三十二平	40320	17	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	18	十八号	望唐里	稀有宅邸	剑南道	4032	四千零三十二平	40320	18	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	19	十九号	望唐里	稀有宅邸	剑南道	4032	四千零三十二平	40320	19	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	20	二十号	望唐里	稀有宅邸	剑南道	4032	四千零三十二平	40320	20	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	21	二十一号	望唐里	稀有宅邸	剑南道	7200	七千二百平	288000	21	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
 462	22	二十二号	望唐里		剑南道	2240	两千二百四十平	22400	22	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
 462	23	二十三号	望唐里		剑南道	2240	两千二百四十平	22400	23	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
 462	24	二十四号	望唐里		剑南道	2240	两千二百四十平	22400	24	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	25	二十五号	望唐里		剑南道	4032	四千零三十二平	40320	25	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	26	二十六号	望唐里		剑南道	4032	四千零三十二平	40320	26	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	27	二十七号	东归里		剑南道	4032	四千零三十二平	40320	27	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	28	二十八号	东归里		剑南道	4032	四千零三十二平	40320	28	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
-462	29	二十九号	朝天里		剑南道	4032	四千零三十二平	40320	29	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	25	二十五号	望唐里	稀有宅邸	剑南道	4032	四千零三十二平	40320	25	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	26	二十六号	望唐里	稀有宅邸	剑南道	4032	四千零三十二平	40320	26	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	27	二十七号	东归里	稀有宅邸	剑南道	4032	四千零三十二平	40320	27	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	28	二十八号	东归里	稀有宅邸	剑南道	4032	四千零三十二平	40320	28	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
+462	29	二十九号	朝天里	稀有宅邸	剑南道	4032	四千零三十二平	40320	29	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
 462	30	三十号	朝天里		剑南道	2240	两千二百四十平	22400	30	2298	2036	ui/Image/JYMap/JYUi_03.UITex	18	19	20
 471	1	一号	南浦里		江南道	4032	四千零三十二平	40320	1	2298	2036	ui/Image/JYMap/JYUi_03.UITex	15	16	17
 471	2	二号	南浦里		江南道	4032	四千零三十二平	40320	2	2298	2036	ui/Image/JYMap/JYUi_03.UITex	15	16	17
