@@ -275,6 +275,18 @@
         "mark": "NEW",
         "status": true
     },
+    "sandbox": {
+        "uuid": "sandbox",
+        "href": "/app/sandbox",
+        "img": "/box/sandbox.svg",
+        "hover": "/box/sandbox.svg",
+        "name": "阵营沙盘",
+        "abbr": "沙盘",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "team": {
         "uuid": "team",
         "href": "/team",
