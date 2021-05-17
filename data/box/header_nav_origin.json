@@ -48,18 +48,6 @@
                 "key": "fb_post"
             },
             {
-                "label": "首领数据",
-                "link": "/fb/#/npc",
-                "status": 1,
-                "key": "fb_npc"
-            },
-            {
-                "label": "技能数据",
-                "link": "/fb/#/skill",
-                "status": 1,
-                "key": "fb_skill"
-            },
-            {
                 "label": "掉落奖励",
                 "link": "/fb/#/drop",
                 "status": 1,
@@ -68,7 +56,7 @@
             {
                 "label": "瑰石一览",
                 "link": "/fb/#/gem",
-                "status": 0,
+                "status": 1,
                 "key": "fb_gem"
             }
         ]
@@ -78,7 +66,28 @@
         "link": "/bps",
         "status": 1,
         "key": "bps",
-        "hasChildren": false
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "门派攻略",
+                "link": "/bps",
+                "status": 1,
+                "key": "bps_post"
+            },
+            {
+                "label": "战斗分析",
+                "desc": "（JCL）",
+                "link": "/battle",
+                "status": 1,
+                "key": "battle"
+            },
+            {
+                "label": "DPS模拟器",
+                "link": "/app/dps",
+                "status": 1,
+                "key": "dps_calc"
+            }
+        ]
     },
     {
         "label": "百科",
@@ -114,7 +123,7 @@
             {
                 "label": "宠物百科",
                 "link": "/knowledge/#/pet",
-                "status": 0,
+                "status": 1,
                 "key": "pet"
             }
         ]
@@ -133,10 +142,10 @@
                 "key": "team"
             },
             {
-                "label": "魔盒助手",
-                "link": "/assistant",
-                "status": 0,
-                "key": "assistant"
+                "label": "阵营沙盘",
+                "link": "/app/sandbox",
+                "status": 1,
+                "key": "sandbox"
             },
             {
                 "label": "剑三数据库",
@@ -145,14 +154,8 @@
                 "key": "database"
             },
             {
-                "label": "教程指南",
-                "link": "/tool/?subtype=3",
-                "status": 1,
-                "key": "docs"
-            },
-            {
-                "label": "更多工具",
-                "link": "/tool/?subtype=1",
+                "label": "教程工具",
+                "link": "/tool",
                 "status": 1,
                 "key": "helper"
             }
@@ -168,13 +171,13 @@
             {
                 "label": "剑三骚话",
                 "link": "/bbs/#/joke",
-                "status": 0,
+                "status": 1,
                 "key": "joke"
             },
             {
                 "label": "剑三表情",
                 "link": "/bbs/#/emotion",
-                "status": 0,
+                "status": 1,
                 "key": "emotion"
             },
             {

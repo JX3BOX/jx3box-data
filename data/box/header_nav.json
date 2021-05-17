@@ -54,18 +54,6 @@
                 "key": "fb_rank"
             },
             {
-                "label": "首领数据",
-                "link": "/fb/#/npc",
-                "status": 1,
-                "key": "fb_npc"
-            },
-            {
-                "label": "技能数据",
-                "link": "/fb/#/skill",
-                "status": 1,
-                "key": "fb_skill"
-            },
-            {
                 "label": "掉落奖励",
                 "link": "/fb/#/drop",
                 "status": 1,
@@ -160,10 +148,10 @@
                 "key": "team"
             },
             {
-                "label": "魔盒助手",
-                "link": "/assistant",
-                "status": 0,
-                "key": "assistant"
+                "label": "阵营沙盘",
+                "link": "/app/sandbox",
+                "status": 1,
+                "key": "sandbox"
             },
             {
                 "label": "剑三数据库",
@@ -172,14 +160,8 @@
                 "key": "database"
             },
             {
-                "label": "教程指南",
-                "link": "/tool/?subtype=3",
-                "status": 1,
-                "key": "docs"
-            },
-            {
-                "label": "更多工具",
-                "link": "/tool/?subtype=1",
+                "label": "教程工具",
+                "link": "/tool",
                 "status": 1,
                 "key": "helper"
             }
@@ -195,13 +177,13 @@
             {
                 "label": "剑三骚话",
                 "link": "/bbs/#/joke",
-                "status": 0,
+                "status": 1,
                 "key": "joke"
             },
             {
                 "label": "剑三表情",
                 "link": "/bbs/#/emotion",
-                "status": 0,
+                "status": 1,
                 "key": "emotion"
             },
             {
