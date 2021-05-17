@@ -78,7 +78,7 @@
         "hover": "/box/quest.svg",
         "name": "任务百科",
         "abbr": "任务",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -337,14 +337,14 @@
     },
     "fbdata": {
         "uuid": "fbdata",
-        "href": "/fb/#/skill",
+        "href": "/fb/#/attr",
         "img": "/box/fbdata.svg",
         "hover": "/box/fbdata.svg",
-        "name": "副本数据",
-        "abbr": "解包",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
+        "name": "特殊机制",
+        "abbr": "机制",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "fbdrop": {
