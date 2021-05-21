@@ -310,5 +310,17 @@
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
-    }
+    },
+    "joke": {
+        "uuid": "joke",
+        "href": "/bbs/#/joke",
+        "img": "/box/joke.svg",
+        "hover": "/box/joke.svg",
+        "name": "剑三骚话",
+        "abbr": "骚话",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
 }
