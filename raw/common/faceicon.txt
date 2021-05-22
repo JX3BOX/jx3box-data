@@ -1,0 +1,454 @@
+id	command	Type	imgfile	Frame	bShow	pageid
+0		image	ui\Image\UICommon\Talk_face.UITex	0	1	0
+1	#微笑	animate		24		
+2	#可怜	animate		6		
+3	#吐	animate		7		
+4	#媚眼	animate		18		
+5	#害羞	animate		19		
+6	#尴尬	animate		20		
+7	#狂汗	animate		44		
+8	#恐慌	animate		27		
+9	#生气	animate		47		
+10	#昏	animate		37		
+11	#流泪	animate		42		
+12	#亲亲	image		14		
+13	#沉默	image		89		
+14	#无奈	image		11		
+15	#傲慢	image		20		
+16	#冷汗	image		21		
+17	#大笑	image		35		
+18	#阴险	image		129		
+19	#难过	image		130		
+20	#讨厌	image		117		
+21	#巴掌	image		45		
+22	#流汗	image		90		
+23	#发怒	image		23		
+24	#欣喜	image		78		
+25	#口水	image		30		
+26	#吓	image		31		
+27	#呆	image		32		
+28	#噢	image		49		
+29	#呲牙	image		33		
+30	#恶心	image		47		
+31	#困	image		34		
+32	#凶恶	image		22		
+33	#狡诈	image		43		
+34	#得意	image		46		
+35	#鬼脸	image		70		
+36	#扁嘴	image		72		
+37	#撇嘴	image		69		
+38	#晕	image		73		
+39	#狡猾	image		92		
+40	#睡	image		94		
+41	#舌头	image		113		
+42	#色	image		114		
+43	#讶异	image		118		
+44	#鄙视	image		119		
+45	#酷	image		120		
+46	#钱	animate		57		
+47	#锤子	animate		58		
+48	#打雷	animate		60		
+49	#问号	animate		61		
+50	#红灯	animate		54		
+51	#绿灯	animate		55		
+52	#黄灯	animate		63		
+53	#下雨	animate		0		
+54	#刀	animate		5		
+55	#咖啡	animate		9		
+56	#喜欢	animate		12		
+57	#嘴	animate		13		
+58	#唇	animate		14		
+59	#心碎	animate		25		
+60	#感叹号	animate		29		
+61	#拍手	animate		33		
+62	#握手	animate		35		
+63	#猪	animate		45		
+64	#玫瑰	animate		46		
+65	#电话	animate		48		
+66	#灯泡	animate		43		
+67	#笨猪	image		93		
+68	#月亮	image		77		
+69	#菠萝	image		115		
+70	#骷髅	image		140		
+71	#礼物	image		163		
+72	#严寒	image		196		
+73	#寒	image		207		
+74	#衰	image		206		
+75	#花	image		208		
+76	#香蕉	image		199		
+77	#雪糕	image		203		
+78	#胜利	image		214		
+79	#苹果	image		217		
+80	#饮料	image		220		
+81	#馒头	image		223		
+82	#西瓜	image		224		
+83	#烟花	image		227		
+84	#标记	image		230		
+85	#蒜头	image		231		
+86	#太阳	image		236		
+87	#爱心	image		237		
+88	#强	image		239		
+89	#差劲	image		240		
+90	#樱桃	image		277		
+91	#第一名	image		289	0	
+92	#第二名	image		290	0	
+93	#第三名	image		291	0	
+94	#蜡烛	animate		64		
+95	#b害羞	animate		66		1
+96	#b可怜	animate		67		1
+97	#b色	animate		68		1
+98	#b挨打	animate		70		1
+99	#b嗷呜	animate		72		1
+100	#b鄙视	animate		73		1
+101	#b大笑	animate		77		1
+102	#b发怒	animate		84		1
+103	#b开心	animate		94		1
+104	#b哭	animate		96		1
+105	#b流汗	animate		99		1
+106	#b亲吻	animate		104		1
+107	#b呕吐	animate		113		1
+108	#b抠鼻	animate		114		1
+109	#b掀桌	animate		118		1
+110	#b嘤嘤	animate		121		1
+111	#b晕	animate		122		1
+112	#b再见	animate		123		1
+113	#q挨打	animate	ui\Image\UICommon\Talk_face1.UITex	0		2
+114	#q嗷	animate	ui\Image\UICommon\Talk_face1.UITex	1		2
+115	#q嗷呜	animate	ui\Image\UICommon\Talk_face1.UITex	2		2
+116	#q傲慢	animate	ui\Image\UICommon\Talk_face1.UITex	3		2
+117	#q鄙视	animate	ui\Image\UICommon\Talk_face1.UITex	4		2
+118	#q沉默	animate	ui\Image\UICommon\Talk_face1.UITex	5		2
+119	#q大笑	animate	ui\Image\UICommon\Talk_face1.UITex	6		2
+120	#q呆	animate	ui\Image\UICommon\Talk_face1.UITex	7		2
+121	#q得意	animate	ui\Image\UICommon\Talk_face1.UITex	8		2
+122	#q尴尬	animate	ui\Image\UICommon\Talk_face1.UITex	9		2
+123	#q害羞	animate	ui\Image\UICommon\Talk_face1.UITex	10		2
+124	#q狡诈	animate	ui\Image\UICommon\Talk_face1.UITex	11		2
+125	#q惊恐	animate	ui\Image\UICommon\Talk_face1.UITex	12		2
+126	#q惊讶	animate	ui\Image\UICommon\Talk_face1.UITex	13		2
+127	#q开心	animate	ui\Image\UICommon\Talk_face1.UITex	14		2
+128	#q可怜	animate	ui\Image\UICommon\Talk_face1.UITex	15		2
+129	#q抠鼻	animate	ui\Image\UICommon\Talk_face1.UITex	16		2
+130	#q口水	animate	ui\Image\UICommon\Talk_face1.UITex	17		2
+131	#q哭	animate	ui\Image\UICommon\Talk_face1.UITex	18		2
+132	#q酷	animate	ui\Image\UICommon\Talk_face1.UITex	19		2
+133	#q流汗	animate	ui\Image\UICommon\Talk_face1.UITex	20		2
+134	#q媚眼	animate	ui\Image\UICommon\Talk_face1.UITex	21		2
+135	#q呕吐	animate	ui\Image\UICommon\Talk_face1.UITex	22		2
+136	#q撇嘴	animate	ui\Image\UICommon\Talk_face1.UITex	23		2
+137	#q亲吻	animate	ui\Image\UICommon\Talk_face1.UITex	24		2
+138	#q色	animate	ui\Image\UICommon\Talk_face1.UITex	25		2
+139	#q呼呼	animate	ui\Image\UICommon\Talk_face1.UITex	26		2
+140	#q讨厌	animate	ui\Image\UICommon\Talk_face1.UITex	27		2
+141	#q踢	animate	ui\Image\UICommon\Talk_face1.UITex	28		2
+142	#q吐	animate	ui\Image\UICommon\Talk_face1.UITex	29		2
+143	#q微笑	animate	ui\Image\UICommon\Talk_face1.UITex	30		2
+144	#q无奈	animate	ui\Image\UICommon\Talk_face1.UITex	31		2
+145	#q吓	animate	ui\Image\UICommon\Talk_face1.UITex	32		2
+146	#q掀桌	animate	ui\Image\UICommon\Talk_face1.UITex	33		2
+147	#q凶恶	animate	ui\Image\UICommon\Talk_face1.UITex	34		2
+148	#q阴险	animate	ui\Image\UICommon\Talk_face1.UITex	35		2
+149	#q嘤嘤	animate	ui\Image\UICommon\Talk_face1.UITex	36		2
+150	#q晕	animate	ui\Image\UICommon\Talk_face1.UITex	37		2
+151	#q再见	animate	ui\Image\UICommon\Talk_face1.UITex	38		2
+152	#q敦敦	animate	ui\Image\UICommon\Talk_face1.UITex	39		2
+153	#qGWW	animate	ui\Image\UICommon\Talk_face1.UITex	40		2
+154	#q鬼脸	animate	ui\Image\UICommon\Talk_face1.UITex	41		2
+155	#h挨打	animate	ui\Image\UICommon\Talk_face2.UITex	0		3
+156	#h嗷	animate	ui\Image\UICommon\Talk_face2.UITex	1		3
+157	#h嗷呜	animate	ui\Image\UICommon\Talk_face2.UITex	2		3
+158	#h傲慢	animate	ui\Image\UICommon\Talk_face2.UITex	3		3
+159	#h鄙视	animate	ui\Image\UICommon\Talk_face2.UITex	4		3
+160	#h沉默	animate	ui\Image\UICommon\Talk_face2.UITex	5		3
+161	#h大笑	animate	ui\Image\UICommon\Talk_face2.UITex	6		3
+162	#h呆	animate	ui\Image\UICommon\Talk_face2.UITex	7		3
+163	#h得意	animate	ui\Image\UICommon\Talk_face2.UITex	8		3
+164	#h尴尬	animate	ui\Image\UICommon\Talk_face2.UITex	9		3
+165	#h鬼脸	animate	ui\Image\UICommon\Talk_face2.UITex	10		3
+166	#h害羞	animate	ui\Image\UICommon\Talk_face2.UITex	11		3
+167	#h狡诈	animate	ui\Image\UICommon\Talk_face2.UITex	12		3
+168	#h惊恐	animate	ui\Image\UICommon\Talk_face2.UITex	13		3
+169	#h惊讶	animate	ui\Image\UICommon\Talk_face2.UITex	14		3
+170	#h开心	animate	ui\Image\UICommon\Talk_face2.UITex	15		3
+171	#h可怜	animate	ui\Image\UICommon\Talk_face2.UITex	16		3
+172	#h口水	animate	ui\Image\UICommon\Talk_face2.UITex	17		3
+173	#h抠鼻	animate	ui\Image\UICommon\Talk_face2.UITex	18		3
+174	#h哭	animate	ui\Image\UICommon\Talk_face2.UITex	19		3
+175	#h酷	animate	ui\Image\UICommon\Talk_face2.UITex	20		3
+176	#h流汗	animate	ui\Image\UICommon\Talk_face2.UITex	21		3
+177	#h媚眼	animate	ui\Image\UICommon\Talk_face2.UITex	22		3
+178	#h呕吐	animate	ui\Image\UICommon\Talk_face2.UITex	23		3
+179	#h撇嘴	animate	ui\Image\UICommon\Talk_face2.UITex	24		3
+180	#h亲吻	animate	ui\Image\UICommon\Talk_face2.UITex	25		3
+181	#h色	animate	ui\Image\UICommon\Talk_face2.UITex	26		3
+182	#h睡	animate	ui\Image\UICommon\Talk_face2.UITex	27		3
+183	#h讨厌	animate	ui\Image\UICommon\Talk_face2.UITex	28		3
+184	#h吐舌头	animate	ui\Image\UICommon\Talk_face2.UITex	29		3
+185	#h微笑	animate	ui\Image\UICommon\Talk_face2.UITex	30		3
+186	#h无奈	animate	ui\Image\UICommon\Talk_face2.UITex	31		3
+187	#h吓	animate	ui\Image\UICommon\Talk_face2.UITex	32		3
+188	#h掀桌	animate	ui\Image\UICommon\Talk_face2.UITex	33		3
+189	#h凶恶	animate	ui\Image\UICommon\Talk_face2.UITex	34		3
+190	#h阴险	animate	ui\Image\UICommon\Talk_face2.UITex	35		3
+191	#h嘤嘤	animate	ui\Image\UICommon\Talk_face2.UITex	36		3
+192	#h晕	animate	ui\Image\UICommon\Talk_face2.UITex	37		3
+193	#h再见	animate	ui\Image\UICommon\Talk_face2.UITex	38		3
+194	#a可怜	animate	ui\Image\UICommon\Talk_face3.UITEX	0		4
+195	#a沉默	animate	ui\Image\UICommon\Talk_face3.UITEX	1		4
+196	#a流汗	animate	ui\Image\UICommon\Talk_face3.UITEX	2		4
+197	#a掀桌	animate	ui\Image\UICommon\Talk_face3.UITEX	3		4
+198	#a再见	animate	ui\Image\UICommon\Talk_face3.UITEX	4		4
+199	#a抠鼻	animate	ui\Image\UICommon\Talk_face3.UITEX	5		4
+200	#a呕吐	animate	ui\Image\UICommon\Talk_face3.UITEX	6		4
+201	#a鄙视	animate	ui\Image\UICommon\Talk_face3.UITEX	7		4
+202	#a害羞	animate	ui\Image\UICommon\Talk_face3.UITEX	8		4
+203	#a哭	animate	ui\Image\UICommon\Talk_face3.UITEX	9		4
+204	#a色	animate	ui\Image\UICommon\Talk_face3.UITEX	10		4
+205	#a吃鱼	animate	ui\Image\UICommon\Talk_face3.UITEX	11		4
+206	#可怜	animate	\ui\Image\UICommon\Talk_face5.UITEX	0		6
+207	#c沉默	animate	\ui\Image\UICommon\Talk_face5.UITEX	1		6
+208	#c流汗	animate	\ui\Image\UICommon\Talk_face5.UITEX	2		6
+209	#c掀桌	animate	\ui\Image\UICommon\Talk_face5.UITEX	3		6
+210	#c再见	animate	\ui\Image\UICommon\Talk_face5.UITEX	4		6
+211	#c抠鼻	animate	\ui\Image\UICommon\Talk_face5.UITEX	5		6
+212	#c呕吐	animate	\ui\Image\UICommon\Talk_face5.UITEX	6		6
+213	#c鄙视	animate	\ui\Image\UICommon\Talk_face5.UITEX	7		6
+214	#c害羞	animate	\ui\Image\UICommon\Talk_face5.UITEX	8		6
+215	#c哭	animate	\ui\Image\UICommon\Talk_face5.UITEX	9		6
+216	#c色	animate	\ui\Image\UICommon\Talk_face5.UITEX	10		6
+217	#c念念碎	animate	\ui\Image\UICommon\Talk_face5.UITEX	11		6
+218	#d可怜	animate	\ui\Image\UICommon\Talk_face6.UITEX	0		8
+219	#d沉默	animate	\ui\Image\UICommon\Talk_face6.UITEX	1		8
+220	#d流汗	animate	\ui\Image\UICommon\Talk_face6.UITEX	2		8
+221	#d掀桌	animate	\ui\Image\UICommon\Talk_face6.UITEX	3		8
+222	#d再见	animate	\ui\Image\UICommon\Talk_face6.UITEX	4		8
+223	#d抠鼻	animate	\ui\Image\UICommon\Talk_face6.UITEX	5		8
+224	#d呕吐	animate	\ui\Image\UICommon\Talk_face6.UITEX	6		8
+225	#d鄙视	animate	\ui\Image\UICommon\Talk_face6.UITEX	7		8
+226	#d害羞	animate	\ui\Image\UICommon\Talk_face6.UITEX	8		8
+227	#d哭	animate	\ui\Image\UICommon\Talk_face6.UITEX	9		8
+228	#d色	animate	\ui\Image\UICommon\Talk_face6.UITEX	10		8
+229	#d吃萝卜	animate	\ui\Image\UICommon\Talk_face6.UITEX	11		8
+230	#e可怜	animate	\ui\Image\UICommon\Talk_face4.UITEX	0		15
+231	#e沉默	animate	\ui\Image\UICommon\Talk_face4.UITEX	1		15
+232	#e流汗	animate	\ui\Image\UICommon\Talk_face4.UITEX	2		15
+233	#e掀桌	animate	\ui\Image\UICommon\Talk_face4.UITEX	3		15
+234	#e再见	animate	\ui\Image\UICommon\Talk_face4.UITEX	4		15
+235	#e抠鼻	animate	\ui\Image\UICommon\Talk_face4.UITEX	5		15
+236	#e呕吐	animate	\ui\Image\UICommon\Talk_face4.UITEX	6		15
+237	#e鄙视	animate	\ui\Image\UICommon\Talk_face4.UITEX	7		15
+238	#e害羞	animate	\ui\Image\UICommon\Talk_face4.UITEX	8		15
+239	#e哭	animate	\ui\Image\UICommon\Talk_face4.UITEX	9		15
+240	#e色	animate	\ui\Image\UICommon\Talk_face4.UITEX	10		15
+241	#e嚎叫	animate	\ui\Image\UICommon\Talk_face4.UITEX	11		15
+242	#f可怜	animate	\ui\Image\UICommon\Talk_face7.UITEX	0		7
+243	#f沉默	animate	\ui\Image\UICommon\Talk_face7.UITEX	1		7
+244	#f流汗	animate	\ui\Image\UICommon\Talk_face7.UITEX	2		7
+245	#f掀桌	animate	\ui\Image\UICommon\Talk_face7.UITEX	3		7
+246	#f再见	animate	\ui\Image\UICommon\Talk_face7.UITEX	4		7
+247	#f抠鼻	animate	\ui\Image\UICommon\Talk_face7.UITEX	5		7
+248	#f呕吐	animate	\ui\Image\UICommon\Talk_face7.UITEX	6		7
+249	#f鄙视	animate	\ui\Image\UICommon\Talk_face7.UITEX	7		7
+250	#f害羞	animate	\ui\Image\UICommon\Talk_face7.UITEX	8		7
+251	#f哭	animate	\ui\Image\UICommon\Talk_face7.UITEX	9		7
+252	#f色	animate	\ui\Image\UICommon\Talk_face7.UITEX	10		7
+253	#f打滚	animate	\ui\Image\UICommon\Talk_face7.UITEX	11		7
+254	#g可怜	animate	\ui\Image\UICommon\Talk_face8.UITEX	0		5
+255	#g沉默	animate	\ui\Image\UICommon\Talk_face8.UITEX	1		5
+256	#g流汗	animate	\ui\Image\UICommon\Talk_face8.UITEX	2		5
+257	#g掀桌	animate	\ui\Image\UICommon\Talk_face8.UITEX	3		5
+258	#g再见	animate	\ui\Image\UICommon\Talk_face8.UITEX	4		5
+259	#g抠鼻	animate	\ui\Image\UICommon\Talk_face8.UITEX	5		5
+260	#g呕吐	animate	\ui\Image\UICommon\Talk_face8.UITEX	6		5
+261	#g鄙视	animate	\ui\Image\UICommon\Talk_face8.UITEX	7		5
+262	#g害羞	animate	\ui\Image\UICommon\Talk_face8.UITEX	8		5
+263	#g哭	animate	\ui\Image\UICommon\Talk_face8.UITEX	9		5
+264	#g色	animate	\ui\Image\UICommon\Talk_face8.UITEX	10		5
+265	#g吃松子	animate	\ui\Image\UICommon\Talk_face8.UITEX	11		5
+266	#i可怜	animate	\ui\Image\UICommon\Talk_face9.UITEX	0		12
+267	#i沉默	animate	\ui\Image\UICommon\Talk_face9.UITEX	1		12
+268	#i流汗	animate	\ui\Image\UICommon\Talk_face9.UITEX	2		12
+269	#i掀桌	animate	\ui\Image\UICommon\Talk_face9.UITEX	3		12
+270	#i再见	animate	\ui\Image\UICommon\Talk_face9.UITEX	4		12
+271	#i抠鼻	animate	\ui\Image\UICommon\Talk_face9.UITEX	5		12
+272	#i呕吐	animate	\ui\Image\UICommon\Talk_face9.UITEX	6		12
+273	#i鄙视	animate	\ui\Image\UICommon\Talk_face9.UITEX	7		12
+274	#i害羞	animate	\ui\Image\UICommon\Talk_face9.UITEX	8		12
+275	#i哭	animate	\ui\Image\UICommon\Talk_face9.UITEX	9		12
+276	#i色	animate	\ui\Image\UICommon\Talk_face9.UITEX	10		12
+277	#i打滚	animate	\ui\Image\UICommon\Talk_face9.UITEX	11		12
+278	#j可怜	animate	\ui\Image\UICommon\Talk_face10.UITEX	0		10
+279	#j沉默	animate	\ui\Image\UICommon\Talk_face10.UITEX	1		10
+280	#j流汗	animate	\ui\Image\UICommon\Talk_face10.UITEX	2		10
+281	#j掀桌	animate	\ui\Image\UICommon\Talk_face10.UITEX	3		10
+282	#j再见	animate	\ui\Image\UICommon\Talk_face10.UITEX	4		10
+283	#j抠鼻	animate	\ui\Image\UICommon\Talk_face10.UITEX	5		10
+284	#j呕吐	animate	\ui\Image\UICommon\Talk_face10.UITEX	6		10
+285	#j鄙视	animate	\ui\Image\UICommon\Talk_face10.UITEX	7		10
+286	#j害羞	animate	\ui\Image\UICommon\Talk_face10.UITEX	8		10
+287	#j哭	animate	\ui\Image\UICommon\Talk_face10.UITEX	9		10
+288	#j色	animate	\ui\Image\UICommon\Talk_face10.UITEX	10		10
+289	#j吃	animate	\ui\Image\UICommon\Talk_face10.UITEX	11		10
+290	#k可怜	animate	\ui\Image\UICommon\Talk_face11.UITEX	0		9
+291	#k沉默	animate	\ui\Image\UICommon\Talk_face11.UITEX	1		9
+292	#k流汗	animate	\ui\Image\UICommon\Talk_face11.UITEX	2		9
+293	#k掀桌	animate	\ui\Image\UICommon\Talk_face11.UITEX	3		9
+294	#k再见	animate	\ui\Image\UICommon\Talk_face11.UITEX	4		9
+295	#k抠鼻	animate	\ui\Image\UICommon\Talk_face11.UITEX	5		9
+296	#k呕吐	animate	\ui\Image\UICommon\Talk_face11.UITEX	6		9
+297	#k鄙视	animate	\ui\Image\UICommon\Talk_face11.UITEX	7		9
+298	#k害羞	animate	\ui\Image\UICommon\Talk_face11.UITEX	8		9
+299	#k哭	animate	\ui\Image\UICommon\Talk_face11.UITEX	9		9
+300	#k色	animate	\ui\Image\UICommon\Talk_face11.UITEX	10		9
+301	#k傲慢	animate	\ui\Image\UICommon\Talk_face11.UITEX	11		9
+302	#l可怜	animate	\ui\Image\UICommon\Talk_face12.UITEX	0		11
+303	#l沉默	animate	\ui\Image\UICommon\Talk_face12.UITEX	1		11
+304	#l流汗	animate	\ui\Image\UICommon\Talk_face12.UITEX	2		11
+305	#l掀桌	animate	\ui\Image\UICommon\Talk_face12.UITEX	3		11
+306	#l再见	animate	\ui\Image\UICommon\Talk_face12.UITEX	4		11
+307	#l抠鼻	animate	\ui\Image\UICommon\Talk_face12.UITEX	5		11
+308	#l呕吐	animate	\ui\Image\UICommon\Talk_face12.UITEX	6		11
+309	#l鄙视	animate	\ui\Image\UICommon\Talk_face12.UITEX	7		11
+310	#l害羞	animate	\ui\Image\UICommon\Talk_face12.UITEX	8		11
+311	#l哭	animate	\ui\Image\UICommon\Talk_face12.UITEX	9		11
+312	#l色	animate	\ui\Image\UICommon\Talk_face12.UITEX	10		11
+313	#l打滚	animate	\ui\Image\UICommon\Talk_face12.UITEX	11		11
+314	#m可怜	animate	\ui\Image\UICommon\Talk_face13.UITEX	0		14
+315	#m沉默	animate	\ui\Image\UICommon\Talk_face13.UITEX	1		14
+316	#m流汗	animate	\ui\Image\UICommon\Talk_face13.UITEX	2		14
+317	#m掀桌	animate	\ui\Image\UICommon\Talk_face13.UITEX	3		14
+318	#m再见	animate	\ui\Image\UICommon\Talk_face13.UITEX	4		14
+319	#m抠鼻	animate	\ui\Image\UICommon\Talk_face13.UITEX	5		14
+320	#m呕吐	animate	\ui\Image\UICommon\Talk_face13.UITEX	6		14
+321	#m鄙视	animate	\ui\Image\UICommon\Talk_face13.UITEX	7		14
+322	#m害羞	animate	\ui\Image\UICommon\Talk_face13.UITEX	8		14
+323	#m哭	animate	\ui\Image\UICommon\Talk_face13.UITEX	9		14
+324	#m色	animate	\ui\Image\UICommon\Talk_face13.UITEX	10		14
+325	#m得瑟	animate	\ui\Image\UICommon\Talk_face13.UITEX	11		14
+326	#n可怜	animate	\ui\Image\UICommon\Talk_face14.UITEX	0		13
+327	#n沉默	animate	\ui\Image\UICommon\Talk_face14.UITEX	1		13
+328	#n流汗	animate	\ui\Image\UICommon\Talk_face14.UITEX	2		13
+329	#n掀桌	animate	\ui\Image\UICommon\Talk_face14.UITEX	3		13
+330	#n再见	animate	\ui\Image\UICommon\Talk_face14.UITEX	4		13
+331	#n抠鼻	animate	\ui\Image\UICommon\Talk_face14.UITEX	5		13
+332	#n呕吐	animate	\ui\Image\UICommon\Talk_face14.UITEX	6		13
+333	#n鄙视	animate	\ui\Image\UICommon\Talk_face14.UITEX	7		13
+334	#n害羞	animate	\ui\Image\UICommon\Talk_face14.UITEX	8		13
+335	#n哭	animate	\ui\Image\UICommon\Talk_face14.UITEX	9		13
+336	#n色	animate	\ui\Image\UICommon\Talk_face14.UITEX	10		13
+337	#n走	animate	\ui\Image\UICommon\Talk_face14.UITEX	11		13
+338	#o可怜	animate	\ui\Image\UICommon\Talk_face15.UITEX	0		16
+339	#o沉默	animate	\ui\Image\UICommon\Talk_face15.UITEX	1		16
+340	#o流汗	animate	\ui\Image\UICommon\Talk_face15.UITEX	2		16
+341	#o怒	animate	\ui\Image\UICommon\Talk_face15.UITEX	3		16
+342	#o再见	animate	\ui\Image\UICommon\Talk_face15.UITEX	4		16
+343	#o抠鼻	animate	\ui\Image\UICommon\Talk_face15.UITEX	5		16
+344	#o呕吐	animate	\ui\Image\UICommon\Talk_face15.UITEX	6		16
+345	#o鄙视	animate	\ui\Image\UICommon\Talk_face15.UITEX	7		16
+346	#o害羞	animate	\ui\Image\UICommon\Talk_face15.UITEX	8		16
+347	#o哭	animate	\ui\Image\UICommon\Talk_face15.UITEX	9		16
+348	#o色	animate	\ui\Image\UICommon\Talk_face15.UITEX	10		16
+349	#o睡觉	animate	\ui\Image\UICommon\Talk_face15.UITEX	11		16
+350	#p哎嘿嘿	image	\ui\Image\UICommon\Danmaku_face.UITex	0		
+351	#p爱	image	\ui\Image\UICommon\Danmaku_face.UITex	1		
+352	#p抱抱	image	\ui\Image\UICommon\Danmaku_face.UITex	2		
+353	#p都得死	image	\ui\Image\UICommon\Danmaku_face.UITex	3		17
+354	#p我的错	image	\ui\Image\UICommon\Danmaku_face.UITex	4		
+355	#p马草	image	\ui\Image\UICommon\Danmaku_face.UITex	5		
+356	#p木鸡	image	\ui\Image\UICommon\Danmaku_face.UITex	6		
+357	#p嗯	image	\ui\Image\UICommon\Danmaku_face.UITex	7		17
+358	#p汗	image	\ui\Image\UICommon\Danmaku_face.UITex	8		
+359	#p好气啊	image	\ui\Image\UICommon\Danmaku_face.UITex	9		17
+360	#p浩气	image	\ui\Image\UICommon\Danmaku_face.UITex	10		17
+361	#p假发	image	\ui\Image\UICommon\Danmaku_face.UITex	11		
+362	#p奸笑	image	\ui\Image\UICommon\Danmaku_face.UITex	12		
+363	#p星星眼	image	\ui\Image\UICommon\Danmaku_face.UITex	13		
+364	#p讲道理	image	\ui\Image\UICommon\Danmaku_face.UITex	14		
+365	#p紧张	image	\ui\Image\UICommon\Danmaku_face.UITex	15		
+366	#p开心	image	\ui\Image\UICommon\Danmaku_face.UITex	16		
+367	#p可爱	image	\ui\Image\UICommon\Danmaku_face.UITex	17		
+368	#p困	image	\ui\Image\UICommon\Danmaku_face.UITex	18		
+369	#p老板	image	\ui\Image\UICommon\Danmaku_face.UITex	19		
+370	#p大屁羊	image	\ui\Image\UICommon\Danmaku_face.UITex	20		17
+371	#p胸大	image	\ui\Image\UICommon\Danmaku_face.UITex	21		
+372	#p呸呸	image	\ui\Image\UICommon\Danmaku_face.UITex	22		
+373	#p喷血	image	\ui\Image\UICommon\Danmaku_face.UITex	23		
+374	#p皮痒了	image	\ui\Image\UICommon\Danmaku_face.UITex	24		
+375	#p切了你	image	\ui\Image\UICommon\Danmaku_face1.UITex	0		
+376	#p三思	image	\ui\Image\UICommon\Danmaku_face1.UITex	1		
+377	#p啥	image	\ui\Image\UICommon\Danmaku_face1.UITex	2		
+378	#p糖葫芦	image	\ui\Image\UICommon\Danmaku_face1.UITex	3		
+379	#p帅气	image	\ui\Image\UICommon\Danmaku_face1.UITex	4		
+380	#p围观	image	\ui\Image\UICommon\Danmaku_face1.UITex	5		17
+381	#p委屈	image	\ui\Image\UICommon\Danmaku_face1.UITex	6		17
+382	#p我不听 	image	\ui\Image\UICommon\Danmaku_face1.UITex	7		
+383	#p无奈	image	\ui\Image\UICommon\Danmaku_face1.UITex	8		
+384	#p无语	image	\ui\Image\UICommon\Danmaku_face1.UITex	9		17
+385	#p下午茶	image	\ui\Image\UICommon\Danmaku_face1.UITex	10		
+386	#p啊哈	image	\ui\Image\UICommon\Danmaku_face1.UITex	11		
+387	#p心里苦	image	\ui\Image\UICommon\Danmaku_face1.UITex	12		
+388	#p飘柔	image	\ui\Image\UICommon\Danmaku_face1.UITex	13		
+389	#p渣渣	image	\ui\Image\UICommon\Danmaku_face1.UITex	14		17
+390	#p找打	image	\ui\Image\UICommon\Danmaku_face1.UITex	15		
+391	#p灯泡	image	\ui\Image\UICommon\Danmaku_face1.UITex	16		
+392	#p就是他	image	\ui\Image\UICommon\Danmaku_face1.UITex	17		
+393	#p转运	image	\ui\Image\UICommon\Danmaku_face1.UITex	18		
+394	#p恶人	image	\ui\Image\UICommon\Danmaku_face1.UITex	19		17
+395	#o可怜	animate	\ui\Image\UICommon\Talk_face16.UITex	0		18
+396	#o沉默	animate	\ui\Image\UICommon\Talk_face16.UITex	1		18
+397	#o流汗	animate	\ui\Image\UICommon\Talk_face16.UITex	2		18
+398	#o怒	animate	\ui\Image\UICommon\Talk_face16.UITex	3		18
+399	#o再见	animate	\ui\Image\UICommon\Talk_face16.UITex	4		18
+400	#o抠鼻	animate	\ui\Image\UICommon\Talk_face16.UITex	5		18
+401	#o呕吐	animate	\ui\Image\UICommon\Talk_face16.UITex	6		18
+402	#o鄙视	animate	\ui\Image\UICommon\Talk_face16.UITex	7		18
+403	#o害羞	animate	\ui\Image\UICommon\Talk_face16.UITex	8		18
+404	#o哭	animate	\ui\Image\UICommon\Talk_face16.UITex	9		18
+405	#o色	animate	\ui\Image\UICommon\Talk_face16.UITex	10		18
+406	#o睡觉	animate	\ui\Image\UICommon\Talk_face16.UITex	11		18
+407	#s沉默	animate	\ui\Image\UICommon\Talk_face17.UITex	0		19
+408	#s奉承	animate	\ui\Image\UICommon\Talk_face17.UITex	1		19
+409	#s惊恐	animate	\ui\Image\UICommon\Talk_face17.UITex	2		19
+410	#s卖萌	animate	\ui\Image\UICommon\Talk_face17.UITex	3		19
+411	#s懵	animate	\ui\Image\UICommon\Talk_face17.UITex	4		19
+412	#s内伤	animate	\ui\Image\UICommon\Talk_face17.UITex	5		19
+413	#s喷血	animate	\ui\Image\UICommon\Talk_face17.UITex	6		19
+414	#s伤心	animate	\ui\Image\UICommon\Talk_face17.UITex	7		19
+415	#s盛怒	animate	\ui\Image\UICommon\Talk_face17.UITex	8		19
+416	#s问候	animate	\ui\Image\UICommon\Talk_face17.UITex	9		19
+417	#s喜悦	animate	\ui\Image\UICommon\Talk_face17.UITex	10		19
+418	#s再见	animate	\ui\Image\UICommon\Talk_face17.UITex	11		19
+419	#r鄙视	animate	\ui\Image\UICommon\Talk_face18.UITex	0		20
+420	#r沉默	animate	\ui\Image\UICommon\Talk_face18.UITex	1		20
+421	#r害羞	animate	\ui\Image\UICommon\Talk_face18.UITex	2		20
+422	#r可怜	animate	\ui\Image\UICommon\Talk_face18.UITex	3		20
+423	#r抠鼻	animate	\ui\Image\UICommon\Talk_face18.UITex	4		20
+424	#r哭	animate	\ui\Image\UICommon\Talk_face18.UITex	5		20
+425	#r流汗	animate	\ui\Image\UICommon\Talk_face18.UITex	6		20
+426	#r呕吐	animate	\ui\Image\UICommon\Talk_face18.UITex	7		20
+427	#r色	animate	\ui\Image\UICommon\Talk_face18.UITex	8		20
+428	#r睡觉	animate	\ui\Image\UICommon\Talk_face18.UITex	9		20
+429	#r掀桌	animate	\ui\Image\UICommon\Talk_face18.UITex	10		20
+430	#r再见	animate	\ui\Image\UICommon\Talk_face18.UITex	11		20
+431	#t鄙视	animate	\ui\Image\UICommon\Talk_face19.UITex	0		21
+432	#t沉默	animate	\ui\Image\UICommon\Talk_face19.UITex	1		21
+433	#t害羞	animate	\ui\Image\UICommon\Talk_face19.UITex	2		21
+434	#t可怜	animate	\ui\Image\UICommon\Talk_face19.UITex	3		21
+435	#t抠鼻	animate	\ui\Image\UICommon\Talk_face19.UITex	4		21
+436	#t哭	animate	\ui\Image\UICommon\Talk_face19.UITex	5		21
+437	#t流汗	animate	\ui\Image\UICommon\Talk_face19.UITex	6		21
+438	#t呕吐	animate	\ui\Image\UICommon\Talk_face19.UITex	7		21
+439	#t色	animate	\ui\Image\UICommon\Talk_face19.UITex	8		21
+440	#t睡觉	animate	\ui\Image\UICommon\Talk_face19.UITex	9		21
+441	#t掀桌	animate	\ui\Image\UICommon\Talk_face19.UITex	10		21
+442	#t再见	animate	\ui\Image\UICommon\Talk_face19.UITex	11		21
+443	#u打盹	animate	\ui\Image\UICommon\Talk_face20.UITex	0		22
+444	#u媚眼	animate	\ui\Image\UICommon\Talk_face20.UITex	1		22
+445	#u沉默	animate	\ui\Image\UICommon\Talk_face20.UITex	2		22
+446	#u再见	animate	\ui\Image\UICommon\Talk_face20.UITex	3		22
+447	#u害怕	animate	\ui\Image\UICommon\Talk_face20.UITex	4		22
+448	#u害羞	animate	\ui\Image\UICommon\Talk_face20.UITex	5		22
+449	#u哭	animate	\ui\Image\UICommon\Talk_face20.UITex	6		22
+450	#u鄙视	animate	\ui\Image\UICommon\Talk_face20.UITex	7		22
+451	#u流汗	animate	\ui\Image\UICommon\Talk_face20.UITex	8		22
+452	#u怒	animate	\ui\Image\UICommon\Talk_face20.UITex	9		22
