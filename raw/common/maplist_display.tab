@@ -403,9 +403,9 @@ ID	Group	Region	Name	Type	MiddleMap0	ImagesPath	Tip	movie_id	font_ID	HasTreasure
 515	6	0	雪龙风原	BATTLE_FIELD	雪龙风原					
 516	1	0	1024_昼夜循环_标准2020	TEST	1024_昼夜循环_标准2020					
 517	4	1	修罗挑战	RAID	修罗挑战		<text>text="修罗挑战：110+(10人)/110+(25人)" font=162</text>"			
-518	4	1	白帝江关	RAID	白帝江关		<text>text="白帝江关：110+(10人)/110+(25人)" font=162</text>			
-519	4	1	25人普通白帝江关	RAID	25人普通白帝江关		<text>text="25人普通白帝江关：110+(10人)/110+(25人)" font=162</text>			
-520	4	1	25人英雄白帝江关	RAID	25人英雄白帝江关		<text>text="25人英雄白帝江关：110+(10人)/110+(25人)" font=162</text>			
+518	4	3	白帝江关	RAID	白帝江关		<text>text="白帝江关：110+(10人)/110+(25人)" font=162</text>			
+519	4	3	25人普通白帝江关	RAID	25人普通白帝江关		<text>text="25人普通白帝江关：110+(10人)/110+(25人)" font=162</text>			
+520	4	3	25人英雄白帝江关	RAID	25人英雄白帝江关		<text>text="25人英雄白帝江关：110+(10人)/110+(25人)" font=162</text>			
 521	4	1	英雄漳水南路	DUNGEON	英雄漳水南路		<text>text="漳水南路：110+(5人)" font=162</text>			
 522	4	1	挑战漳水南路	DUNGEON	挑战漳水南路		<text>text="挑战漳水南路：110+(5人)" font=162</text>			
 523	4	1	北墟河堤	VILLAGE	北墟河堤					
