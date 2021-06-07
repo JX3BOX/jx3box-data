@@ -414,3 +414,4 @@ ID	Group	Region	Name	Type	MiddleMap0	ImagesPath	Tip	movie_id	font_ID	HasTreasure
 528	4	0	浪客行·漓水	DUNGEON	浪客行·漓水		<text>text="浪客行·漓水：100+(5人)" font=162</text>	0		
 529	9	0	藏剑武库	ARENA	藏剑武库		<text>text="名剑大会 - 藏剑武库" font=162</text>			
 530	9	0	墟海之眼·演武场	ARENA	墟海之眼·演武场		<text>text="名剑大会·墟海之眼" font=162</text>			
+531	4	0	东水寨	DUNGEON	东水寨		<text>text="东水寨" font=162</text>			
