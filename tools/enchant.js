@@ -12,10 +12,12 @@ let records = parse(data, {
     quote: null
 })
 
+let output = {}
 records.forEach((item) => {
     item.desc = item.desc.replace('<text>text="','')
     item.desc = item.desc.replace('" font=12 </text>','')
+    output[item.enchant_id] = item.desc
 })
 // console.log(records)
 
-fs.writeFileSync('./data/bps/enchant.json',JSON.stringify(records))
+fs.writeFileSync('./data/bps/enchant.json',JSON.stringify(output))

@@ -1,6 +1,6 @@
 {
     "name": "@jx3box/jx3box-data",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
         "fb": "node ./tools/fb.js",
         "house": "node ./tools/house.js",
         "face": "node ./tools/facedecal.js",
-        "build": "npm run map && npm run fb && npm run face",
+        "build": "npm run map && npm run fb && npm run face && npm run enchant",
         "kungfu": "node ./tools/kungfu.js",
         "enchant":"node ./tools/enchant.js"
     },
