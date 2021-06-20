@@ -318,7 +318,7 @@
         "hover": "/box/joke.svg",
         "name": "剑三骚话",
         "abbr": "骚话",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true

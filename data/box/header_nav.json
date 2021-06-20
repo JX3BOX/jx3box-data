@@ -81,8 +81,13 @@
                 "key": "bps_post"
             },
             {
+                "label": "门派天梯",
+                "link": "/bps/#/ladder",
+                "status": 1,
+                "key": "ladder"
+            },
+            {
                 "label": "战斗分析",
-                "desc": "（JCL）",
                 "link": "/battle",
                 "status": 1,
                 "key": "battle"
@@ -91,7 +96,7 @@
                 "label": "DPS模拟器",
                 "link": "/app/dps",
                 "status": 1,
-                "key": "dps_calc"
+                "key": "dps"
             }
         ]
     },
@@ -183,14 +188,14 @@
             {
                 "label": "剑三表情",
                 "link": "/bbs/#/emotion",
-                "status": 1,
+                "status": 0,
                 "key": "emotion"
             },
             {
-                "label": "茶馆交流",
-                "link": "/bbs/#/forum",
+                "label": "剑三铭牌",
+                "link": "/bbs/#/namespace",
                 "status": 1,
-                "key": "forum"
+                "key": "namespace"
             },
             {
                 "label": "捏脸分享",
@@ -199,11 +204,10 @@
                 "key": "share"
             },
             {
-                "label": "铭牌",
-                "desc": "（剑网3.com）",
-                "link": "/bbs/#/namespace",
+                "label": "茶馆交流",
+                "link": "/bbs/#/forum",
                 "status": 1,
-                "key": "namespace"
+                "key": "forum"
             }
         ]
     }
