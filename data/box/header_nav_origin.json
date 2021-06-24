@@ -43,9 +43,15 @@
         "children": [
             {
                 "label": "副本攻略",
-                "link": "/fb/#/",
+                "link": "/fb",
                 "status": 1,
                 "key": "fb_post"
+            },
+            {
+                "label": "团队平台",
+                "link": "/team",
+                "status": 1,
+                "key": "team"
             },
             {
                 "label": "掉落奖励",
@@ -75,7 +81,7 @@
                 "key": "bps_post"
             },
             {
-                "label": "门派天梯",
+                "label": "天梯排行",
                 "link": "/bps/#/ladder",
                 "status": 1,
                 "key": "ladder"
@@ -87,7 +93,7 @@
                 "key": "battle"
             },
             {
-                "label": "DPS模拟器",
+                "label": "伤害模拟",
                 "link": "/app/dps",
                 "status": 1,
                 "key": "dps"
@@ -141,22 +147,16 @@
         "hasChildren": true,
         "children": [
             {
-                "label": "团队平台",
-                "link": "/team",
+                "label": "剑三数据库",
+                "link": "/app/database",
                 "status": 1,
-                "key": "team"
+                "key": "database"
             },
             {
                 "label": "阵营沙盘",
                 "link": "/app/sandbox",
                 "status": 1,
                 "key": "sandbox"
-            },
-            {
-                "label": "剑三数据库",
-                "link": "/app/database",
-                "status": 1,
-                "key": "database"
             },
             {
                 "label": "教程工具",
