@@ -119,18 +119,6 @@
         "mark": "HOT",
         "status": true
     },
-    "bbs": {
-        "uuid": "bbs",
-        "href": "/bbs",
-        "img": "/box/bbs.svg",
-        "hover": "/box/bbs.svg",
-        "name": "茶馆交流",
-        "abbr": "茶馆",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
     "share": {
         "uuid": "share",
         "href": "/share",
@@ -138,6 +126,18 @@
         "hover": "/box/share.svg",
         "name": "捏脸分享",
         "abbr": "捏脸",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "bbs": {
+        "uuid": "bbs",
+        "href": "/bbs",
+        "img": "/box/bbs.svg",
+        "hover": "/box/bbs.svg",
+        "name": "茶馆交流",
+        "abbr": "茶馆",
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
@@ -258,7 +258,7 @@
         "hover": "/box/team.svg",
         "name": "团队平台",
         "abbr": "团队",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -270,7 +270,7 @@
         "hover": "/box/battle.svg",
         "name": "战斗分析",
         "abbr": "复盘",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -285,6 +285,18 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
+        "status": true
+    },
+    "exam": {
+        "uuid": "exam",
+        "href": "/exam",
+        "img": "/box/exam.svg",
+        "hover": "/box/exam.svg",
+        "name": "趣味题库",
+        "abbr": "题库",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "collection": {
