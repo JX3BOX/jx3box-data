@@ -11,7 +11,29 @@
         "link": "/macro",
         "status": 1,
         "key": "macro",
-        "hasChildren": false
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "怀旧服",
+                "link": "https://origin.jx3box.com/macro",
+                "status": 1,
+                "key": "macro-origin",
+                "desc":"(缘起)"
+            },
+            {
+                "label": "正式服",
+                "link": "https://www.jx3box.com/macro",
+                "status": 1,
+                "key": "macro-std",
+                "desc":"(重制版)"
+            },
+            {
+                "label": "宏编辑器",
+                "link": "/app/macroeditor",
+                "status": 1,
+                "key": "macroeditor"
+            }
+        ]
     },
     {
         "label": "插件",
