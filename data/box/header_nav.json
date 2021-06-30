@@ -15,14 +15,14 @@
         "children": [
             {
                 "label": "正式服",
-                "link": "/macro/?client=std",
+                "link": "/macro",
                 "status": 1,
                 "key": "macro-std",
                 "desc":"(重制版)"
             },
             {
                 "label": "怀旧服",
-                "link": "/macro/?client=origin",
+                "link": "https://origin.jx3box.com/macro",
                 "status": 1,
                 "key": "macro-origin",
                 "desc":"(缘起)"
