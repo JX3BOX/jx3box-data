@@ -11,29 +11,7 @@
         "link": "/macro",
         "status": 1,
         "key": "macro",
-        "hasChildren": true,
-        "children": [
-            {
-                "label": "怀旧服",
-                "link": "/macro/?client=origin",
-                "status": 1,
-                "key": "macro-origin",
-                "desc":"(缘起)"
-            },
-            {
-                "label": "正式服",
-                "link": "/macro/?client=std",
-                "status": 1,
-                "key": "macro-std",
-                "desc":"(重制版)"
-            },
-            {
-                "label": "宏编辑器",
-                "link": "/app/macroeditor",
-                "status": 1,
-                "key": "macroeditor"
-            }
-        ]
+        "hasChildren": false
     },
     {
         "label": "插件",
