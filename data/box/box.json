@@ -119,18 +119,6 @@
         "mark": "HOT",
         "status": true
     },
-    "bbs": {
-        "uuid": "bbs",
-        "href": "/bbs",
-        "img": "/box/bbs.svg",
-        "hover": "/box/bbs.svg",
-        "name": "茶馆交流",
-        "abbr": "茶馆",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
     "share": {
         "uuid": "share",
         "href": "/share",
@@ -138,6 +126,18 @@
         "hover": "/box/share.svg",
         "name": "捏脸分享",
         "abbr": "捏脸",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "bbs": {
+        "uuid": "bbs",
+        "href": "/bbs",
+        "img": "/box/bbs.svg",
+        "hover": "/box/bbs.svg",
+        "name": "茶馆交流",
+        "abbr": "茶馆",
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
@@ -155,6 +155,18 @@
         "mark": "HOT",
         "status": true
     },
+    "icons": {
+        "uuid": "icons",
+        "href": "/app/icons",
+        "img": "/box/icons.svg",
+        "hover": "/box/icons.svg",
+        "name": "图标大全",
+        "abbr": "图标",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
     "talent": {
         "uuid": "talent",
         "href": "/app/talent",
@@ -167,17 +179,17 @@
         "mark": "HOT",
         "status": true
     },
-    "icons": {
-        "uuid": "icons",
-        "href": "/app/icons",
-        "img": "/box/icons.svg",
-        "hover": "/box/icons.svg",
-        "name": "图标大全",
-        "abbr": "图标",
+    "meridians": {
+        "uuid": "meridians",
+        "href": "/app/meridians",
+        "img": "/box/meridians.svg",
+        "hover": "/box/meridians.svg",
+        "name": "经脉模拟",
+        "abbr": "经脉",
         "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": false
     },
     "macroeditor": {
         "uuid": "macroeditor",
@@ -261,19 +273,7 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
-    },
-    "meridians": {
-        "uuid": "meridians",
-        "href": "/app/meridians",
-        "img": "/box/meridians.svg",
-        "hover": "/box/meridians.svg",
-        "name": "经脉模拟",
-        "abbr": "经脉",
-        "hasMark": true,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
+        "status": false
     },
     "sandbox": {
         "uuid": "sandbox",
@@ -282,7 +282,7 @@
         "hover": "/box/sandbox.svg",
         "name": "阵营沙盘",
         "abbr": "沙盘",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -306,7 +306,7 @@
         "hover": "/box/rank.svg",
         "name": "秘境百强",
         "abbr": "百强榜",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -318,7 +318,7 @@
         "hover": "/box/battle.svg",
         "name": "战斗分析",
         "abbr": "复盘",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -342,7 +342,7 @@
         "hover": "/box/fbdata.svg",
         "name": "特殊机制",
         "abbr": "机制",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -414,7 +414,7 @@
         "hover": "/box/joke.svg",
         "name": "剑三骚话",
         "abbr": "骚话",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true

@@ -1,0 +1,24 @@
+pageid	name	grid_w	grid_h	image_path	image_frame	emotionP_w	emotionP_h
+0	默认	33	33				
+1	萌鸡	38	38				
+2	企鹅	38	38				
+3	萌虎	38	38				
+4	明教萌猫	38	38	ui/Image/icon/daoj_16_8_8_23.UITex	0		
+5	万花松鼠	38	38	ui/Image/icon/daoj_16_8_8_19.UITex	0		
+6	少林灵猴	38	38	ui/Image/icon/daoj_16_8_8_24.UITex	0		
+7	唐门小猪	38	38	ui/Image/icon/daoj_16_8_8_22.UITex	0		
+8	七秀萌兔	38	38	ui/Image/icon/daoj_16_8_8_16.UITex	0		
+9	五毒孔雀	38	38	ui/Image/icon/daoj_16_8_8_17.UITex	0		
+10	长歌小鹿	38	38	ui/Image/icon/daoj_16_8_8_26.UITex	0		
+11	藏剑猞猁	38	38	ui/Image/icon/daoj_16_8_8_21.UITex	0		
+12	苍云幼狮	38	38	ui/Image/icon/daoj_16_8_8_20.UITex	0		
+13	纯阳仙鹤	38	38	ui/Image/icon/daoj_16_8_8_15.UITex	0		
+14	丐帮鹰隼	38	38	ui/Image/icon/daoj_16_8_8_25.UITex	0		
+15	天策小狼	38	38	ui/Image/icon/daoj_16_8_8_18.UITex	0		
+16	霸刀雪貂	38	38	ui/Image/icon/daoj_16_10_17_130.UITex	0		
+17	弹幕	65	65			56	56
+18	蓬莱海獭	38	38	ui/Image/icon/daoj_18_11_29_268.UITex	0		
+19	沈剑心	38	38				
+20	凌雪阁黑豹	38	38	ui/Image/icon/daoj_19_11_28_48.UITex	0		
+21	衍天宗幻狐	38	38	ui/Image/UICommon/Talk_face19.UITex	0		
+22	鹰嘤	38	38				
