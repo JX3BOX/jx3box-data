@@ -234,9 +234,9 @@
         "hover": "/box/facedata.svg",
         "name": "妆容解析",
         "abbr": "妆容",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "keju": {

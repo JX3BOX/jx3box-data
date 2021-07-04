@@ -126,7 +126,7 @@
         "hover": "/box/share.svg",
         "name": "捏脸分享",
         "abbr": "捏脸",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
