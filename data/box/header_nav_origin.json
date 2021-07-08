@@ -4,7 +4,23 @@
         "link": "/origin",
         "status": 1,
         "key": "origin",
-        "hasChildren": false
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "怀旧服",
+                "link": "https://origin.jx3box.com/origin",
+                "status": 1,
+                "key": "index-origin",
+                "desc":"(缘起)"
+            },
+            {
+                "label": "正式服",
+                "link": "https://www.jx3box.com/index",
+                "status": 1,
+                "key": "index-std",
+                "desc":"(重制版)"
+            }
+        ]
     },
     {
         "label": "宏库",
