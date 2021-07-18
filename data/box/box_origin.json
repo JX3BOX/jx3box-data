@@ -203,18 +203,6 @@
         "mark": "HOT",
         "status": true
     },
-    "translator": {
-        "uuid": "translator",
-        "href": "/app/translator",
-        "img": "/box/translator.svg",
-        "hover": "/box/translator.svg",
-        "name": "繁体转换",
-        "abbr": "繁体",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
     "servers": {
         "uuid": "servers",
         "href": "/app/servers",
@@ -222,18 +210,6 @@
         "hover": "/box/servers.svg",
         "name": "开服监控",
         "abbr": "开服",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "price": {
-        "uuid": "price",
-        "href": "/app/price",
-        "img": "/box/price.svg",
-        "hover": "/box/price.svg",
-        "name": "金价走势",
-        "abbr": "金价",
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
