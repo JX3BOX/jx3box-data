@@ -38,5 +38,45 @@
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "WeGame"
+    },
+    {
+        "zoneName": "缘起一区",
+        "serverName": "缘起稻香",
+        "ipAddress": "110.43.133.19",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "缘起稻香"
+    },
+    {
+        "zoneName": "缘起一区",
+        "serverName": "梦回长安",
+        "ipAddress": "110.43.133.22",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "梦回长安"
+    },
+    {
+        "zoneName": "缘起一区",
+        "serverName": "烟雨扬州",
+        "ipAddress": "110.43.133.27",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "烟雨扬州"
+    },
+    {
+        "zoneName": "缘起一区",
+        "serverName": "神都洛阳",
+        "ipAddress": "110.43.133.28",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "神都洛阳"
+    },
+    {
+        "zoneName": "缘起一区",
+        "serverName": "天宝盛世",
+        "ipAddress": "110.43.133.17",
+        "ipPort": "3724",
+        "connectState": false,
+        "mainServer": "天宝盛世"
     }
 ]
