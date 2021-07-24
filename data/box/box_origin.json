@@ -78,7 +78,7 @@
         "hover": "/box/quest.svg",
         "name": "任务百科",
         "abbr": "任务",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -119,18 +119,6 @@
         "mark": "HOT",
         "status": true
     },
-    "bbs": {
-        "uuid": "bbs",
-        "href": "/bbs",
-        "img": "/box/bbs.svg",
-        "hover": "/box/bbs.svg",
-        "name": "茶馆交流",
-        "abbr": "茶馆",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
     "share": {
         "uuid": "share",
         "href": "/share",
@@ -138,6 +126,18 @@
         "hover": "/box/share.svg",
         "name": "捏脸分享",
         "abbr": "捏脸",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "bbs": {
+        "uuid": "bbs",
+        "href": "/bbs",
+        "img": "/box/bbs.svg",
+        "hover": "/box/bbs.svg",
+        "name": "茶馆交流",
+        "abbr": "茶馆",
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
@@ -167,6 +167,30 @@
         "mark": "HOT",
         "status": true
     },
+    "talent2": {
+        "uuid": "talent2",
+        "href": "/app/talent2",
+        "img": "/box/talent2.svg",
+        "hover": "/box/talent2.svg",
+        "name": "镇派模拟",
+        "abbr": "镇派",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "meridians": {
+        "uuid": "meridians",
+        "href": "/app/meridians",
+        "img": "/box/meridians.svg",
+        "hover": "/box/meridians.svg",
+        "name": "经脉模拟",
+        "abbr": "经脉",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "macroeditor": {
         "uuid": "macroeditor",
         "href": "/app/macroeditor",
@@ -177,18 +201,6 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
-    },
-    "translator": {
-        "uuid": "translator",
-        "href": "/app/translator",
-        "img": "/box/translator.svg",
-        "hover": "/box/translator.svg",
-        "name": "繁体转换",
-        "abbr": "繁体",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
         "status": true
     },
     "servers": {
@@ -203,18 +215,6 @@
         "mark": "HOT",
         "status": true
     },
-    "price": {
-        "uuid": "price",
-        "href": "/app/price",
-        "img": "/box/price.svg",
-        "hover": "/box/price.svg",
-        "name": "金价走势",
-        "abbr": "金价",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
     "facedata": {
         "uuid": "facedata",
         "href": "/app/facedata",
@@ -222,9 +222,9 @@
         "hover": "/box/facedata.svg",
         "name": "妆容解析",
         "abbr": "妆容",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "keju": {
@@ -251,16 +251,16 @@
         "mark": "HOT",
         "status": true
     },
-    "fbdata": {
-        "uuid": "fbdata",
-        "href": "/fb/#/skill",
-        "img": "/box/fbdata.svg",
-        "hover": "/box/fbdata.svg",
-        "name": "副本数据",
-        "abbr": "解包",
+    "battle": {
+        "uuid": "battle",
+        "href": "/battle",
+        "img": "/box/battle.svg",
+        "hover": "/box/battle.svg",
+        "name": "战斗分析",
+        "abbr": "复盘",
         "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "fbdrop": {
@@ -273,6 +273,18 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
+        "status": true
+    },
+    "exam": {
+        "uuid": "exam",
+        "href": "/exam",
+        "img": "/box/exam.svg",
+        "hover": "/box/exam.svg",
+        "name": "趣味题库",
+        "abbr": "题库",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "collection": {
@@ -294,6 +306,18 @@
         "hover": "/box/namespace.svg",
         "name": "剑三铭牌",
         "abbr": "铭牌",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "joke": {
+        "uuid": "joke",
+        "href": "/bbs/#/joke",
+        "img": "/box/joke.svg",
+        "hover": "/box/joke.svg",
+        "name": "剑三骚话",
+        "abbr": "骚话",
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",

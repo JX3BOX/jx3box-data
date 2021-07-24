@@ -3,6 +3,20 @@
         "name": "奉天证道",
         "level": "110",
         "dungeon": {
+            "挑战达摩洞": {
+                "name": "挑战达摩洞",
+                "maps": [
+                    {
+                        "map_id": "517",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/517.png",
+                "boss": [
+                    "修罗僧"
+                ],
+                "client":["std","all"]
+            },
             "白帝江关": {
                 "name": "白帝江关",
                 "maps": [

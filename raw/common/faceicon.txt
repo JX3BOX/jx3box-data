@@ -1,454 +1,454 @@
 id	command	Type	imgfile	Frame	bShow	pageid
 0		image	ui\Image\UICommon\Talk_face.UITex	0	1	0
 1	#Î¢Ð¦	animate		24		
-2	#¿ÉÁ¯	animate		6		
-3	#ÍÂ	animate		7		
-4	#ÃÄÑÛ	animate		18		
-5	#º¦Ðß	animate		19		
-6	#ÞÏÞÎ	animate		20		
-7	#¿ñº¹	animate		44		
-8	#¿Ö»Å	animate		27		
-9	#ÉúÆø	animate		47		
-10	#»è	animate		37		
-11	#Á÷Àá	animate		42		
-12	#Ç×Ç×	image		14		
-13	#³ÁÄ¬	image		89		
-14	#ÎÞÄÎ	image		11		
-15	#°ÁÂý	image		20		
-16	#Àäº¹	image		21		
-17	#´óÐ¦	image		35		
-18	#ÒõÏÕ	image		129		
-19	#ÄÑ¹ý	image		130		
-20	#ÌÖÑá	image		117		
-21	#°ÍÕÆ	image		45		
-22	#Á÷º¹	image		90		
-23	#·¢Å­	image		23		
-24	#ÐÀÏ²	image		78		
-25	#¿ÚË®	image		30		
-26	#ÏÅ	image		31		
-27	#´ô	image		32		
-28	#àÞ	image		49		
-29	#ßÚÑÀ	image		33		
-30	#¶ñÐÄ	image		47		
-31	#À§	image		34		
-32	#Ð×¶ñ	image		22		
-33	#½ÆÕ©	image		43		
-34	#µÃÒâ	image		46		
-35	#¹íÁ³	image		70		
-36	#±â×ì	image		72		
-37	#Æ²×ì	image		69		
-38	#ÔÎ	image		73		
-39	#½Æ»«	image		92		
+2	#ï¿½ï¿½ï¿½ï¿½	animate		6		
+3	#ï¿½ï¿½	animate		7		
+4	#ï¿½ï¿½ï¿½ï¿½	animate		18		
+5	#ï¿½ï¿½ï¿½ï¿½	animate		19		
+6	#ï¿½ï¿½ï¿½ï¿½	animate		20		
+7	#ï¿½ï¿½	animate		44		
+8	#ï¿½Ö»ï¿½	animate		27		
+9	#ï¿½ï¿½ï¿½ï¿½	animate		47		
+10	#ï¿½ï¿½	animate		37		
+11	#ï¿½ï¿½ï¿½ï¿½	animate		42		
+12	#ï¿½ï¿½ï¿½ï¿½	image		14		
+13	#ï¿½ï¿½Ä¬	image		89		
+14	#ï¿½ï¿½ï¿½ï¿½	image		11		
+15	#ï¿½ï¿½ï¿½ï¿½	image		20		
+16	#ï¿½äº¹	image		21		
+17	#ï¿½ï¿½Ð¦	image		35		
+18	#ï¿½ï¿½ï¿½ï¿½	image		129		
+19	#ï¿½Ñ¹ï¿½	image		130		
+20	#ï¿½ï¿½ï¿½ï¿½	image		117		
+21	#ï¿½ï¿½ï¿½ï¿½	image		45		
+22	#ï¿½ï¿½ï¿½ï¿½	image		90		
+23	#ï¿½ï¿½Å­	image		23		
+24	#ï¿½ï¿½Ï²	image		78		
+25	#ï¿½ï¿½Ë®	image		30		
+26	#ï¿½ï¿½	image		31		
+27	#ï¿½ï¿½	image		32		
+28	#ï¿½ï¿½	image		49		
+29	#ï¿½ï¿½ï¿½ï¿½	image		33		
+30	#ï¿½ï¿½ï¿½ï¿½	image		47		
+31	#ï¿½ï¿½	image		34		
+32	#ï¿½×¶ï¿½	image		22		
+33	#ï¿½ï¿½Õ©	image		43		
+34	#ï¿½ï¿½ï¿½ï¿½	image		46		
+35	#ï¿½ï¿½ï¿½ï¿½	image		70		
+36	#ï¿½ï¿½ï¿½ï¿½	image		72		
+37	#Æ²ï¿½ï¿½	image		69		
+38	#ï¿½ï¿½	image		73		
+39	#ï¿½Æ»ï¿½	image		92		
 40	#Ë¯	image		94		
-41	#ÉàÍ·	image		113		
+41	#ï¿½ï¿½Í·	image		113		
 42	#É«	image		114		
-43	#ÑÈÒì	image		118		
-44	#±ÉÊÓ	image		119		
-45	#¿á	image		120		
+43	#ï¿½ï¿½ï¿½ï¿½	image		118		
+44	#ï¿½ï¿½ï¿½ï¿½	image		119		
+45	#ï¿½ï¿½	image		120		
 46	#Ç®	animate		57		
-47	#´¸×Ó	animate		58		
-48	#´òÀ×	animate		60		
-49	#ÎÊºÅ	animate		61		
-50	#ºìµÆ	animate		54		
-51	#ÂÌµÆ	animate		55		
-52	#»ÆµÆ	animate		63		
-53	#ÏÂÓê	animate		0		
-54	#µ¶	animate		5		
-55	#¿§·È	animate		9		
-56	#Ï²»¶	animate		12		
-57	#×ì	animate		13		
-58	#´½	animate		14		
-59	#ÐÄËé	animate		25		
-60	#¸ÐÌ¾ºÅ	animate		29		
-61	#ÅÄÊÖ	animate		33		
-62	#ÎÕÊÖ	animate		35		
-63	#Öí	animate		45		
-64	#Ãµ¹å	animate		46		
-65	#µç»°	animate		48		
-66	#µÆÅÝ	animate		43		
-67	#±¿Öí	image		93		
-68	#ÔÂÁÁ	image		77		
-69	#²¤ÂÜ	image		115		
-70	#÷¼÷Ã	image		140		
-71	#ÀñÎï	image		163		
-72	#ÑÏº®	image		196		
-73	#º®	image		207		
+47	#ï¿½ï¿½ï¿½ï¿½	animate		58		
+48	#ï¿½ï¿½ï¿½ï¿½	animate		60		
+49	#ï¿½Êºï¿½	animate		61		
+50	#ï¿½ï¿½ï¿½	animate		54		
+51	#ï¿½Ìµï¿½	animate		55		
+52	#ï¿½Æµï¿½	animate		63		
+53	#ï¿½ï¿½ï¿½ï¿½	animate		0		
+54	#ï¿½ï¿½	animate		5		
+55	#ï¿½ï¿½ï¿½ï¿½	animate		9		
+56	#Ï²ï¿½ï¿½	animate		12		
+57	#ï¿½ï¿½	animate		13		
+58	#ï¿½ï¿½	animate		14		
+59	#ï¿½ï¿½ï¿½ï¿½	animate		25		
+60	#ï¿½ï¿½Ì¾ï¿½ï¿½	animate		29		
+61	#ï¿½ï¿½ï¿½ï¿½	animate		33		
+62	#ï¿½ï¿½ï¿½ï¿½	animate		35		
+63	#ï¿½ï¿½	animate		45		
+64	#Ãµï¿½ï¿½	animate		46		
+65	#ï¿½ç»°	animate		48		
+66	#ï¿½ï¿½ï¿½ï¿½	animate		43		
+67	#ï¿½ï¿½ï¿½ï¿½	image		93		
+68	#ï¿½ï¿½ï¿½ï¿½	image		77		
+69	#ï¿½ï¿½ï¿½ï¿½	image		115		
+70	#ï¿½ï¿½ï¿½ï¿½	image		140		
+71	#ï¿½ï¿½ï¿½ï¿½	image		163		
+72	#ï¿½Ïºï¿½	image		196		
+73	#ï¿½ï¿½	image		207		
 74	#Ë¥	image		206		
-75	#»¨	image		208		
-76	#Ïã½¶	image		199		
-77	#Ñ©¸â	image		203		
-78	#Ê¤Àû	image		214		
-79	#Æ»¹û	image		217		
-80	#ÒûÁÏ	image		220		
-81	#ÂøÍ·	image		223		
-82	#Î÷¹Ï	image		224		
-83	#ÑÌ»¨	image		227		
-84	#±ê¼Ç	image		230		
-85	#ËâÍ·	image		231		
-86	#Ì«Ñô	image		236		
-87	#°®ÐÄ	image		237		
+75	#ï¿½ï¿½	image		208		
+76	#ï¿½ã½¶	image		199		
+77	#Ñ©ï¿½ï¿½	image		203		
+78	#Ê¤ï¿½ï¿½	image		214		
+79	#Æ»ï¿½ï¿½	image		217		
+80	#ï¿½ï¿½ï¿½ï¿½	image		220		
+81	#ï¿½ï¿½Í·	image		223		
+82	#ï¿½ï¿½ï¿½ï¿½	image		224		
+83	#ï¿½Ì»ï¿½	image		227		
+84	#ï¿½ï¿½ï¿½	image		230		
+85	#ï¿½ï¿½Í·	image		231		
+86	#Ì«ï¿½ï¿½	image		236		
+87	#ï¿½ï¿½ï¿½ï¿½	image		237		
 88	#Ç¿	image		239		
-89	#²î¾¢	image		240		
-90	#Ó£ÌÒ	image		277		
-91	#µÚÒ»Ãû	image		289	0	
-92	#µÚ¶þÃû	image		290	0	
-93	#µÚÈýÃû	image		291	0	
-94	#À¯Öò	animate		64		
-95	#bº¦Ðß	animate		66		1
-96	#b¿ÉÁ¯	animate		67		1
+89	#ï¿½î¾¢	image		240		
+90	#Ó£ï¿½ï¿½	image		277		
+91	#ï¿½ï¿½Ò»ï¿½ï¿½	image		289	0	
+92	#ï¿½Ú¶ï¿½ï¿½ï¿½	image		290	0	
+93	#ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	image		291	0	
+94	#ï¿½ï¿½ï¿½ï¿½	animate		64		
+95	#bï¿½ï¿½ï¿½ï¿½	animate		66		1
+96	#bï¿½ï¿½ï¿½ï¿½	animate		67		1
 97	#bÉ«	animate		68		1
-98	#b°¤´ò	animate		70		1
-99	#bà»ÎØ	animate		72		1
-100	#b±ÉÊÓ	animate		73		1
-101	#b´óÐ¦	animate		77		1
-102	#b·¢Å­	animate		84		1
-103	#b¿ªÐÄ	animate		94		1
-104	#b¿Þ	animate		96		1
-105	#bÁ÷º¹	animate		99		1
-106	#bÇ×ÎÇ	animate		104		1
-107	#bÅ»ÍÂ	animate		113		1
-108	#b¿Ù±Ç	animate		114		1
-109	#bÏÆ×À	animate		118		1
-110	#bàÓàÓ	animate		121		1
-111	#bÔÎ	animate		122		1
-112	#bÔÙ¼û	animate		123		1
-113	#q°¤´ò	animate	ui\Image\UICommon\Talk_face1.UITex	0		2
-114	#qà»	animate	ui\Image\UICommon\Talk_face1.UITex	1		2
-115	#qà»ÎØ	animate	ui\Image\UICommon\Talk_face1.UITex	2		2
-116	#q°ÁÂý	animate	ui\Image\UICommon\Talk_face1.UITex	3		2
-117	#q±ÉÊÓ	animate	ui\Image\UICommon\Talk_face1.UITex	4		2
-118	#q³ÁÄ¬	animate	ui\Image\UICommon\Talk_face1.UITex	5		2
-119	#q´óÐ¦	animate	ui\Image\UICommon\Talk_face1.UITex	6		2
-120	#q´ô	animate	ui\Image\UICommon\Talk_face1.UITex	7		2
-121	#qµÃÒâ	animate	ui\Image\UICommon\Talk_face1.UITex	8		2
-122	#qÞÏÞÎ	animate	ui\Image\UICommon\Talk_face1.UITex	9		2
-123	#qº¦Ðß	animate	ui\Image\UICommon\Talk_face1.UITex	10		2
-124	#q½ÆÕ©	animate	ui\Image\UICommon\Talk_face1.UITex	11		2
-125	#q¾ª¿Ö	animate	ui\Image\UICommon\Talk_face1.UITex	12		2
-126	#q¾ªÑÈ	animate	ui\Image\UICommon\Talk_face1.UITex	13		2
-127	#q¿ªÐÄ	animate	ui\Image\UICommon\Talk_face1.UITex	14		2
-128	#q¿ÉÁ¯	animate	ui\Image\UICommon\Talk_face1.UITex	15		2
-129	#q¿Ù±Ç	animate	ui\Image\UICommon\Talk_face1.UITex	16		2
-130	#q¿ÚË®	animate	ui\Image\UICommon\Talk_face1.UITex	17		2
-131	#q¿Þ	animate	ui\Image\UICommon\Talk_face1.UITex	18		2
-132	#q¿á	animate	ui\Image\UICommon\Talk_face1.UITex	19		2
-133	#qÁ÷º¹	animate	ui\Image\UICommon\Talk_face1.UITex	20		2
-134	#qÃÄÑÛ	animate	ui\Image\UICommon\Talk_face1.UITex	21		2
-135	#qÅ»ÍÂ	animate	ui\Image\UICommon\Talk_face1.UITex	22		2
-136	#qÆ²×ì	animate	ui\Image\UICommon\Talk_face1.UITex	23		2
-137	#qÇ×ÎÇ	animate	ui\Image\UICommon\Talk_face1.UITex	24		2
+98	#bï¿½ï¿½ï¿½ï¿½	animate		70		1
+99	#bï¿½ï¿½ï¿½	animate		72		1
+100	#bï¿½ï¿½ï¿½ï¿½	animate		73		1
+101	#bï¿½ï¿½Ð¦	animate		77		1
+102	#bï¿½ï¿½Å­	animate		84		1
+103	#bï¿½ï¿½ï¿½ï¿½	animate		94		1
+104	#bï¿½ï¿½	animate		96		1
+105	#bï¿½ï¿½ï¿½ï¿½	animate		99		1
+106	#bï¿½ï¿½ï¿½ï¿½	animate		104		1
+107	#bÅ»ï¿½ï¿½	animate		113		1
+108	#bï¿½Ù±ï¿½	animate		114		1
+109	#bï¿½ï¿½ï¿½ï¿½	animate		118		1
+110	#bï¿½ï¿½ï¿½ï¿½	animate		121		1
+111	#bï¿½ï¿½	animate		122		1
+112	#bï¿½Ù¼ï¿½	animate		123		1
+113	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	0		2
+114	#qï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	1		2
+115	#qï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	2		2
+116	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	3		2
+117	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	4		2
+118	#qï¿½ï¿½Ä¬	animate	ui\Image\UICommon\Talk_face1.UITex	5		2
+119	#qï¿½ï¿½Ð¦	animate	ui\Image\UICommon\Talk_face1.UITex	6		2
+120	#qï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	7		2
+121	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	8		2
+122	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	9		2
+123	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	10		2
+124	#qï¿½ï¿½Õ©	animate	ui\Image\UICommon\Talk_face1.UITex	11		2
+125	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	12		2
+126	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	13		2
+127	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	14		2
+128	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	15		2
+129	#qï¿½Ù±ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	16		2
+130	#qï¿½ï¿½Ë®	animate	ui\Image\UICommon\Talk_face1.UITex	17		2
+131	#qï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	18		2
+132	#qï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	19		2
+133	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	20		2
+134	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	21		2
+135	#qÅ»ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	22		2
+136	#qÆ²ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	23		2
+137	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	24		2
 138	#qÉ«	animate	ui\Image\UICommon\Talk_face1.UITex	25		2
-139	#qºôºô	animate	ui\Image\UICommon\Talk_face1.UITex	26		2
-140	#qÌÖÑá	animate	ui\Image\UICommon\Talk_face1.UITex	27		2
-141	#qÌß	animate	ui\Image\UICommon\Talk_face1.UITex	28		2
-142	#qÍÂ	animate	ui\Image\UICommon\Talk_face1.UITex	29		2
+139	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	26		2
+140	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	27		2
+141	#qï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	28		2
+142	#qï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	29		2
 143	#qÎ¢Ð¦	animate	ui\Image\UICommon\Talk_face1.UITex	30		2
-144	#qÎÞÄÎ	animate	ui\Image\UICommon\Talk_face1.UITex	31		2
-145	#qÏÅ	animate	ui\Image\UICommon\Talk_face1.UITex	32		2
-146	#qÏÆ×À	animate	ui\Image\UICommon\Talk_face1.UITex	33		2
-147	#qÐ×¶ñ	animate	ui\Image\UICommon\Talk_face1.UITex	34		2
-148	#qÒõÏÕ	animate	ui\Image\UICommon\Talk_face1.UITex	35		2
-149	#qàÓàÓ	animate	ui\Image\UICommon\Talk_face1.UITex	36		2
-150	#qÔÎ	animate	ui\Image\UICommon\Talk_face1.UITex	37		2
-151	#qÔÙ¼û	animate	ui\Image\UICommon\Talk_face1.UITex	38		2
-152	#q¶Ø¶Ø	animate	ui\Image\UICommon\Talk_face1.UITex	39		2
+144	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	31		2
+145	#qï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	32		2
+146	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	33		2
+147	#qï¿½×¶ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	34		2
+148	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	35		2
+149	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	36		2
+150	#qï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	37		2
+151	#qï¿½Ù¼ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	38		2
+152	#qï¿½Ø¶ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	39		2
 153	#qGWW	animate	ui\Image\UICommon\Talk_face1.UITex	40		2
-154	#q¹íÁ³	animate	ui\Image\UICommon\Talk_face1.UITex	41		2
-155	#h°¤´ò	animate	ui\Image\UICommon\Talk_face2.UITex	0		3
-156	#hà»	animate	ui\Image\UICommon\Talk_face2.UITex	1		3
-157	#hà»ÎØ	animate	ui\Image\UICommon\Talk_face2.UITex	2		3
-158	#h°ÁÂý	animate	ui\Image\UICommon\Talk_face2.UITex	3		3
-159	#h±ÉÊÓ	animate	ui\Image\UICommon\Talk_face2.UITex	4		3
-160	#h³ÁÄ¬	animate	ui\Image\UICommon\Talk_face2.UITex	5		3
-161	#h´óÐ¦	animate	ui\Image\UICommon\Talk_face2.UITex	6		3
-162	#h´ô	animate	ui\Image\UICommon\Talk_face2.UITex	7		3
-163	#hµÃÒâ	animate	ui\Image\UICommon\Talk_face2.UITex	8		3
-164	#hÞÏÞÎ	animate	ui\Image\UICommon\Talk_face2.UITex	9		3
-165	#h¹íÁ³	animate	ui\Image\UICommon\Talk_face2.UITex	10		3
-166	#hº¦Ðß	animate	ui\Image\UICommon\Talk_face2.UITex	11		3
-167	#h½ÆÕ©	animate	ui\Image\UICommon\Talk_face2.UITex	12		3
-168	#h¾ª¿Ö	animate	ui\Image\UICommon\Talk_face2.UITex	13		3
-169	#h¾ªÑÈ	animate	ui\Image\UICommon\Talk_face2.UITex	14		3
-170	#h¿ªÐÄ	animate	ui\Image\UICommon\Talk_face2.UITex	15		3
-171	#h¿ÉÁ¯	animate	ui\Image\UICommon\Talk_face2.UITex	16		3
-172	#h¿ÚË®	animate	ui\Image\UICommon\Talk_face2.UITex	17		3
-173	#h¿Ù±Ç	animate	ui\Image\UICommon\Talk_face2.UITex	18		3
-174	#h¿Þ	animate	ui\Image\UICommon\Talk_face2.UITex	19		3
-175	#h¿á	animate	ui\Image\UICommon\Talk_face2.UITex	20		3
-176	#hÁ÷º¹	animate	ui\Image\UICommon\Talk_face2.UITex	21		3
-177	#hÃÄÑÛ	animate	ui\Image\UICommon\Talk_face2.UITex	22		3
-178	#hÅ»ÍÂ	animate	ui\Image\UICommon\Talk_face2.UITex	23		3
-179	#hÆ²×ì	animate	ui\Image\UICommon\Talk_face2.UITex	24		3
-180	#hÇ×ÎÇ	animate	ui\Image\UICommon\Talk_face2.UITex	25		3
+154	#qï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face1.UITex	41		2
+155	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	0		3
+156	#hï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	1		3
+157	#hï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	2		3
+158	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	3		3
+159	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	4		3
+160	#hï¿½ï¿½Ä¬	animate	ui\Image\UICommon\Talk_face2.UITex	5		3
+161	#hï¿½ï¿½Ð¦	animate	ui\Image\UICommon\Talk_face2.UITex	6		3
+162	#hï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	7		3
+163	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	8		3
+164	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	9		3
+165	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	10		3
+166	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	11		3
+167	#hï¿½ï¿½Õ©	animate	ui\Image\UICommon\Talk_face2.UITex	12		3
+168	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	13		3
+169	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	14		3
+170	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	15		3
+171	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	16		3
+172	#hï¿½ï¿½Ë®	animate	ui\Image\UICommon\Talk_face2.UITex	17		3
+173	#hï¿½Ù±ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	18		3
+174	#hï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	19		3
+175	#hï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	20		3
+176	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	21		3
+177	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	22		3
+178	#hÅ»ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	23		3
+179	#hÆ²ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	24		3
+180	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	25		3
 181	#hÉ«	animate	ui\Image\UICommon\Talk_face2.UITex	26		3
 182	#hË¯	animate	ui\Image\UICommon\Talk_face2.UITex	27		3
-183	#hÌÖÑá	animate	ui\Image\UICommon\Talk_face2.UITex	28		3
-184	#hÍÂÉàÍ·	animate	ui\Image\UICommon\Talk_face2.UITex	29		3
+183	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	28		3
+184	#hï¿½ï¿½ï¿½ï¿½Í·	animate	ui\Image\UICommon\Talk_face2.UITex	29		3
 185	#hÎ¢Ð¦	animate	ui\Image\UICommon\Talk_face2.UITex	30		3
-186	#hÎÞÄÎ	animate	ui\Image\UICommon\Talk_face2.UITex	31		3
-187	#hÏÅ	animate	ui\Image\UICommon\Talk_face2.UITex	32		3
-188	#hÏÆ×À	animate	ui\Image\UICommon\Talk_face2.UITex	33		3
-189	#hÐ×¶ñ	animate	ui\Image\UICommon\Talk_face2.UITex	34		3
-190	#hÒõÏÕ	animate	ui\Image\UICommon\Talk_face2.UITex	35		3
-191	#hàÓàÓ	animate	ui\Image\UICommon\Talk_face2.UITex	36		3
-192	#hÔÎ	animate	ui\Image\UICommon\Talk_face2.UITex	37		3
-193	#hÔÙ¼û	animate	ui\Image\UICommon\Talk_face2.UITex	38		3
-194	#a¿ÉÁ¯	animate	ui\Image\UICommon\Talk_face3.UITEX	0		4
-195	#a³ÁÄ¬	animate	ui\Image\UICommon\Talk_face3.UITEX	1		4
-196	#aÁ÷º¹	animate	ui\Image\UICommon\Talk_face3.UITEX	2		4
-197	#aÏÆ×À	animate	ui\Image\UICommon\Talk_face3.UITEX	3		4
-198	#aÔÙ¼û	animate	ui\Image\UICommon\Talk_face3.UITEX	4		4
-199	#a¿Ù±Ç	animate	ui\Image\UICommon\Talk_face3.UITEX	5		4
-200	#aÅ»ÍÂ	animate	ui\Image\UICommon\Talk_face3.UITEX	6		4
-201	#a±ÉÊÓ	animate	ui\Image\UICommon\Talk_face3.UITEX	7		4
-202	#aº¦Ðß	animate	ui\Image\UICommon\Talk_face3.UITEX	8		4
-203	#a¿Þ	animate	ui\Image\UICommon\Talk_face3.UITEX	9		4
+186	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	31		3
+187	#hï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	32		3
+188	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	33		3
+189	#hï¿½×¶ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	34		3
+190	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	35		3
+191	#hï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	36		3
+192	#hï¿½ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	37		3
+193	#hï¿½Ù¼ï¿½	animate	ui\Image\UICommon\Talk_face2.UITex	38		3
+194	#aï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	0		4
+195	#aï¿½ï¿½Ä¬	animate	ui\Image\UICommon\Talk_face3.UITEX	1		4
+196	#aï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	2		4
+197	#aï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	3		4
+198	#aï¿½Ù¼ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	4		4
+199	#aï¿½Ù±ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	5		4
+200	#aÅ»ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	6		4
+201	#aï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	7		4
+202	#aï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	8		4
+203	#aï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	9		4
 204	#aÉ«	animate	ui\Image\UICommon\Talk_face3.UITEX	10		4
-205	#a³ÔÓã	animate	ui\Image\UICommon\Talk_face3.UITEX	11		4
-206	#¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face5.UITEX	0		6
-207	#c³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face5.UITEX	1		6
-208	#cÁ÷º¹	animate	\ui\Image\UICommon\Talk_face5.UITEX	2		6
-209	#cÏÆ×À	animate	\ui\Image\UICommon\Talk_face5.UITEX	3		6
-210	#cÔÙ¼û	animate	\ui\Image\UICommon\Talk_face5.UITEX	4		6
-211	#c¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face5.UITEX	5		6
-212	#cÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face5.UITEX	6		6
-213	#c±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face5.UITEX	7		6
-214	#cº¦Ðß	animate	\ui\Image\UICommon\Talk_face5.UITEX	8		6
-215	#c¿Þ	animate	\ui\Image\UICommon\Talk_face5.UITEX	9		6
+205	#aï¿½ï¿½ï¿½ï¿½	animate	ui\Image\UICommon\Talk_face3.UITEX	11		4
+206	#ï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	0		6
+207	#cï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face5.UITEX	1		6
+208	#cï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	2		6
+209	#cï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	3		6
+210	#cï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	4		6
+211	#cï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	5		6
+212	#cÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	6		6
+213	#cï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	7		6
+214	#cï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	8		6
+215	#cï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	9		6
 216	#cÉ«	animate	\ui\Image\UICommon\Talk_face5.UITEX	10		6
-217	#cÄîÄîËé	animate	\ui\Image\UICommon\Talk_face5.UITEX	11		6
-218	#d¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face6.UITEX	0		8
-219	#d³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face6.UITEX	1		8
-220	#dÁ÷º¹	animate	\ui\Image\UICommon\Talk_face6.UITEX	2		8
-221	#dÏÆ×À	animate	\ui\Image\UICommon\Talk_face6.UITEX	3		8
-222	#dÔÙ¼û	animate	\ui\Image\UICommon\Talk_face6.UITEX	4		8
-223	#d¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face6.UITEX	5		8
-224	#dÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face6.UITEX	6		8
-225	#d±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face6.UITEX	7		8
-226	#dº¦Ðß	animate	\ui\Image\UICommon\Talk_face6.UITEX	8		8
-227	#d¿Þ	animate	\ui\Image\UICommon\Talk_face6.UITEX	9		8
+217	#cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face5.UITEX	11		6
+218	#dï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	0		8
+219	#dï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face6.UITEX	1		8
+220	#dï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	2		8
+221	#dï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	3		8
+222	#dï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	4		8
+223	#dï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	5		8
+224	#dÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	6		8
+225	#dï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	7		8
+226	#dï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	8		8
+227	#dï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	9		8
 228	#dÉ«	animate	\ui\Image\UICommon\Talk_face6.UITEX	10		8
-229	#d³ÔÂÜ²·	animate	\ui\Image\UICommon\Talk_face6.UITEX	11		8
-230	#e¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face4.UITEX	0		15
-231	#e³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face4.UITEX	1		15
-232	#eÁ÷º¹	animate	\ui\Image\UICommon\Talk_face4.UITEX	2		15
-233	#eÏÆ×À	animate	\ui\Image\UICommon\Talk_face4.UITEX	3		15
-234	#eÔÙ¼û	animate	\ui\Image\UICommon\Talk_face4.UITEX	4		15
-235	#e¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face4.UITEX	5		15
-236	#eÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face4.UITEX	6		15
-237	#e±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face4.UITEX	7		15
-238	#eº¦Ðß	animate	\ui\Image\UICommon\Talk_face4.UITEX	8		15
-239	#e¿Þ	animate	\ui\Image\UICommon\Talk_face4.UITEX	9		15
+229	#dï¿½ï¿½ï¿½Ü²ï¿½	animate	\ui\Image\UICommon\Talk_face6.UITEX	11		8
+230	#eï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	0		15
+231	#eï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face4.UITEX	1		15
+232	#eï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	2		15
+233	#eï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	3		15
+234	#eï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	4		15
+235	#eï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	5		15
+236	#eÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	6		15
+237	#eï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	7		15
+238	#eï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	8		15
+239	#eï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	9		15
 240	#eÉ«	animate	\ui\Image\UICommon\Talk_face4.UITEX	10		15
-241	#eº¿½Ð	animate	\ui\Image\UICommon\Talk_face4.UITEX	11		15
-242	#f¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face7.UITEX	0		7
-243	#f³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face7.UITEX	1		7
-244	#fÁ÷º¹	animate	\ui\Image\UICommon\Talk_face7.UITEX	2		7
-245	#fÏÆ×À	animate	\ui\Image\UICommon\Talk_face7.UITEX	3		7
-246	#fÔÙ¼û	animate	\ui\Image\UICommon\Talk_face7.UITEX	4		7
-247	#f¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face7.UITEX	5		7
-248	#fÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face7.UITEX	6		7
-249	#f±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face7.UITEX	7		7
-250	#fº¦Ðß	animate	\ui\Image\UICommon\Talk_face7.UITEX	8		7
-251	#f¿Þ	animate	\ui\Image\UICommon\Talk_face7.UITEX	9		7
+241	#eï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face4.UITEX	11		15
+242	#fï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	0		7
+243	#fï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face7.UITEX	1		7
+244	#fï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	2		7
+245	#fï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	3		7
+246	#fï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	4		7
+247	#fï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	5		7
+248	#fÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	6		7
+249	#fï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	7		7
+250	#fï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	8		7
+251	#fï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	9		7
 252	#fÉ«	animate	\ui\Image\UICommon\Talk_face7.UITEX	10		7
-253	#f´ò¹ö	animate	\ui\Image\UICommon\Talk_face7.UITEX	11		7
-254	#g¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face8.UITEX	0		5
-255	#g³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face8.UITEX	1		5
-256	#gÁ÷º¹	animate	\ui\Image\UICommon\Talk_face8.UITEX	2		5
-257	#gÏÆ×À	animate	\ui\Image\UICommon\Talk_face8.UITEX	3		5
-258	#gÔÙ¼û	animate	\ui\Image\UICommon\Talk_face8.UITEX	4		5
-259	#g¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face8.UITEX	5		5
-260	#gÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face8.UITEX	6		5
-261	#g±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face8.UITEX	7		5
-262	#gº¦Ðß	animate	\ui\Image\UICommon\Talk_face8.UITEX	8		5
-263	#g¿Þ	animate	\ui\Image\UICommon\Talk_face8.UITEX	9		5
+253	#fï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face7.UITEX	11		7
+254	#gï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	0		5
+255	#gï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face8.UITEX	1		5
+256	#gï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	2		5
+257	#gï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	3		5
+258	#gï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	4		5
+259	#gï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	5		5
+260	#gÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	6		5
+261	#gï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	7		5
+262	#gï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	8		5
+263	#gï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	9		5
 264	#gÉ«	animate	\ui\Image\UICommon\Talk_face8.UITEX	10		5
-265	#g³ÔËÉ×Ó	animate	\ui\Image\UICommon\Talk_face8.UITEX	11		5
-266	#i¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face9.UITEX	0		12
-267	#i³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face9.UITEX	1		12
-268	#iÁ÷º¹	animate	\ui\Image\UICommon\Talk_face9.UITEX	2		12
-269	#iÏÆ×À	animate	\ui\Image\UICommon\Talk_face9.UITEX	3		12
-270	#iÔÙ¼û	animate	\ui\Image\UICommon\Talk_face9.UITEX	4		12
-271	#i¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face9.UITEX	5		12
-272	#iÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face9.UITEX	6		12
-273	#i±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face9.UITEX	7		12
-274	#iº¦Ðß	animate	\ui\Image\UICommon\Talk_face9.UITEX	8		12
-275	#i¿Þ	animate	\ui\Image\UICommon\Talk_face9.UITEX	9		12
+265	#gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face8.UITEX	11		5
+266	#iï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	0		12
+267	#iï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face9.UITEX	1		12
+268	#iï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	2		12
+269	#iï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	3		12
+270	#iï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	4		12
+271	#iï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	5		12
+272	#iÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	6		12
+273	#iï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	7		12
+274	#iï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	8		12
+275	#iï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	9		12
 276	#iÉ«	animate	\ui\Image\UICommon\Talk_face9.UITEX	10		12
-277	#i´ò¹ö	animate	\ui\Image\UICommon\Talk_face9.UITEX	11		12
-278	#j¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face10.UITEX	0		10
-279	#j³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face10.UITEX	1		10
-280	#jÁ÷º¹	animate	\ui\Image\UICommon\Talk_face10.UITEX	2		10
-281	#jÏÆ×À	animate	\ui\Image\UICommon\Talk_face10.UITEX	3		10
-282	#jÔÙ¼û	animate	\ui\Image\UICommon\Talk_face10.UITEX	4		10
-283	#j¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face10.UITEX	5		10
-284	#jÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face10.UITEX	6		10
-285	#j±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face10.UITEX	7		10
-286	#jº¦Ðß	animate	\ui\Image\UICommon\Talk_face10.UITEX	8		10
-287	#j¿Þ	animate	\ui\Image\UICommon\Talk_face10.UITEX	9		10
+277	#iï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face9.UITEX	11		12
+278	#jï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	0		10
+279	#jï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face10.UITEX	1		10
+280	#jï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	2		10
+281	#jï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	3		10
+282	#jï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	4		10
+283	#jï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	5		10
+284	#jÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	6		10
+285	#jï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	7		10
+286	#jï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	8		10
+287	#jï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	9		10
 288	#jÉ«	animate	\ui\Image\UICommon\Talk_face10.UITEX	10		10
-289	#j³Ô	animate	\ui\Image\UICommon\Talk_face10.UITEX	11		10
-290	#k¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face11.UITEX	0		9
-291	#k³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face11.UITEX	1		9
-292	#kÁ÷º¹	animate	\ui\Image\UICommon\Talk_face11.UITEX	2		9
-293	#kÏÆ×À	animate	\ui\Image\UICommon\Talk_face11.UITEX	3		9
-294	#kÔÙ¼û	animate	\ui\Image\UICommon\Talk_face11.UITEX	4		9
-295	#k¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face11.UITEX	5		9
-296	#kÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face11.UITEX	6		9
-297	#k±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face11.UITEX	7		9
-298	#kº¦Ðß	animate	\ui\Image\UICommon\Talk_face11.UITEX	8		9
-299	#k¿Þ	animate	\ui\Image\UICommon\Talk_face11.UITEX	9		9
+289	#jï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face10.UITEX	11		10
+290	#kï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	0		9
+291	#kï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face11.UITEX	1		9
+292	#kï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	2		9
+293	#kï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	3		9
+294	#kï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	4		9
+295	#kï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	5		9
+296	#kÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	6		9
+297	#kï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	7		9
+298	#kï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	8		9
+299	#kï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	9		9
 300	#kÉ«	animate	\ui\Image\UICommon\Talk_face11.UITEX	10		9
-301	#k°ÁÂý	animate	\ui\Image\UICommon\Talk_face11.UITEX	11		9
-302	#l¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face12.UITEX	0		11
-303	#l³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face12.UITEX	1		11
-304	#lÁ÷º¹	animate	\ui\Image\UICommon\Talk_face12.UITEX	2		11
-305	#lÏÆ×À	animate	\ui\Image\UICommon\Talk_face12.UITEX	3		11
-306	#lÔÙ¼û	animate	\ui\Image\UICommon\Talk_face12.UITEX	4		11
-307	#l¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face12.UITEX	5		11
-308	#lÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face12.UITEX	6		11
-309	#l±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face12.UITEX	7		11
-310	#lº¦Ðß	animate	\ui\Image\UICommon\Talk_face12.UITEX	8		11
-311	#l¿Þ	animate	\ui\Image\UICommon\Talk_face12.UITEX	9		11
+301	#kï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face11.UITEX	11		9
+302	#lï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	0		11
+303	#lï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face12.UITEX	1		11
+304	#lï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	2		11
+305	#lï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	3		11
+306	#lï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	4		11
+307	#lï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	5		11
+308	#lÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	6		11
+309	#lï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	7		11
+310	#lï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	8		11
+311	#lï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	9		11
 312	#lÉ«	animate	\ui\Image\UICommon\Talk_face12.UITEX	10		11
-313	#l´ò¹ö	animate	\ui\Image\UICommon\Talk_face12.UITEX	11		11
-314	#m¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face13.UITEX	0		14
-315	#m³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face13.UITEX	1		14
-316	#mÁ÷º¹	animate	\ui\Image\UICommon\Talk_face13.UITEX	2		14
-317	#mÏÆ×À	animate	\ui\Image\UICommon\Talk_face13.UITEX	3		14
-318	#mÔÙ¼û	animate	\ui\Image\UICommon\Talk_face13.UITEX	4		14
-319	#m¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face13.UITEX	5		14
-320	#mÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face13.UITEX	6		14
-321	#m±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face13.UITEX	7		14
-322	#mº¦Ðß	animate	\ui\Image\UICommon\Talk_face13.UITEX	8		14
-323	#m¿Þ	animate	\ui\Image\UICommon\Talk_face13.UITEX	9		14
+313	#lï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face12.UITEX	11		11
+314	#mï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	0		14
+315	#mï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face13.UITEX	1		14
+316	#mï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	2		14
+317	#mï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	3		14
+318	#mï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	4		14
+319	#mï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	5		14
+320	#mÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	6		14
+321	#mï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	7		14
+322	#mï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	8		14
+323	#mï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face13.UITEX	9		14
 324	#mÉ«	animate	\ui\Image\UICommon\Talk_face13.UITEX	10		14
-325	#mµÃÉª	animate	\ui\Image\UICommon\Talk_face13.UITEX	11		14
-326	#n¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face14.UITEX	0		13
-327	#n³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face14.UITEX	1		13
-328	#nÁ÷º¹	animate	\ui\Image\UICommon\Talk_face14.UITEX	2		13
-329	#nÏÆ×À	animate	\ui\Image\UICommon\Talk_face14.UITEX	3		13
-330	#nÔÙ¼û	animate	\ui\Image\UICommon\Talk_face14.UITEX	4		13
-331	#n¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face14.UITEX	5		13
-332	#nÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face14.UITEX	6		13
-333	#n±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face14.UITEX	7		13
-334	#nº¦Ðß	animate	\ui\Image\UICommon\Talk_face14.UITEX	8		13
-335	#n¿Þ	animate	\ui\Image\UICommon\Talk_face14.UITEX	9		13
+325	#mï¿½ï¿½Éª	animate	\ui\Image\UICommon\Talk_face13.UITEX	11		14
+326	#nï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	0		13
+327	#nï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face14.UITEX	1		13
+328	#nï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	2		13
+329	#nï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	3		13
+330	#nï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	4		13
+331	#nï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	5		13
+332	#nÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	6		13
+333	#nï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	7		13
+334	#nï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	8		13
+335	#nï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	9		13
 336	#nÉ«	animate	\ui\Image\UICommon\Talk_face14.UITEX	10		13
-337	#n×ß	animate	\ui\Image\UICommon\Talk_face14.UITEX	11		13
-338	#o¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face15.UITEX	0		16
-339	#o³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face15.UITEX	1		16
-340	#oÁ÷º¹	animate	\ui\Image\UICommon\Talk_face15.UITEX	2		16
+337	#nï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face14.UITEX	11		13
+338	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	0		16
+339	#oï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face15.UITEX	1		16
+340	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	2		16
 341	#oÅ­	animate	\ui\Image\UICommon\Talk_face15.UITEX	3		16
-342	#oÔÙ¼û	animate	\ui\Image\UICommon\Talk_face15.UITEX	4		16
-343	#o¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face15.UITEX	5		16
-344	#oÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face15.UITEX	6		16
-345	#o±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face15.UITEX	7		16
-346	#oº¦Ðß	animate	\ui\Image\UICommon\Talk_face15.UITEX	8		16
-347	#o¿Þ	animate	\ui\Image\UICommon\Talk_face15.UITEX	9		16
+342	#oï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	4		16
+343	#oï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	5		16
+344	#oÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	6		16
+345	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	7		16
+346	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	8		16
+347	#oï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	9		16
 348	#oÉ«	animate	\ui\Image\UICommon\Talk_face15.UITEX	10		16
-349	#oË¯¾õ	animate	\ui\Image\UICommon\Talk_face15.UITEX	11		16
-350	#p°¥ºÙºÙ	image	\ui\Image\UICommon\Danmaku_face.UITex	0		
-351	#p°®	image	\ui\Image\UICommon\Danmaku_face.UITex	1		
-352	#p±§±§	image	\ui\Image\UICommon\Danmaku_face.UITex	2		
-353	#p¶¼µÃËÀ	image	\ui\Image\UICommon\Danmaku_face.UITex	3		17
-354	#pÎÒµÄ´í	image	\ui\Image\UICommon\Danmaku_face.UITex	4		
-355	#pÂí²Ý	image	\ui\Image\UICommon\Danmaku_face.UITex	5		
-356	#pÄ¾¼¦	image	\ui\Image\UICommon\Danmaku_face.UITex	6		
-357	#pàÅ	image	\ui\Image\UICommon\Danmaku_face.UITex	7		17
-358	#pº¹	image	\ui\Image\UICommon\Danmaku_face.UITex	8		
-359	#pºÃÆø°¡	image	\ui\Image\UICommon\Danmaku_face.UITex	9		17
-360	#pºÆÆø	image	\ui\Image\UICommon\Danmaku_face.UITex	10		17
-361	#p¼Ù·¢	image	\ui\Image\UICommon\Danmaku_face.UITex	11		
-362	#p¼éÐ¦	image	\ui\Image\UICommon\Danmaku_face.UITex	12		
-363	#pÐÇÐÇÑÛ	image	\ui\Image\UICommon\Danmaku_face.UITex	13		
-364	#p½²µÀÀí	image	\ui\Image\UICommon\Danmaku_face.UITex	14		
-365	#p½ôÕÅ	image	\ui\Image\UICommon\Danmaku_face.UITex	15		
-366	#p¿ªÐÄ	image	\ui\Image\UICommon\Danmaku_face.UITex	16		
-367	#p¿É°®	image	\ui\Image\UICommon\Danmaku_face.UITex	17		
-368	#pÀ§	image	\ui\Image\UICommon\Danmaku_face.UITex	18		
-369	#pÀÏ°å	image	\ui\Image\UICommon\Danmaku_face.UITex	19		
-370	#p´óÆ¨Ñò	image	\ui\Image\UICommon\Danmaku_face.UITex	20		17
-371	#pÐØ´ó	image	\ui\Image\UICommon\Danmaku_face.UITex	21		
-372	#pÅÞÅÞ	image	\ui\Image\UICommon\Danmaku_face.UITex	22		
-373	#pÅçÑª	image	\ui\Image\UICommon\Danmaku_face.UITex	23		
-374	#pÆ¤Ñ÷ÁË	image	\ui\Image\UICommon\Danmaku_face.UITex	24		
-375	#pÇÐÁËÄã	image	\ui\Image\UICommon\Danmaku_face1.UITex	0		
-376	#pÈýË¼	image	\ui\Image\UICommon\Danmaku_face1.UITex	1		
+349	#oË¯ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face15.UITEX	11		16
+350	#pï¿½ï¿½ï¿½Ùºï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	0		
+351	#pï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	1		
+352	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	2		
+353	#pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	3		17
+354	#pï¿½ÒµÄ´ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	4		
+355	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	5		
+356	#pÄ¾ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	6		
+357	#pï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	7		17
+358	#pï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	8		
+359	#pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	9		17
+360	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	10		17
+361	#pï¿½Ù·ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	11		
+362	#pï¿½ï¿½Ð¦	image	\ui\Image\UICommon\Danmaku_face.UITex	12		
+363	#pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	13		
+364	#pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	14		
+365	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	15		
+366	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	16		
+367	#pï¿½É°ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	17		
+368	#pï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	18		
+369	#pï¿½Ï°ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	19		
+370	#pï¿½ï¿½Æ¨ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	20		17
+371	#pï¿½Ø´ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	21		
+372	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	22		
+373	#pï¿½ï¿½Ñª	image	\ui\Image\UICommon\Danmaku_face.UITex	23		
+374	#pÆ¤ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face.UITex	24		
+375	#pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	0		
+376	#pï¿½ï¿½Ë¼	image	\ui\Image\UICommon\Danmaku_face1.UITex	1		
 377	#pÉ¶	image	\ui\Image\UICommon\Danmaku_face1.UITex	2		
-378	#pÌÇºùÂ«	image	\ui\Image\UICommon\Danmaku_face1.UITex	3		
-379	#pË§Æø	image	\ui\Image\UICommon\Danmaku_face1.UITex	4		
-380	#pÎ§¹Û	image	\ui\Image\UICommon\Danmaku_face1.UITex	5		17
-381	#pÎ¯Çü	image	\ui\Image\UICommon\Danmaku_face1.UITex	6		17
-382	#pÎÒ²»Ìý 	image	\ui\Image\UICommon\Danmaku_face1.UITex	7		
-383	#pÎÞÄÎ	image	\ui\Image\UICommon\Danmaku_face1.UITex	8		
-384	#pÎÞÓï	image	\ui\Image\UICommon\Danmaku_face1.UITex	9		17
-385	#pÏÂÎç²è	image	\ui\Image\UICommon\Danmaku_face1.UITex	10		
-386	#p°¡¹þ	image	\ui\Image\UICommon\Danmaku_face1.UITex	11		
-387	#pÐÄÀï¿à	image	\ui\Image\UICommon\Danmaku_face1.UITex	12		
-388	#pÆ®Èá	image	\ui\Image\UICommon\Danmaku_face1.UITex	13		
-389	#pÔüÔü	image	\ui\Image\UICommon\Danmaku_face1.UITex	14		17
-390	#pÕÒ´ò	image	\ui\Image\UICommon\Danmaku_face1.UITex	15		
-391	#pµÆÅÝ	image	\ui\Image\UICommon\Danmaku_face1.UITex	16		
-392	#p¾ÍÊÇËû	image	\ui\Image\UICommon\Danmaku_face1.UITex	17		
-393	#p×ªÔË	image	\ui\Image\UICommon\Danmaku_face1.UITex	18		
-394	#p¶ñÈË	image	\ui\Image\UICommon\Danmaku_face1.UITex	19		17
-395	#o¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face16.UITex	0		18
-396	#o³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face16.UITex	1		18
-397	#oÁ÷º¹	animate	\ui\Image\UICommon\Talk_face16.UITex	2		18
+378	#pï¿½Çºï¿½Â«	image	\ui\Image\UICommon\Danmaku_face1.UITex	3		
+379	#pË§ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	4		
+380	#pÎ§ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	5		17
+381	#pÎ¯ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	6		17
+382	#pï¿½Ò²ï¿½ï¿½ï¿½ 	image	\ui\Image\UICommon\Danmaku_face1.UITex	7		
+383	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	8		
+384	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	9		17
+385	#pï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	10		
+386	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	11		
+387	#pï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	12		
+388	#pÆ®ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	13		
+389	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	14		17
+390	#pï¿½Ò´ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	15		
+391	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	16		
+392	#pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	17		
+393	#p×ªï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	18		
+394	#pï¿½ï¿½ï¿½ï¿½	image	\ui\Image\UICommon\Danmaku_face1.UITex	19		17
+395	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	0		18
+396	#oï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face16.UITex	1		18
+397	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	2		18
 398	#oÅ­	animate	\ui\Image\UICommon\Talk_face16.UITex	3		18
-399	#oÔÙ¼û	animate	\ui\Image\UICommon\Talk_face16.UITex	4		18
-400	#o¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face16.UITex	5		18
-401	#oÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face16.UITex	6		18
-402	#o±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face16.UITex	7		18
-403	#oº¦Ðß	animate	\ui\Image\UICommon\Talk_face16.UITex	8		18
-404	#o¿Þ	animate	\ui\Image\UICommon\Talk_face16.UITex	9		18
+399	#oï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	4		18
+400	#oï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	5		18
+401	#oÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	6		18
+402	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	7		18
+403	#oï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	8		18
+404	#oï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	9		18
 405	#oÉ«	animate	\ui\Image\UICommon\Talk_face16.UITex	10		18
-406	#oË¯¾õ	animate	\ui\Image\UICommon\Talk_face16.UITex	11		18
-407	#s³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face17.UITex	0		19
-408	#s·î³Ð	animate	\ui\Image\UICommon\Talk_face17.UITex	1		19
-409	#s¾ª¿Ö	animate	\ui\Image\UICommon\Talk_face17.UITex	2		19
-410	#sÂôÃÈ	animate	\ui\Image\UICommon\Talk_face17.UITex	3		19
-411	#sãÂ	animate	\ui\Image\UICommon\Talk_face17.UITex	4		19
-412	#sÄÚÉË	animate	\ui\Image\UICommon\Talk_face17.UITex	5		19
-413	#sÅçÑª	animate	\ui\Image\UICommon\Talk_face17.UITex	6		19
-414	#sÉËÐÄ	animate	\ui\Image\UICommon\Talk_face17.UITex	7		19
+406	#oË¯ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face16.UITex	11		18
+407	#sï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face17.UITex	0		19
+408	#sï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	1		19
+409	#sï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	2		19
+410	#sï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	3		19
+411	#sï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	4		19
+412	#sï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	5		19
+413	#sï¿½ï¿½Ñª	animate	\ui\Image\UICommon\Talk_face17.UITex	6		19
+414	#sï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	7		19
 415	#sÊ¢Å­	animate	\ui\Image\UICommon\Talk_face17.UITex	8		19
-416	#sÎÊºò	animate	\ui\Image\UICommon\Talk_face17.UITex	9		19
-417	#sÏ²ÔÃ	animate	\ui\Image\UICommon\Talk_face17.UITex	10		19
-418	#sÔÙ¼û	animate	\ui\Image\UICommon\Talk_face17.UITex	11		19
-419	#r±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face18.UITex	0		20
-420	#r³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face18.UITex	1		20
-421	#rº¦Ðß	animate	\ui\Image\UICommon\Talk_face18.UITex	2		20
-422	#r¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face18.UITex	3		20
-423	#r¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face18.UITex	4		20
-424	#r¿Þ	animate	\ui\Image\UICommon\Talk_face18.UITex	5		20
-425	#rÁ÷º¹	animate	\ui\Image\UICommon\Talk_face18.UITex	6		20
-426	#rÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face18.UITex	7		20
+416	#sï¿½Êºï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	9		19
+417	#sÏ²ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	10		19
+418	#sï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face17.UITex	11		19
+419	#rï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	0		20
+420	#rï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face18.UITex	1		20
+421	#rï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	2		20
+422	#rï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	3		20
+423	#rï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	4		20
+424	#rï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	5		20
+425	#rï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	6		20
+426	#rÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	7		20
 427	#rÉ«	animate	\ui\Image\UICommon\Talk_face18.UITex	8		20
-428	#rË¯¾õ	animate	\ui\Image\UICommon\Talk_face18.UITex	9		20
-429	#rÏÆ×À	animate	\ui\Image\UICommon\Talk_face18.UITex	10		20
-430	#rÔÙ¼û	animate	\ui\Image\UICommon\Talk_face18.UITex	11		20
-431	#t±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face19.UITex	0		21
-432	#t³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face19.UITex	1		21
-433	#tº¦Ðß	animate	\ui\Image\UICommon\Talk_face19.UITex	2		21
-434	#t¿ÉÁ¯	animate	\ui\Image\UICommon\Talk_face19.UITex	3		21
-435	#t¿Ù±Ç	animate	\ui\Image\UICommon\Talk_face19.UITex	4		21
-436	#t¿Þ	animate	\ui\Image\UICommon\Talk_face19.UITex	5		21
-437	#tÁ÷º¹	animate	\ui\Image\UICommon\Talk_face19.UITex	6		21
-438	#tÅ»ÍÂ	animate	\ui\Image\UICommon\Talk_face19.UITex	7		21
+428	#rË¯ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	9		20
+429	#rï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	10		20
+430	#rï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face18.UITex	11		20
+431	#tï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	0		21
+432	#tï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face19.UITex	1		21
+433	#tï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	2		21
+434	#tï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	3		21
+435	#tï¿½Ù±ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	4		21
+436	#tï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	5		21
+437	#tï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	6		21
+438	#tÅ»ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	7		21
 439	#tÉ«	animate	\ui\Image\UICommon\Talk_face19.UITex	8		21
-440	#tË¯¾õ	animate	\ui\Image\UICommon\Talk_face19.UITex	9		21
-441	#tÏÆ×À	animate	\ui\Image\UICommon\Talk_face19.UITex	10		21
-442	#tÔÙ¼û	animate	\ui\Image\UICommon\Talk_face19.UITex	11		21
-443	#u´òíï	animate	\ui\Image\UICommon\Talk_face20.UITex	0		22
-444	#uÃÄÑÛ	animate	\ui\Image\UICommon\Talk_face20.UITex	1		22
-445	#u³ÁÄ¬	animate	\ui\Image\UICommon\Talk_face20.UITex	2		22
-446	#uÔÙ¼û	animate	\ui\Image\UICommon\Talk_face20.UITex	3		22
-447	#uº¦ÅÂ	animate	\ui\Image\UICommon\Talk_face20.UITex	4		22
-448	#uº¦Ðß	animate	\ui\Image\UICommon\Talk_face20.UITex	5		22
-449	#u¿Þ	animate	\ui\Image\UICommon\Talk_face20.UITex	6		22
-450	#u±ÉÊÓ	animate	\ui\Image\UICommon\Talk_face20.UITex	7		22
-451	#uÁ÷º¹	animate	\ui\Image\UICommon\Talk_face20.UITex	8		22
+440	#tË¯ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	9		21
+441	#tï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	10		21
+442	#tï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face19.UITex	11		21
+443	#uï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	0		22
+444	#uï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	1		22
+445	#uï¿½ï¿½Ä¬	animate	\ui\Image\UICommon\Talk_face20.UITex	2		22
+446	#uï¿½Ù¼ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	3		22
+447	#uï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	4		22
+448	#uï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	5		22
+449	#uï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	6		22
+450	#uï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	7		22
+451	#uï¿½ï¿½ï¿½ï¿½	animate	\ui\Image\UICommon\Talk_face20.UITex	8		22
 452	#uÅ­	animate	\ui\Image\UICommon\Talk_face20.UITex	9		22

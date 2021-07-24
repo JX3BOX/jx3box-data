@@ -78,7 +78,7 @@
         "hover": "/box/quest.svg",
         "name": "任务百科",
         "abbr": "任务",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -119,18 +119,6 @@
         "mark": "HOT",
         "status": true
     },
-    "bbs": {
-        "uuid": "bbs",
-        "href": "/bbs",
-        "img": "/box/bbs.svg",
-        "hover": "/box/bbs.svg",
-        "name": "茶馆交流",
-        "abbr": "茶馆",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
     "share": {
         "uuid": "share",
         "href": "/share",
@@ -138,6 +126,18 @@
         "hover": "/box/share.svg",
         "name": "捏脸分享",
         "abbr": "捏脸",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "bbs": {
+        "uuid": "bbs",
+        "href": "/bbs",
+        "img": "/box/bbs.svg",
+        "hover": "/box/bbs.svg",
+        "name": "茶馆交流",
+        "abbr": "茶馆",
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
@@ -155,6 +155,18 @@
         "mark": "HOT",
         "status": true
     },
+    "icons": {
+        "uuid": "icons",
+        "href": "/app/icons",
+        "img": "/box/icons.svg",
+        "hover": "/box/icons.svg",
+        "name": "图标大全",
+        "abbr": "图标",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
     "talent": {
         "uuid": "talent",
         "href": "/app/talent",
@@ -167,16 +179,16 @@
         "mark": "HOT",
         "status": true
     },
-    "icons": {
-        "uuid": "icons",
-        "href": "/app/icons",
-        "img": "/box/icons.svg",
-        "hover": "/box/icons.svg",
-        "name": "图标大全",
-        "abbr": "图标",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
+    "italent": {
+        "uuid": "italent",
+        "href": "/app/italent",
+        "img": "/box/italent.svg",
+        "hover": "/box/italent.svg",
+        "name": "自拟天赋",
+        "abbr": "天赋",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "macroeditor": {
@@ -261,6 +273,18 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
+        "status": false
+    },
+    "sandbox": {
+        "uuid": "sandbox",
+        "href": "/app/sandbox",
+        "img": "/box/sandbox.svg",
+        "hover": "/box/sandbox.svg",
+        "name": "阵营沙盘",
+        "abbr": "沙盘",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "team": {
@@ -282,9 +306,21 @@
         "hover": "/box/rank.svg",
         "name": "秘境百强",
         "abbr": "百强榜",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
+        "status": true
+    },
+    "battle": {
+        "uuid": "battle",
+        "href": "/battle",
+        "img": "/box/battle.svg",
+        "hover": "/box/battle.svg",
+        "name": "战斗分析",
+        "abbr": "复盘",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "dbm": {
@@ -301,14 +337,14 @@
     },
     "fbdata": {
         "uuid": "fbdata",
-        "href": "/fb/#/skill",
+        "href": "/fb/#/attr",
         "img": "/box/fbdata.svg",
         "hover": "/box/fbdata.svg",
-        "name": "副本数据",
-        "abbr": "解包",
+        "name": "特殊机制",
+        "abbr": "机制",
         "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "fbdrop": {
@@ -366,7 +402,19 @@
         "hover": "/box/namespace.svg",
         "name": "剑三铭牌",
         "abbr": "铭牌",
-        "hasMark": true,
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "joke": {
+        "uuid": "joke",
+        "href": "/bbs/#/joke",
+        "img": "/box/joke.svg",
+        "hover": "/box/joke.svg",
+        "name": "剑三骚话",
+        "abbr": "骚话",
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -403,18 +451,6 @@
         "hover": "/box/xls.svg",
         "name": "DPS模拟",
         "abbr": "DPS",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "j3dps": {
-        "uuid": "j3dps",
-        "href": "https://j3dps.com/fightlog",
-        "img": "/box/j3dps.svg",
-        "hover": "/box/j3dps.svg",
-        "name": "战斗复盘",
-        "abbr": "复盘",
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",

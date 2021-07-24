@@ -1,24 +1,24 @@
 pageid	name	grid_w	grid_h	image_path	image_frame	emotionP_w	emotionP_h	mergeid
-0	Ä¬ÈÏ	33	33					0
-1	ÃÈ¼¦	38	38					0
-2	Æó¶ì	38	38					0
-3	ÃÈ»¢	38	38					0
-4	Ã÷½ÌÃÈÃ¨	38	38	ui/Image/icon/daoj_16_8_8_23.UITex	0			0
-5	Íò»¨ËÉÊó	38	38	ui/Image/icon/daoj_16_8_8_19.UITex	0			0
-6	ÉÙÁÖÁéºï	38	38	ui/Image/icon/daoj_16_8_8_24.UITex	0			0
-7	ÌÆÃÅÐ¡Öí	38	38	ui/Image/icon/daoj_16_8_8_22.UITex	0			0
-8	ÆßÐãÃÈÍÃ	38	38	ui/Image/icon/daoj_16_8_8_16.UITex	0			0
-9	Îå¶¾¿×È¸	38	38	ui/Image/icon/daoj_16_8_8_17.UITex	0			0
-10	³¤¸èÐ¡Â¹	38	38	ui/Image/icon/daoj_16_8_8_26.UITex	0			0
-11	²Ø½£â¦áû	38	38	ui/Image/icon/daoj_16_8_8_21.UITex	0			0
-12	²ÔÔÆÓ×Ê¨	38	38	ui/Image/icon/daoj_16_8_8_20.UITex	0			0
-13	´¿ÑôÏÉº×	38	38	ui/Image/icon/daoj_16_8_8_15.UITex	0			0
-14	Ø¤°ïÓ¥öÀ	38	38	ui/Image/icon/daoj_16_8_8_25.UITex	0			0
-15	Ìì²ßÐ¡ÀÇ	38	38	ui/Image/icon/daoj_16_8_8_18.UITex	0			0
-16	°Ôµ¶Ñ©õõ	38	38	ui/Image/icon/daoj_16_10_17_130.UITex	0			0
-17	µ¯Ä»	65	65			56	56	0
-18	ÅîÀ³º£Ì¡	38	38	ui/Image/icon/daoj_18_11_29_268.UITex	0			0
-19	Éò½£ÐÄ	38	38					0
-20	ÁèÑ©¸óºÚ±ª	38	38	ui/Image/icon/daoj_19_11_28_48.UITex	0			0
-21	ÑÜÌì×Ú»Ãºü	38	38	ui/Image/UICommon/Talk_face19.UITex	0			0
-22	Ó¥àÓ	38	38					0
+0	Ä¬ï¿½ï¿½	33	33					0
+1	ï¿½È¼ï¿½	38	38					0
+2	ï¿½ï¿½ï¿½	38	38					0
+3	ï¿½È»ï¿½	38	38					0
+4	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¨	38	38	ui/Image/icon/daoj_16_8_8_23.UITex	0			0
+5	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_8_8_19.UITex	0			0
+6	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_8_8_24.UITex	0			0
+7	ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_8_8_22.UITex	0			0
+8	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_8_8_16.UITex	0			0
+9	ï¿½å¶¾ï¿½ï¿½È¸	38	38	ui/Image/icon/daoj_16_8_8_17.UITex	0			0
+10	ï¿½ï¿½ï¿½ï¿½Ð¡Â¹	38	38	ui/Image/icon/daoj_16_8_8_26.UITex	0			0
+11	ï¿½Ø½ï¿½ï¿½ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_8_8_21.UITex	0			0
+12	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¨	38	38	ui/Image/icon/daoj_16_8_8_20.UITex	0			0
+13	ï¿½ï¿½ï¿½ï¿½ï¿½Éºï¿½	38	38	ui/Image/icon/daoj_16_8_8_15.UITex	0			0
+14	Ø¤ï¿½ï¿½Ó¥ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_8_8_25.UITex	0			0
+15	ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_8_8_18.UITex	0			0
+16	ï¿½Ôµï¿½Ñ©ï¿½ï¿½	38	38	ui/Image/icon/daoj_16_10_17_130.UITex	0			0
+17	ï¿½ï¿½Ä»	65	65			56	56	0
+18	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¡	38	38	ui/Image/icon/daoj_18_11_29_268.UITex	0			0
+19	ï¿½ï¿½ï¿½ï¿½	38	38					0
+20	ï¿½ï¿½Ñ©ï¿½ï¿½Ú±ï¿½	38	38	ui/Image/icon/daoj_19_11_28_48.UITex	0			0
+21	ï¿½ï¿½ï¿½ï¿½ï¿½Ú»Ãºï¿½	38	38	ui/Image/UICommon/Talk_face19.UITex	0			0
+22	Ó¥ï¿½ï¿½	38	38					0

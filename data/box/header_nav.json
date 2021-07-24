@@ -4,14 +4,52 @@
         "link": "/index",
         "status": 1,
         "key": "index",
-        "hasChildren": false
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "正式服",
+                "link": "https://www.jx3box.com/index",
+                "status": 1,
+                "key": "index-std",
+                "desc":"(重制版)"
+            },
+            {
+                "label": "怀旧服",
+                "link": "https://origin.jx3box.com/origin",
+                "status": 1,
+                "key": "index-origin",
+                "desc":"(缘起)"
+            }
+        ]
     },
     {
         "label": "宏库",
         "link": "/macro",
         "status": 1,
         "key": "macro",
-        "hasChildren": false
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "正式服",
+                "link": "https://www.jx3box.com/macro",
+                "status": 1,
+                "key": "macro-std",
+                "desc":"(重制版)"
+            },
+            {
+                "label": "怀旧服",
+                "link": "https://origin.jx3box.com/macro",
+                "status": 1,
+                "key": "macro-origin",
+                "desc":"(缘起)"
+            },
+            {
+                "label": "宏编辑器",
+                "link": "/app/macroeditor",
+                "status": 1,
+                "key": "macroeditor"
+            }
+        ]
     },
     {
         "label": "插件",
@@ -43,36 +81,24 @@
         "children": [
             {
                 "label": "副本攻略",
-                "link": "/fb/#/",
+                "link": "/fb",
                 "status": 1,
                 "key": "fb_post"
             },
             {
-                "label": "秘境百强",
-                "link": "/rank",
+                "label": "团队平台",
+                "link": "/team",
                 "status": 1,
-                "key": "fb_rank"
+                "key": "team"
             },
             {
-                "label": "首领数据",
-                "link": "/fb/#/npc",
-                "status": 1,
-                "key": "fb_npc"
-            },
-            {
-                "label": "机制数据",
-                "link": "/fb/#/skill",
-                "status": 1,
-                "key": "fb_skill"
-            },
-            {
-                "label": "掉落奖励",
+                "label": "副本掉落",
                 "link": "/fb/#/drop",
                 "status": 1,
                 "key": "fb_drop"
             },
             {
-                "label": "瑰石一览",
+                "label": "瑰石查询",
                 "link": "/fb/#/gem",
                 "status": 1,
                 "key": "fb_gem"
@@ -88,21 +114,33 @@
         "children": [
             {
                 "label": "门派攻略",
-                "link": "/bps/#/",
+                "link": "/bps",
                 "status": 1,
                 "key": "bps_post"
             },
             {
-                "label": "DPS天梯榜",
-                "link": "/dps",
-                "status": 0,
-                "key": "dps_rank"
+                "label": "天梯排行",
+                "link": "/bps/#/ladder",
+                "status": 1,
+                "key": "ladder"
             },
             {
-                "label": "DPS模拟器",
+                "label": "技能合集",
+                "link": "/bps/#/collection",
+                "status": 1,
+                "key": "skillcollection"
+            },
+            {
+                "label": "战斗分析",
+                "link": "/battle",
+                "status": 1,
+                "key": "battle"
+            },
+            {
+                "label": "伤害模拟",
                 "link": "/app/dps",
                 "status": 1,
-                "key": "dps_calc"
+                "key": "dps"
             }
         ]
     },
@@ -128,7 +166,7 @@
             {
                 "label": "任务百科",
                 "link": "/quest",
-                "status": 0,
+                "status": 1,
                 "key": "quest"
             },
             {
@@ -153,32 +191,26 @@
         "hasChildren": true,
         "children": [
             {
-                "label": "团队平台",
-                "link": "/team",
-                "status": 1,
-                "key": "team"
-            },
-            {
-                "label": "魔盒助手",
-                "link": "/assistant",
-                "status": 0,
-                "key": "assistant"
-            },
-            {
                 "label": "剑三数据库",
                 "link": "/app/database",
                 "status": 1,
                 "key": "database"
             },
             {
-                "label": "教程指南",
-                "link": "/tool/?subtype=3",
+                "label": "阵营沙盘",
+                "link": "/app/sandbox",
                 "status": 1,
-                "key": "docs"
+                "key": "sandbox"
+            },
+            {
+                "label": "魔盒应用",
+                "link": "/app",
+                "status": 1,
+                "key": "appindex"
             },
             {
                 "label": "更多工具",
-                "link": "/tool/?subtype=1",
+                "link": "/tool",
                 "status": 1,
                 "key": "helper"
             }
@@ -186,6 +218,27 @@
     },
     {
         "label": "休闲",
+        "link": "/share",
+        "status": 1,
+        "key": "share",
+        "hasChildren": true,
+        "children": [
+            {
+                "label": "捏脸分享",
+                "link": "/share",
+                "status": 1,
+                "key": "face"
+            },
+            {
+                "label": "家园蓝图",
+                "link": "https://jx3.xoyo.com/zt/2020/09/24/blueprint/#/",
+                "status": 1,
+                "key": "house"
+            }
+        ]
+    },
+    {
+        "label": "茶馆",
         "link": "/bbs",
         "status": 1,
         "key": "bbs",
@@ -194,7 +247,7 @@
             {
                 "label": "剑三骚话",
                 "link": "/bbs/#/joke",
-                "status": 0,
+                "status": 1,
                 "key": "joke"
             },
             {
@@ -204,23 +257,16 @@
                 "key": "emotion"
             },
             {
-                "label": "茶馆交流",
-                "link": "/bbs/#/forum",
-                "status": 1,
-                "key": "forum"
-            },
-            {
-                "label": "捏脸分享",
-                "link": "/share",
-                "status": 1,
-                "key": "share"
-            },
-            {
-                "label": "铭牌",
-                "desc": "（剑网3.com）",
+                "label": "剑三铭牌",
                 "link": "/bbs/#/namespace",
                 "status": 1,
                 "key": "namespace"
+            },
+            {
+                "label": "反馈交流",
+                "link": "/bbs/#/forum",
+                "status": 1,
+                "key": "forum"
             }
         ]
     }
