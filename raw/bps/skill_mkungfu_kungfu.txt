@@ -27,3 +27,6 @@ MountKungfu	Kungfu	BG1	BG2	BG3	BG4	BG5	Alpha	IsSection
 10533	10535;10539;10540;10541	ui/Image/NewSkillsBG/蓬莱一-1.tga	ui/Image/NewSkillsBG/蓬莱一-2.tga	ui/Image/NewSkillsBG/蓬莱一-3.tga	ui/Image/NewSkillsBG/蓬莱一-4.tga	ui/Image/NewSkillsBG/蓬莱一-5.tga	130	1
 10585	10586;10588;10589;10590	ui/Image/NewSkillsBG/凌雪阁一-1.tga	ui/Image/NewSkillsBG/凌雪阁一-2.tga	ui/Image/NewSkillsBG/凌雪阁一-3.tga	ui/Image/NewSkillsBG/凌雪阁一-4.tga	ui/Image/NewSkillsBG/凌雪阁一-5.tga	130	1
 10615	10614;10617;10618;10619	ui/Image/NewSkillsBG/衍天宗-1.tga	ui/Image/NewSkillsBG/衍天宗-2.tga	ui/Image/NewSkillsBG/衍天宗-3.tga	ui/Image/NewSkillsBG/衍天宗-4.tga	ui/Image/NewSkillsBG/衍天宗-5.tga	130	1
+								
+								
+								
