@@ -126,7 +126,7 @@
         "hover": "/box/share.svg",
         "name": "捏脸分享",
         "abbr": "捏脸",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -167,6 +167,18 @@
         "mark": "HOT",
         "status": true
     },
+    "talent2": {
+        "uuid": "talent2",
+        "href": "/app/talent2",
+        "img": "/box/talent2.svg",
+        "hover": "/box/talent2.svg",
+        "name": "镇派模拟",
+        "abbr": "镇派",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "meridians": {
         "uuid": "meridians",
         "href": "/app/meridians",
@@ -174,7 +186,7 @@
         "hover": "/box/meridians.svg",
         "name": "经脉模拟",
         "abbr": "经脉",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -191,18 +203,6 @@
         "mark": "HOT",
         "status": true
     },
-    "translator": {
-        "uuid": "translator",
-        "href": "/app/translator",
-        "img": "/box/translator.svg",
-        "hover": "/box/translator.svg",
-        "name": "繁体转换",
-        "abbr": "繁体",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
     "servers": {
         "uuid": "servers",
         "href": "/app/servers",
@@ -210,18 +210,6 @@
         "hover": "/box/servers.svg",
         "name": "开服监控",
         "abbr": "开服",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "price": {
-        "uuid": "price",
-        "href": "/app/price",
-        "img": "/box/price.svg",
-        "hover": "/box/price.svg",
-        "name": "金价走势",
-        "abbr": "金价",
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
@@ -258,7 +246,7 @@
         "hover": "/box/team.svg",
         "name": "团队平台",
         "abbr": "团队",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
