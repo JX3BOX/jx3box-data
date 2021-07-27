@@ -1,59 +1,59 @@
 {
-  "xfConfigs": {
-    "冰心诀": {
-      "begin": "left",
-      "content": [10081, 10080],
-      "talent": ["冰心诀", "云裳心经"]
-    },
-    "云裳心经": {
-      "begin": "right",
-      "content": [10081, 10080],
-      "talent": ["冰心诀", "云裳心经"]
-    },
-    "傲血战意": {
-      "begin": "left",
-      "content": [10026, 10062],
-      "talent": ["傲血战意", "铁牢律"]
-    },
-    "铁牢律": {
-      "begin": "right",
-      "content": [10026, 10062],
-      "talent": ["傲血战意", "铁牢律"]
-    },
-    "花间游": {
-      "begin": "left",
-      "content": [10021, 10028],
-      "talent": ["花间游", "离经易道"]
-    },
-    "离经易道": {
-      "begin": "right",
-      "content": [10021, 10028],
-      "talent": ["花间游", "离经易道"]
-    },
-    "太虚剑意": {
-      "begin": "left",
-      "content": [10015, 10014],
-      "talent": ["太虚剑意", "紫霞功"]
-    },
-    "紫霞功": {
-      "begin": "right",
-      "content": [10015, 10014],
-      "talent": ["太虚剑意", "紫霞功"]
-    },
-    "易筋经": {
-      "begin": "left",
-      "content": [10003, 10002],
-      "talent": ["易筋经", "洗髓经"]
-    },
-    "洗髓经": {
-      "begin": "right",
-      "content": [10003, 10002],
-      "talent": ["易筋经", "洗髓经"]
-    },
-    "通用": {
-      "begin": "left",
-      "content": [],
-      "talent": ["冰心诀", "云裳心经"]
+    "xfConfigs": {
+        "冰心诀": {
+            "begin": "left",
+            "content": [10081, 10080],
+            "talent": ["冰心诀", "云裳心经"]
+        },
+        "云裳心经": {
+            "begin": "right",
+            "content": [10081, 10080],
+            "talent": ["冰心诀", "云裳心经"]
+        },
+        "傲血战意": {
+            "begin": "left",
+            "content": [10026, 10062],
+            "talent": ["傲血战意", "铁牢律"]
+        },
+        "铁牢律": {
+            "begin": "right",
+            "content": [10026, 10062],
+            "talent": ["傲血战意", "铁牢律"]
+        },
+        "花间游": {
+            "begin": "left",
+            "content": [10021, 10028],
+            "talent": ["花间游", "离经易道"]
+        },
+        "离经易道": {
+            "begin": "right",
+            "content": [10021, 10028],
+            "talent": ["花间游", "离经易道"]
+        },
+        "太虚剑意": {
+            "begin": "left",
+            "content": [10015, 10014],
+            "talent": ["太虚剑意", "紫霞功"]
+        },
+        "紫霞功": {
+            "begin": "right",
+            "content": [10015, 10014],
+            "talent": ["太虚剑意", "紫霞功"]
+        },
+        "易筋经": {
+            "begin": "left",
+            "content": [10003, 10002],
+            "talent": ["易筋经", "洗髓经"]
+        },
+        "洗髓经": {
+            "begin": "right",
+            "content": [10003, 10002],
+            "talent": ["易筋经", "洗髓经"]
+        },
+        "通用": {
+            "begin": "left",
+            "content": [0, 0],
+            "talent": ["山川", "山河"]
+        }
     }
-  }
 }
