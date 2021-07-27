@@ -179,18 +179,6 @@
         "mark": "HOT",
         "status": true
     },
-    "italent": {
-        "uuid": "italent",
-        "href": "/app/italent",
-        "img": "/box/italent.svg",
-        "hover": "/box/italent.svg",
-        "name": "自拟天赋",
-        "abbr": "天赋",
-        "hasMark": true,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
     "macroeditor": {
         "uuid": "macroeditor",
         "href": "/app/macroeditor",
