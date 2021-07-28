@@ -3,57 +3,57 @@
         "冰心诀": {
             "begin": "left",
             "content": [10081, 10080],
-            "talent": ["冰心诀", "云裳心经"]
+            "talent": ["拥雪", "蝶舞"]
         },
         "云裳心经": {
             "begin": "right",
             "content": [10081, 10080],
-            "talent": ["冰心诀", "云裳心经"]
+            "talent": ["拥雪", "蝶舞"]
         },
         "傲血战意": {
             "begin": "left",
             "content": [10026, 10062],
-            "talent": ["傲血战意", "铁牢律"]
+            "talent": ["斩绝", "封魂"]
         },
         "铁牢律": {
             "begin": "right",
             "content": [10026, 10062],
-            "talent": ["傲血战意", "铁牢律"]
+            "talent": ["斩绝", "封魂"]
         },
         "花间游": {
             "begin": "left",
             "content": [10021, 10028],
-            "talent": ["花间游", "离经易道"]
+            "talent": ["墨艺", "悬壶"]
         },
         "离经易道": {
             "begin": "right",
             "content": [10021, 10028],
-            "talent": ["花间游", "离经易道"]
+            "talent": ["墨艺", "悬壶"]
         },
         "太虚剑意": {
             "begin": "left",
             "content": [10015, 10014],
-            "talent": ["太虚剑意", "紫霞功"]
+            "talent": ["剑宗", "气宗"]
         },
         "紫霞功": {
             "begin": "right",
             "content": [10015, 10014],
-            "talent": ["太虚剑意", "紫霞功"]
+            "talent": ["剑宗", "气宗"]
         },
         "易筋经": {
             "begin": "left",
             "content": [10003, 10002],
-            "talent": ["易筋经", "洗髓经"]
+            "talent": ["金刚", "明王"]
         },
         "洗髓经": {
             "begin": "right",
             "content": [10003, 10002],
-            "talent": ["易筋经", "洗髓经"]
+            "talent": ["金刚", "明王"]
         },
         "通用": {
             "begin": "left",
             "content": [0, 0],
-            "talent": ["山川", "山河"]
+            "talent": ["山川", "日月"]
         }
     }
 }
