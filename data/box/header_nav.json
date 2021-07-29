@@ -10,15 +10,13 @@
                 "label": "正式服",
                 "link": "https://www.jx3box.com/index",
                 "status": 1,
-                "key": "index-std",
-                "desc":"(重制版)"
+                "key": "index-std"
             },
             {
                 "label": "怀旧服",
                 "link": "https://origin.jx3box.com/origin",
                 "status": 1,
-                "key": "index-origin",
-                "desc":"(缘起)"
+                "key": "index-origin"
             }
         ]
     },
@@ -33,15 +31,13 @@
                 "label": "正式服",
                 "link": "https://www.jx3box.com/macro",
                 "status": 1,
-                "key": "macro-std",
-                "desc":"(重制版)"
+                "key": "macro-std"
             },
             {
                 "label": "怀旧服",
                 "link": "https://origin.jx3box.com/macro",
                 "status": 1,
-                "key": "macro-origin",
-                "desc":"(缘起)"
+                "key": "macro-origin"
             },
             {
                 "label": "宏编辑器",
