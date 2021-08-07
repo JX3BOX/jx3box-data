@@ -322,5 +322,17 @@
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
+    },
+    "wbl": {
+        "uuid": "wbl",
+        "href": "https://jx3yq.seasunwbl.com",
+        "img": "/box/wbl.png",
+        "hover": "/box/wbl.png",
+        "name": "万宝楼",
+        "abbr": "万宝楼",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
     }
 }

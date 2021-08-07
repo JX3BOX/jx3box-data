@@ -4,21 +4,7 @@
         "link": "/index",
         "status": 1,
         "key": "index",
-        "hasChildren": true,
-        "children": [
-            {
-                "label": "正式服",
-                "link": "https://www.jx3box.com/index",
-                "status": 1,
-                "key": "index-std"
-            },
-            {
-                "label": "怀旧服",
-                "link": "https://origin.jx3box.com/origin",
-                "status": 1,
-                "key": "index-origin"
-            }
-        ]
+        "hasChildren": false
     },
     {
         "label": "宏库",
@@ -27,18 +13,6 @@
         "key": "macro",
         "hasChildren": true,
         "children": [
-            {
-                "label": "正式服",
-                "link": "https://www.jx3box.com/macro",
-                "status": 1,
-                "key": "macro-std"
-            },
-            {
-                "label": "怀旧服",
-                "link": "https://origin.jx3box.com/macro",
-                "status": 1,
-                "key": "macro-origin"
-            },
             {
                 "label": "宏编辑器",
                 "link": "/app/macroeditor",
