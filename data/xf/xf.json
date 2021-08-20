@@ -7,8 +7,7 @@
         "force": 5,
         "kungfuId": 10,
         "school": 4,
-        "client": ["all", "std", "origin"],
-        "pasv":542
+        "client": ["all", "std", "origin"]
     },
     "云裳心经": {
         "name": "云裳心经",
@@ -18,8 +17,7 @@
         "force": 5,
         "kungfuId": 9,
         "school": 4,
-        "client": ["all", "std", "origin"],
-        "pasv":536
+        "client": ["all", "std", "origin"]
     },
     "花间游": {
         "name": "花间游",
@@ -29,8 +27,7 @@
         "force": 2,
         "kungfuId": 5,
         "school": 2,
-        "client": ["all", "std", "origin"],
-        "pasv":487
+        "client": ["all", "std", "origin"]
     },
     "离经易道": {
         "name": "离经易道",
@@ -40,8 +37,7 @@
         "force": 2,
         "kungfuId": 7,
         "school": 2,
-        "client": ["all", "std", "origin"],
-        "pasv":492
+        "client": ["all", "std", "origin"]
     },
     "毒经": {
         "name": "毒经",
@@ -51,8 +47,7 @@
         "force": 6,
         "kungfuId": 13,
         "school": 9,
-        "client": ["all", "std"],
-        "pasv":2236
+        "client": ["all", "std"]
     },
     "补天诀": {
         "name": "补天诀",
@@ -62,8 +57,7 @@
         "force": 6,
         "kungfuId": 14,
         "school": 9,
-        "client": ["all", "std"],
-        "pasv":2244
+        "client": ["all", "std"]
     },
     "莫问": {
         "name": "莫问",
@@ -73,8 +67,7 @@
         "force": 22,
         "kungfuId": 22,
         "school": 19,
-        "client": ["all", "std"],
-        "pasv":14087
+        "client": ["all", "std"]
     },
     "相知": {
         "name": "相知",
@@ -84,8 +77,7 @@
         "force": 22,
         "kungfuId": 23,
         "school": 19,
-        "client": ["all", "std"],
-        "pasv":14088
+        "client": ["all", "std"]
     },
     "傲血战意": {
         "name": "傲血战意",
@@ -95,8 +87,7 @@
         "force": 3,
         "kungfuId": 6,
         "school": 1,
-        "client": ["all", "std", "origin"],
-        "pasv":520
+        "client": ["all", "std", "origin"]
     },
     "铁牢律": {
         "name": "铁牢律",
@@ -106,8 +97,7 @@
         "force": 3,
         "kungfuId": 8,
         "school": 1,
-        "client": ["all", "std", "origin"],
-        "pasv":531
+        "client": ["all", "std", "origin"]
     },
     "易筋经": {
         "name": "易筋经",
@@ -117,8 +107,7 @@
         "force": 1,
         "kungfuId": 2,
         "school": 5,
-        "client": ["all", "std", "origin"],
-        "pasv":583
+        "client": ["all", "std", "origin"]
     },
     "洗髓经": {
         "name": "洗髓经",
@@ -128,8 +117,7 @@
         "force": 1,
         "kungfuId": 1,
         "school": 5,
-        "client": ["all", "std", "origin"],
-        "pasv":578
+        "client": ["all", "std", "origin"]
     },
     "焚影圣诀": {
         "name": "焚影圣诀",
@@ -139,8 +127,7 @@
         "force": 10,
         "kungfuId": 17,
         "school": 8,
-        "client": ["all", "std"],
-        "pasv":4258
+        "client": ["all", "std"]
     },
     "明尊琉璃体": {
         "name": "明尊琉璃体",
@@ -150,8 +137,7 @@
         "force": 10,
         "kungfuId": 18,
         "school": 8,
-        "client": ["all", "std"],
-        "pasv":4260
+        "client": ["all", "std"]
     },
     "分山劲": {
         "name": "分山劲",
@@ -161,8 +147,7 @@
         "force": 21,
         "kungfuId": 21,
         "school": 18,
-        "client": ["all", "std"],
-        "pasv":13149
+        "client": ["all", "std"]
     },
     "铁骨衣": {
         "name": "铁骨衣",
@@ -172,8 +157,7 @@
         "force": 21,
         "kungfuId": 20,
         "school": 18,
-        "client": ["all", "std"],
-        "pasv":13150
+        "client": ["all", "std"]
     },
     "紫霞功": {
         "name": "紫霞功",
@@ -183,8 +167,7 @@
         "force": 4,
         "kungfuId": 3,
         "school": 3,
-        "client": ["all", "std", "origin"],
-        "pasv":345
+        "client": ["all", "std", "origin"]
     },
     "太虚剑意": {
         "name": "太虚剑意",
@@ -194,8 +177,7 @@
         "force": 4,
         "kungfuId": 4,
         "school": 3,
-        "client": ["all", "std", "origin"],
-        "pasv":342
+        "client": ["all", "std", "origin"]
     },
     "天罗诡道": {
         "name": "天罗诡道",
@@ -205,8 +187,7 @@
         "force": 7,
         "kungfuId": 16,
         "school": 10,
-        "client": ["all", "std"],
-        "pasv":3211
+        "client": ["all", "std"]
     },
     "惊羽诀": {
         "name": "惊羽诀",
@@ -216,8 +197,7 @@
         "force": 7,
         "kungfuId": 15,
         "school": 10,
-        "client": ["all", "std"],
-        "pasv":3204
+        "client": ["all", "std"]
     },
     "问水诀": {
         "name": "问水诀",
@@ -227,8 +207,7 @@
         "force": 8,
         "kungfuId": 11,
         "school": 6,
-        "client": ["all", "std"],
-        "pasv":1720
+        "client": ["all", "std"]
     },
     "笑尘诀": {
         "name": "笑尘诀",
@@ -238,8 +217,7 @@
         "force": 9,
         "kungfuId": 19,
         "school": 7,
-        "client": ["all", "std"],
-        "pasv":5308
+        "client": ["all", "std"]
     },
     "北傲诀": {
         "name": "北傲诀",
@@ -249,8 +227,7 @@
         "force": 23,
         "kungfuId": 24,
         "school": 20,
-        "client": ["all", "std"],
-        "pasv":16023
+        "client": ["all", "std"]
     },
     "凌海诀": {
         "name": "凌海诀",
@@ -260,8 +237,7 @@
         "force": 24,
         "kungfuId": 25,
         "school": 21,
-        "client": ["all", "std"],
-        "pasv":19706
+        "client": ["all", "std"]
     },
     "隐龙诀": {
         "name": "隐龙诀",
@@ -271,8 +247,7 @@
         "force": 25,
         "kungfuId": 26,
         "school": 22,
-        "client": ["all", "std"],
-        "pasv":22049
+        "client": ["all", "std"]
     },
     "太玄经": {
         "name": "太玄经",
@@ -282,8 +257,7 @@
         "force": 211,
         "kungfuId": 27,
         "school": 23,
-        "client": ["all", "std"],
-        "pasv":24389
+        "client": ["all", "std"]
     },
     "通用": {
         "name": "通用",
@@ -293,7 +267,6 @@
         "force": 0,
         "kungfuId": 0,
         "school": 0,
-        "client": ["all", "std", "origin"],
-        "pasv":1
+        "client": ["all", "std", "origin"]
     }
 }
