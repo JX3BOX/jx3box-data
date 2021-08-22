@@ -227,18 +227,6 @@
         "mark": "NEW",
         "status": true
     },
-    "keju": {
-        "uuid": "keju",
-        "href": "https://j3cx.com/exam/",
-        "img": "/box/keju.svg",
-        "hover": "/box/keju.svg",
-        "name": "科举题库",
-        "abbr": "科举",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
     "team": {
         "uuid": "team",
         "href": "/team",
@@ -318,6 +306,18 @@
         "hover": "/box/joke.svg",
         "name": "剑三骚话",
         "abbr": "骚话",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "keju": {
+        "uuid": "keju",
+        "href": "https://j3cx.com/exam/",
+        "img": "/box/keju.svg",
+        "hover": "/box/keju.svg",
+        "name": "科举题库",
+        "abbr": "科举",
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
