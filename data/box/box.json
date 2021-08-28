@@ -422,7 +422,7 @@
     },
     "haste": {
         "uuid": "haste",
-        "href": "https://www.j3pz.com/tools/haste/",
+        "href": "/app/haste/",
         "img": "/box/haste.svg",
         "hover": "/box/haste.svg",
         "name": "急速阈值",
@@ -434,7 +434,7 @@
     },
     "xls": {
         "uuid": "xls",
-        "href": "https://www.jx3box.com/app/dps",
+        "href": "/app/dps",
         "img": "/box/xls.svg",
         "hover": "/box/xls.svg",
         "name": "DPS模拟",
