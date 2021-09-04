@@ -11,7 +11,6 @@ const records = parse(data, {
 
 // fs.writeFileSync('./data/fb/fb_boss.json',JSON.stringify(records))
 
-
 let arr = []
 for(let record of records){
     if(record.NpcID) arr.push(parseInt(record.NpcID))
