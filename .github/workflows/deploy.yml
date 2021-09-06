@@ -1,4 +1,4 @@
-name: Github Pages
+name: PKG&OSS
 on:
   push:
     branches:
