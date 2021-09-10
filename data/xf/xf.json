@@ -209,6 +209,16 @@
         "school": 6,
         "client": ["all", "std"]
     },
+    "山居剑意": {
+        "name": "山居剑意",
+        "color": "#FDDD70",
+        "id": 10145,
+        "icon": 2376,
+        "force": 8,
+        "kungfuId": 11,
+        "school": 6,
+        "client": ["all", "std"]
+    },
     "笑尘诀": {
         "name": "笑尘诀",
         "color": "#D6A16F",
