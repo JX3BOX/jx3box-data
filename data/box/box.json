@@ -309,7 +309,7 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": false
     },
     "dbm": {
         "uuid": "dbm",
@@ -409,16 +409,15 @@
     },
     "j3pz": {
         "uuid": "j3pz",
-        "href": "https://www.j3pz.com/",
+        "href": "/j3pz",
         "img": "/box/j3pz.svg",
         "hover": "/box/j3pz.svg",
         "name": "在线配装",
         "abbr": "配装",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true,
-        "skip":true
+        "status": true
     },
     "haste": {
         "uuid": "haste",
@@ -427,7 +426,7 @@
         "hover": "/box/haste.svg",
         "name": "急速阈值",
         "abbr": "急速",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -454,7 +453,8 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": true,
+        "skip":true
     },
     "qiyu": {
         "uuid": "qiyu",
@@ -466,7 +466,8 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": true,
+        "skip":true
     },
     "house": {
         "uuid": "house",
@@ -478,7 +479,8 @@
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": true,
+        "skip":true
     },
     "wbl": {
         "uuid": "wbl",
@@ -490,6 +492,7 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": true,
+        "skip":true
     }
 }

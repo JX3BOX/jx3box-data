@@ -7,6 +7,13 @@
         "hasChildren": false
     },
     {
+        "label": "攻略",
+        "link": "/index/topic",
+        "status": 0,
+        "key": "topic",
+        "hasChildren": false
+    },
+    {
         "label": "宏库",
         "link": "/macro",
         "status": 1,
@@ -37,7 +44,7 @@
             {
                 "label": "在线构建",
                 "link": "/dbm",
-                "status": 1,
+                "status": 0,
                 "key": "dbm"
             }
         ]
@@ -56,12 +63,6 @@
                 "key": "fb_post"
             },
             {
-                "label": "团队平台",
-                "link": "/team",
-                "status": 1,
-                "key": "team"
-            },
-            {
                 "label": "副本掉落",
                 "link": "/fb/#/drop",
                 "status": 1,
@@ -72,6 +73,18 @@
                 "link": "/fb/#/gem",
                 "status": 1,
                 "key": "fb_gem"
+            },
+            {
+                "label": "团队平台",
+                "link": "/team",
+                "status": 1,
+                "key": "team"
+            },
+            {
+                "label": "战斗分析",
+                "link": "/battle",
+                "status": 1,
+                "key": "battle_raid"
             }
         ]
     },
@@ -89,10 +102,10 @@
                 "key": "bps_post"
             },
             {
-                "label": "天梯排行",
-                "link": "/bps/#/ladder",
+                "label": "职业配装",
+                "link": "/j3pz",
                 "status": 1,
-                "key": "ladder"
+                "key": "j3pz"
             },
             {
                 "label": "技能合集",
@@ -160,18 +173,6 @@
         "key": "tool",
         "hasChildren": true,
         "children": [
-            {
-                "label": "剑三数据库",
-                "link": "/app/database",
-                "status": 1,
-                "key": "database"
-            },
-            {
-                "label": "阵营沙盘",
-                "link": "/app/sandbox",
-                "status": 1,
-                "key": "sandbox"
-            },
             {
                 "label": "魔盒应用",
                 "link": "/app",

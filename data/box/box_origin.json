@@ -30,7 +30,7 @@
         "hover": "/box/fb.svg",
         "name": "副本专栏",
         "abbr": "副本",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -42,7 +42,7 @@
         "hover": "/box/bps.svg",
         "name": "职业专栏",
         "abbr": "职业",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -54,7 +54,7 @@
         "hover": "/box/cj.svg",
         "name": "成就百科",
         "abbr": "成就",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -66,7 +66,7 @@
         "hover": "/box/item.svg",
         "name": "物品百科",
         "abbr": "物品",
-        "hasMark": false,
+        "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -174,7 +174,7 @@
         "hover": "/box/talent2.svg",
         "name": "镇派模拟",
         "abbr": "镇派",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -222,7 +222,7 @@
         "hover": "/box/facedata.svg",
         "name": "妆容解析",
         "abbr": "妆容",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
@@ -249,7 +249,7 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": false
     },
     "fbdrop": {
         "uuid": "fbdrop",
@@ -321,7 +321,8 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": true,
+        "skip":true
     },
     "wbl": {
         "uuid": "wbl",
@@ -333,6 +334,7 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
+        "status": true,
+        "skip":true
     }
 }
