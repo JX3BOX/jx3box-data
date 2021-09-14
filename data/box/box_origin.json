@@ -311,6 +311,18 @@
         "mark": "NEW",
         "status": true
     },
+    "j3pz": {
+        "uuid": "j3pz",
+        "href": "/j3pz",
+        "img": "/box/j3pz.svg",
+        "hover": "/box/j3pz.svg",
+        "name": "在线配装",
+        "abbr": "配装",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "keju": {
         "uuid": "keju",
         "href": "https://j3cx.com/exam/",
