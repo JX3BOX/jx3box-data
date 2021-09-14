@@ -1554,6 +1554,90 @@
         "name": "风起稻香",
         "level": "70",
         "dungeon": {
+            "荻花宫后山": {
+                "devide_level": "70",
+                "devide_name": "风起稻香",
+
+                "name": "荻花宫后山",
+                "maps": [
+                    {
+                        "map_id": "67",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "73",
+                        "mode": "10人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/67.jpg",
+                "boss": ["水烟", "罗索斯", "提坦德亚罗", "牡丹"],
+                "client":["std","all"]
+            },
+            "剑冢": {
+                "devide_level": "70",
+                "devide_name": "风起稻香",
+
+                "name": "剑冢",
+                "maps": [
+                    {
+                        "map_id": "51",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "62",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/51.jpg",
+                "boss": ["叶芳致", "叶无心", "叶琦菲", "夜啸"],
+                "client":["std","all"]
+            },
+            "持国天王殿": {
+                "devide_level": "70",
+                "devide_name": "风起稻香",
+
+                "name": "持国天王殿",
+                "maps": [
+                    {
+                        "map_id": "60",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "65",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "66",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/60.jpg",
+                "boss": ["提多罗吒"],
+                "client":["std","origin","all"]
+            },
+            "宫中神武遗迹": {
+                "devide_level": "70",
+                "devide_name": "风起稻香",
+
+                "name": "宫中神武遗迹",
+                "maps": [
+                    {
+                        "map_id": "61",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "63",
+                        "mode": "25人英雄"
+                    },
+                    {
+                        "map_id": "64",
+                        "mode": "25人普通"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/61.jpg",
+                "boss": ["谢云流"],
+                "client":["std","origin","all"]
+            },
             "战宝迦兰": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
@@ -1580,71 +1664,6 @@
                     "千手观音"
                 ],
                 "client":["std","origin","all"]
-            },
-            "持国天王殿": {
-                "devide_level": "70",
-                "devide_name": "风起稻香",
-
-                "name": "持国天王殿",
-                "maps": [
-                    {
-                        "map_id": "60",
-                        "mode": "10人普通"
-                    },
-                    {
-                        "map_id": "65",
-                        "mode": "25人普通"
-                    },
-                    {
-                        "map_id": "66",
-                        "mode": "25人英雄"
-                    }
-                ],
-                "icon": "image/fb_map_thumbnail/60.jpg",
-                "boss": ["提多罗吒"],
-                "client":["std","all"]
-            },
-            "宫中神武遗迹": {
-                "devide_level": "70",
-                "devide_name": "风起稻香",
-
-                "name": "宫中神武遗迹",
-                "maps": [
-                    {
-                        "map_id": "61",
-                        "mode": "10人普通"
-                    },
-                    {
-                        "map_id": "63",
-                        "mode": "25人英雄"
-                    },
-                    {
-                        "map_id": "64",
-                        "mode": "25人普通"
-                    }
-                ],
-                "icon": "image/fb_map_thumbnail/61.jpg",
-                "boss": ["谢云流"],
-                "client":["std","all"]
-            },
-            "荻花宫后山": {
-                "devide_level": "70",
-                "devide_name": "风起稻香",
-
-                "name": "荻花宫后山",
-                "maps": [
-                    {
-                        "map_id": "67",
-                        "mode": "10人普通"
-                    },
-                    {
-                        "map_id": "73",
-                        "mode": "10人英雄"
-                    }
-                ],
-                "icon": "image/fb_map_thumbnail/67.jpg",
-                "boss": ["水烟", "罗索斯", "提坦德亚罗", "牡丹"],
-                "client":["std","all"]
             },
             "灵霄峡": {
                 "devide_level": "70",
@@ -1832,25 +1851,6 @@
                 "icon": "image/fb_map_thumbnail/34.jpg",
                 "boss": ["殷不为", "肖童", "刘大海", "秦雷", "狼牙夜暮刺客", "卢元霸", "齐宗强", "肖红", "熊奎、汪莽"],
                 "client":["std","origin","all"]
-            },
-            "剑冢": {
-                "devide_level": "70",
-                "devide_name": "风起稻香",
-
-                "name": "剑冢",
-                "maps": [
-                    {
-                        "map_id": "51",
-                        "mode": "5人普通"
-                    },
-                    {
-                        "map_id": "62",
-                        "mode": "5人英雄"
-                    }
-                ],
-                "icon": "image/fb_map_thumbnail/51.jpg",
-                "boss": ["叶芳致", "叶无心", "叶琦菲", "夜啸"],
-                "client":["std","all"]
             }
         },
         "client":["std","origin","all"]
