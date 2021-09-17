@@ -3,6 +3,45 @@
         "name": "奉天证道",
         "level": "110",
         "dungeon": {
+            "雷域大泽": {
+                "name": "雷域大泽",
+                "maps": [
+                    {
+                        "map_id": "521",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "522",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "523",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/leiyudaze.png",
+                "boss": [
+                    "巨型尖吻凤",
+                    "桑乔",
+                    "悉达罗摩",
+                    "血骨巢心",
+                    "月泉淮",
+                    "乌蒙贵"
+                ],
+                "client":["std","all"]
+            },
+            "武氏别院": {
+                "name": "武氏别院",
+                "maps": [
+                    {
+                        "map_id": "524",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/yaozong5ren.png",
+                "boss": ["李君竹", "解秀朝", "武云阙"],
+                "client":["std","all"]
+            },
             "挑战达摩洞": {
                 "name": "挑战达摩洞",
                 "maps": [
