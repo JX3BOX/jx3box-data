@@ -21,6 +21,12 @@
         "hasChildren": true,
         "children": [
             {
+                "label": "全门派宏",
+                "link": "/macro",
+                "status": 1,
+                "key": "macroindex"
+            },
+            {
                 "label": "宏编辑器",
                 "link": "/app/macroeditor",
                 "status": 1,
@@ -81,7 +87,7 @@
                 "key": "team"
             },
             {
-                "label": "分析",
+                "label": "战斗分析",
                 "link": "/battle",
                 "status": 1,
                 "key": "battle_raid"
@@ -204,7 +210,8 @@
                 "label": "家园蓝图",
                 "link": "https://jx3.xoyo.com/zt/2020/09/24/blueprint/#/",
                 "status": 1,
-                "key": "house"
+                "key": "house",
+                "target":"blank"
             }
         ]
     },

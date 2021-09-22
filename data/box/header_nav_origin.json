@@ -21,6 +21,12 @@
         "hasChildren": true,
         "children": [
             {
+                "label": "全门派宏",
+                "link": "/macro",
+                "status": 1,
+                "key": "macroindex"
+            },
+            {
                 "label": "宏编辑器",
                 "link": "/app/macroeditor",
                 "status": 1,

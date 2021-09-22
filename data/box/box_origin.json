@@ -130,7 +130,8 @@
         "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": true,
+        "lf":true
     },
     "team": {
         "uuid": "team",
@@ -227,7 +228,8 @@
         "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": true,
+        "lf":true
     },
     "pz": {
         "uuid": "pz",
@@ -312,7 +314,8 @@
         "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": true,
+        "lf":true
     },
     "item": {
         "uuid": "item",
@@ -362,6 +365,18 @@
         "mark": "NEW",
         "status": true
     },
+    "namespace": {
+        "uuid": "namespace",
+        "href": "/namespace",
+        "img": "/box/namespace.svg",
+        "hover": "/box/namespace_on.svg",
+        "name": "剑三铭牌",
+        "abbr": "铭牌",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
     "qiyu": {
         "uuid": "qiyu",
         "href": "https://j3cx.com/serendipity",
@@ -388,67 +403,19 @@
         "status": true,
         "skip": true
     },
-    "namespace": {
-        "uuid": "namespace",
-        "href": "/namespace",
-        "img": "/box/namespace.svg",
-        "hover": "/box/namespace_on.svg",
-        "name": "剑三铭牌",
-        "abbr": "铭牌",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "house": {
-        "uuid": "house",
-        "href": "https://jx3.xoyo.com/zt/2020/09/24/blueprint/#/",
-        "img": "/box/house.svg",
-        "hover": "/box/house_on.svg",
-        "name": "家园蓝图",
-        "abbr": "蓝图",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": false,
-        "skip": true
-    },
-    "furniture": {
-        "uuid": "furniture",
-        "href": "/app/furniture",
-        "img": "/box/furniture.svg",
-        "hover": "/box/furniture_on.svg",
-        "name": "家具大全",
-        "abbr": "家具",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": false
-    },
-    "flower": {
-        "uuid": "flower",
-        "href": "/app/flower",
-        "img": "/box/flower.svg",
-        "hover": "/box/flower_on.svg",
-        "name": "实时花价",
-        "abbr": "实时花价",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": false
-    },
 
     "bbs": {
         "uuid": "bbs",
         "href": "/bbs",
-        "img": "/box/bbs.svg",
-        "hover": "/box/bbs_on.svg",
+        "img": "/box/joke.svg",
+        "hover": "/box/joke_on.svg",
         "name": "茶馆交流",
         "abbr": "茶馆",
         "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": true,
+        "lf":true
     },
     "share": {
         "uuid": "share",
@@ -498,17 +465,42 @@
         "mark": "HOT",
         "status": false
     },
-    "joke": {
-        "uuid": "joke",
-        "href": "/joke",
-        "img": "/box/joke.svg",
-        "hover": "/box/joke_on.svg",
-        "name": "剑三骚话",
-        "abbr": "骚话",
+    "house": {
+        "uuid": "house",
+        "href": "https://jx3.xoyo.com/zt/2020/09/24/blueprint/#/",
+        "img": "/box/house.svg",
+        "hover": "/box/house_on.svg",
+        "name": "家园蓝图",
+        "abbr": "蓝图",
         "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": false,
+        "skip": true
+    },
+    "furniture": {
+        "uuid": "furniture",
+        "href": "/app/furniture",
+        "img": "/box/furniture.svg",
+        "hover": "/box/furniture_on.svg",
+        "name": "家具大全",
+        "abbr": "家具",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": false
+    },
+    "flower": {
+        "uuid": "flower",
+        "href": "/app/flower",
+        "img": "/box/flower.svg",
+        "hover": "/box/flower_on.svg",
+        "name": "实时花价",
+        "abbr": "实时花价",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": false
     },
     "wbl": {
         "uuid": "wbl",
