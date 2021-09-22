@@ -1,15 +1,11 @@
 {
     "name": "@jx3box/jx3box-data",
-    "version": "1.5.8",
+    "version": "1.6.0",
     "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
     "main": "index.js",
     "scripts": {
         "map": "node ./tools/map.js",
-        "fb": "node ./tools/fb.js",
-        "build": "npm run map && npm run fb",
-        "enchant":"node ./tools/enchant.js",
-        "kungfu": "node ./tools/kungfu.js",
-        "house": "node ./tools/house.js"
+        "build": "npm run map"
     },
     "repository": {
         "type": "git",

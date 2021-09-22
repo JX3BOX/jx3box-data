@@ -9,7 +9,7 @@
     {
         "label": "攻略",
         "link": "/origin/topic",
-        "status": 0,
+        "status": 1,
         "key": "topic",
         "hasChildren": false
     },
@@ -25,27 +25,6 @@
                 "link": "/app/macroeditor",
                 "status": 1,
                 "key": "macroeditor"
-            }
-        ]
-    },
-    {
-        "label": "插件",
-        "link": "/jx3dat",
-        "status": 1,
-        "key": "jx3dat",
-        "hasChildren": false,
-        "children": [
-            {
-                "label": "插件数据",
-                "link": "/jx3dat",
-                "status": 1,
-                "key": "plugins"
-            },
-            {
-                "label": "在线构建",
-                "link": "/dbm",
-                "status": 0,
-                "key": "dbm"
             }
         ]
     },
@@ -97,9 +76,9 @@
             },
             {
                 "label": "职业配装",
-                "link": "/j3pz",
+                "link": "/pz",
                 "status": 1,
-                "key": "j3pz"
+                "key": "pz"
             },
             {
                 "label": "技能合集",
@@ -112,6 +91,12 @@
                 "link": "/battle",
                 "status": 1,
                 "key": "battle"
+            },
+            {
+                "label": "秘籍大全",
+                "link": "/bps/#/recipe",
+                "status": 1,
+                "key": "recipe"
             }
         ]
     },

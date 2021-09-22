@@ -1,0 +1,56 @@
+ID	Name	DisplayName	Perform	Broadcast	MaxLootRange	bCanPK	bCanDuel	Type	MaxCopyCount	FarmerMaxCopyCount	MinPlayerCount	MaxPlayerCount	MaxFullLevelPlayerCount	KeepTime	ManualReset	RefreshCycle	RefreshOffset	MapDrop	ReviveInSitu	UseLastEntry	LimitTimes	BanSkillMask	BattleRelationMask	RevieCycle	AllScenePlayerInFight	ResourcePath	LoginIntervalTime	PreQueuePlayerCount	DoNotGoThroughRoof	QuestCountAchID	CampType	FightList	NeedCampBuff	MaxMapLevel	bCanTongWar	CanJoinBattleField	BanUseItemMask	CanJoinArena	IsArenaMap	NewCampFight	CanJoinTongBattlefield	MapCostThew	InvalidBuffMask	SingleMap	BanChangeTalent	CanSprint	DisableChangeEquip	DisableTalk	QueueForSwitchWhenFull	CampQueue	MaxNeutralPlayerCount	MaxGoodPlayerCount	MaxEvilPlayerCount	InvalidEnchantMask	ForceCheckProgress	IsTongWarMap	MaxCastleVIPPlayerCount	CanJoinCastleVIPQueue	IsDungeonRoleProgressMap
+1	稻香村	稻香村	100	1	2	0	0	3	50		1	120		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\稻香村\稻香村.jsonmap	20	30	0	375	1	0	0	0	0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0		0	0	0
+2	万花	万花	100	1	2	0	1	0	1	0	1	1800	1024	10	0	0	0	10	1	0	0	0	0	0	0	data\source\maps\万花\万花.jsonmap	0	1024	0	378	1	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+3	测试1	测试1	100	2	4	0	0	1	32	0	1	16		10	1	0	0		1	1	5	0	0	0	0	data\source\maps\测试\测试1.jsonmap	0	16	0		1	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+5	少林	少林	100	1	2	0	1	0	1	0	1	1800	1024	10	0	0	0	7	1	0	0	0	0	0	0	data\source\maps\少林\少林.jsonmap	0	1024	0	376	1	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+6	扬州	扬州	100	1	2	0	1	0	1	0	1	2500		10	0	0	0	3	1	0	0	16	0	0	0	data\source\maps\扬州\扬州.jsonmap	0	1024	0	384	1	0	0		0	1	0	1	0	0	1		0	0	0	1			1	0	0	0	0	2	0				
+7	纯阳	纯阳	100	1	2	0	1	0	1	0	1	1800	1024	10	0	0	0	5	1	0	0	0	0	0	0	data\source\maps\纯阳\纯阳.jsonmap	0	1024	0	377	1	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+8	洛阳	洛阳	100	1	2	0	1	0	1	0	1	2500		10	0	0	0	3	1	0	0	16	0	0	0	data\source\maps\洛阳\洛阳.jsonmap	0	1024	0	786	1	0	0		0	1	0	1	0	0	1		0	0	0	1			1	0	0	0	0	2	0				
+9	洛道	洛道	100	1	2	1	1	0	1	0	1	1800		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\洛道\洛道.jsonmap	0	1024	0	386	4	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+10	寇岛	寇岛	100	1	4	1	1	0	1	0	1	1800		10	0	0	0	12	1	0	0	0	0	0	0	data\source\maps\寇岛\寇岛.jsonmap	0	1024	0	387	4	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+11	天策	天策	100	1	2	0	1	0	1	0	1	1800	1024	10	0	0	0	9	1	0	0	0	0	0	0	data\source\maps\天策\天策.jsonmap	0	1024	0	380	1	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+12	枫华谷	枫华谷	100	1	2	1	1	0	1	0	1	1800		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\枫华谷\枫华谷.jsonmap	0	1024	0	388	4	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+13	金水镇	金水镇	100	1	2	1	1	0	1	0	1	1800		10	0	0	0	1	1	0	0	0	0	0	0	data\source\maps\金水镇\金水镇.jsonmap	0	1024	0	389	4	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+14	灵霄峡	灵霄峡	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\灵霄峡\灵霄峡.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+15	长安	长安	100	1	2	0	1	0	1	0	1	2000		10	0	0	0	3	1	0	0	16	0	0	0	data\source\maps\长安\长安.jsonmap	0	1024	0	383	1	0	0		0	1	0	1	0	0	1		0	0	0	1			1	0	0	0	0	2	0				
+16	七秀	七秀	100	1	2	0	1	0	1	0	1	1800	1024	10	0	0	0	6	1	0	0	0	0	0	0	data\source\maps\七秀\七秀.jsonmap	0	1024	0	379	1	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+17	天工坊	天工坊	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\天工坊\天工坊.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+18	无盐岛	无盐岛	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\无盐岛\无盐岛.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+19	空雾峰	空雾峰	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\空雾峰\空雾峰.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+20	天地三才阵	天地三才阵	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\天地三才阵\天地三才阵.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+21	巴陵县	巴陵县	100	1	2	1	1	0	1	0	1	1800		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\巴陵县\巴陵县.jsonmap	0	1024	0	393	4	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+22	南屏山	南屏山	100	1	2	1	1	0	1	0	1	1200		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\南屏山\南屏山.jsonmap	0	1024	0	392	5	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+23	龙门荒漠	龙门荒漠	100	1	2	1	1	0	1	0	1	1800		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\龙门荒漠\龙门荒漠.jsonmap	0	1024	0	390	4	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+25	浩气盟	浩气盟	100	1	2	0	1	0	1	0	1	1200		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\浩气盟\浩气盟.jsonmap	0	1024	0	781	5	0	1		0	0	0	0	0	1	0		0	0	0	1			1	1	200	400	400	2	0				
+26	荻花宫前山	荻花宫前山	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\荻花宫前山\荻花宫前山.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+27	恶人谷	恶人谷	100	1	2	0	1	0	1	0	1	1200		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\恶人谷\恶人谷.jsonmap	0	1024	0	406	5	0	1		0	0	0	0	0	1	0		0	0	0	1			1	1	200	400	400	2	0				
+28	日轮山城	日轮山城	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\日轮山城\日轮山城.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+29	五十级云湖天池	五十级云湖天池	100	4	5	0	0	2	100	0	1	24		10	0	0	0		0	1	0	0	2	160	0	data\source\maps\五十级云湖天池\五十级云湖天池.jsonmap	0	10	0		5	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+30	昆仑	昆仑	100	2	2	1	1	0	1	0	1	1200		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\昆仑\昆仑.jsonmap	0	1024	0	391	5	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+31	特殊光照地图1	特殊光照地图2	100	1	2	0	0	0	1	0	1	64		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\特殊光照地图1\特殊光照地图1.jsonmap	0	64	0		1	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+32	战宝迦兰	战宝迦兰	100	2	6	0	0	1	256	0	1	10		10	0	4320	420		0	1	0	3	0	0	0	data\source\maps\战宝迦兰\战宝迦兰.jsonmap	0	10	1		1	1	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				1
+33	天子峰	天子峰	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\天子峰\天子峰.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+34	风雨稻香村	风雨稻香村	100	2	4	0	0	1	256	64	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\风雨稻香村\风雨稻香村.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	20	0	0	0	0			1	0	0	0	0	1	1				
+35	瞿塘峡	瞿塘峡	100	1	2	1	1	0	1	0	1	1800		10	0	0	0		1	0	0	0	0	0	0	data\source\maps\瞿塘峡\瞿塘峡.jsonmap	0	1024	0	789	4	0	0		1	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+36	英雄天地三才阵	英雄天地三才阵	100	2	4	0	0	1	256	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄天地三才阵\英雄天地三才阵.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+37	英雄天工坊	英雄天工坊	100	2	4	0	0	1	256	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄天工坊\英雄天工坊.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+38	神农洇	神农洇	100	4	5	0	0	2	100	0	1	34		2	0	0	0		0	1	0	0	2	160	0	data\source\maps\神农洇\神农洇.jsonmap	0	10	0		5	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+39	四十级云湖天池	四十级云湖天池	100	4	5	0	0	2	100	0	1	24		2	0	0	0		0	1	0	0	2	160	0	data\source\maps\四十级云湖天池\四十级云湖天池.jsonmap	0	10	0		5	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+40	英雄荻花宫前山	英雄荻花宫前山	100	2	4	0	0	1	256	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄荻花宫前山\英雄荻花宫前山.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+41	英雄无盐岛	英雄无盐岛	100	2	4	0	0	1	256	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄无盐岛\英雄无盐岛.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+42	英雄天子峰	英雄天子峰	100	2	4	0	0	1	256	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄天子峰\英雄天子峰.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+43	英雄空雾峰	英雄空雾峰	100	2	4	0	0	1	256	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄空雾峰\英雄空雾峰.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+44	英雄日轮山城	英雄日轮山城	100	2	4	0	0	1	256	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄日轮山城\英雄日轮山城.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+45	英雄灵霄峡	英雄灵霄峡	100	2	4	0	0	1	256	0	1	5		10	1	1440	420	2	0	1	5	3	0	0	0	data\source\maps\英雄灵霄峡\英雄灵霄峡.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+46	英雄战宝迦兰	英雄战宝迦兰	100	2	6	0	0	1	256	0	1	25		10	0	10080	6180		0	1	0	3	0	0	0	data\source\maps\英雄战宝迦兰\英雄战宝迦兰.jsonmap	0	10	1		1	1	0		0	0	0	0	0	0	0	15	0	0	0	0			1	0	0	0	0	1	1				1
+47	英雄风雨稻香村	英雄风雨稻香村	100	2	4	0	0	1	100	0	1	5		10	1	1440	420		0	1	5	3	0	0	0	data\source\maps\英雄风雨稻香村\英雄风雨稻香村.jsonmap	0	5	0		1	0	0		0	0	0	0	0	0	0	50	0	0	0	0			1	0	0	0	0	1	1				
+52	七十级云湖天池	七十级云湖天池	100	4	5	0	0	2	100	0	1	24		2	0	0	0		0	1	0	0	2	160	0	data\source\maps\七十级云湖天池\七十级云湖天池.jsonmap	0	10	0		5	0	0		0	0	0	0	0	0	0		0	0	0	1			1	0	0	0	0	2	0				
+53	邀星坪_夜射天狼	邀星坪_夜射天狼	100	4	4	0	0	1	128	0	1	2		2	1	0	0		0	1	0	3	0	0	0	data\source\maps\邀星坪_夜射天狼\邀星坪_夜射天狼.jsonmap	0	2	0		1	0	0		0	0	0	0	0	0	0		0	0	0	0			1	0	0	0	0	1	0				
+55	守株围场_打猎	守株围场_打猎	100	2	4	0	0	1	64	0	1	2		2	1	0	0		0	1	0	3	0	0	0	data\source\maps\守株围场_打猎\守株围场_打猎.jsonmap	0	2	0		1	0	0		0	0	0	0	0	0	0		0	0	0	0			1	0	0	0	0	1	0				
+56	困龙岭_梅花桩	困龙岭_梅花桩	100	2	4	0	0	1	64	0	1	2		2	1	0	0		0	1	0	3	0	0	0	data\source\maps\困龙岭_梅花桩\困龙岭_梅花桩.jsonmap	0	2	0		1	0	0		0	0	0	0	0	0	0		0	0	0	0			1	0	0	0	0	1	0				
+57	陷空坳_宇文宝藏	陷空坳_宇文宝藏	100	2	4	0	0	1	128	0	1	2		2	1	0	0		0	1	0	3	0	0	0	data\source\maps\陷空坳_宇文宝藏\陷空坳_宇文宝藏.jsonmap	0	2	0		1	0	0		0	0	0	0	0	0	0		0	0	0	0			1	0	0	0	0	1	0				
+74	帮会领地	帮会领地	100	1	4	0	1	4	640	256	1	200		3	0	0	0		1	1	0	6	0	0	0	data\source\maps\帮会领地\帮会领地.jsonmap	0	30	0		1	0	0		0	0	0	0	0	0	1		0	0	0	1			1	0	0	0	0	1	0				
+66	英雄持国天王殿	英雄持国天王殿	100	2	6	0	0	1	256	0	1	25		10	0	10080	6180		0	1	0	3	0	0	0	data\source\maps\英雄持国天王殿\英雄持国天王殿.jsonmap	0	10	1		1	1	0		0	0	0	0	0	0		15	0	0	0	0			1	0	0	0	0	1	1				1
+60	持国天王殿	持国天王殿	100	2	6	0	0	1	256	0	1	10		10	0	4320	420		0	1	0	0	0	0	0	data\source\maps\持国天王殿\持国天王殿.jsonmap	0	10	1		1	0	0		0	0	0	0	0	0		20	0	0	0	0			1	0	0	0	0	1	1				1
+61	宫中神武遗迹	宫中神武遗迹	100	2	6	0	0	1	256	0	1	10		10	0	4320	420		0	1	0	0	0	0	0	data\source\maps\宫中神武遗迹\宫中神武遗迹.jsonmap	0	10	1		1	0	0		0	0	0	0	0	0		20	0	0	0	0			1	0	0	0	0	1	1				1
+63	英雄宫中神武遗迹	英雄宫中神武遗迹	100	2	6	0	0	1	256	0	1	25		10	0	10080	6180		0	1	0	3	0	0	0	data\source\maps\英雄宫中神武遗迹\英雄宫中神武遗迹.jsonmap	0	10	1		1	1	0		0	0	0	0	0	0		15	0	0	0	0			1	0	0	0	0	1	1				1

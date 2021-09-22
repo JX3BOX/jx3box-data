@@ -9,7 +9,7 @@
     {
         "label": "攻略",
         "link": "/index/topic",
-        "status": 0,
+        "status": 1,
         "key": "topic",
         "hasChildren": false
     },
@@ -81,7 +81,7 @@
                 "key": "team"
             },
             {
-                "label": "战斗分析",
+                "label": "分析",
                 "link": "/battle",
                 "status": 1,
                 "key": "battle_raid"
@@ -103,9 +103,9 @@
             },
             {
                 "label": "职业配装",
-                "link": "/j3pz",
+                "link": "/pz",
                 "status": 1,
-                "key": "j3pz"
+                "key": "pz"
             },
             {
                 "label": "技能合集",

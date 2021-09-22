@@ -11,8 +11,7 @@ const records = parse(data, {
     skip_empty_lines: true
 })
 
-
-fs.writeFileSync('./data/common/maplist.json',JSON.stringify(records))
+// fs.writeFileSync('./data/common/maplist.json',JSON.stringify(records))
 
 // console.log(records)
 let idmap = []
@@ -28,9 +27,9 @@ records.forEach((item) => {
 })
 
 // console.log(idmap)
-fs.writeFileSync('./data/common/maplistids.json',JSON.stringify(idmap))
-fs.writeFileSync('./data/common/mapindex.json',JSON.stringify(mapindex))
-fs.writeFileSync('./data/common/mapids.json',JSON.stringify(mapids))
+fs.writeFileSync('./data/common/map_list.json',JSON.stringify(idmap))
+fs.writeFileSync('./data/common/map_index.json',JSON.stringify(mapindex))
+fs.writeFileSync('./data/common/map_id.json',JSON.stringify(mapids))
 
 
 
