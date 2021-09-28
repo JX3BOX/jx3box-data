@@ -7,13 +7,6 @@
         "hasChildren": false
     },
     {
-        "label": "攻略",
-        "link": "/origin/topic",
-        "status": 1,
-        "key": "topic",
-        "hasChildren": false
-    },
-    {
         "label": "宏库",
         "link": "/macro",
         "status": 1,
