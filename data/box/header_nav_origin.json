@@ -1,9 +1,9 @@
 [
     {
         "label": "首页",
-        "link": "/origin",
+        "link": "/index",
         "status": 1,
-        "key": "origin",
+        "key": "index",
         "hasChildren": false
     },
     {
@@ -28,6 +28,27 @@
         ]
     },
     {
+        "label": "插件",
+        "link": "/jx3dat",
+        "status": 1,
+        "key": "jx3dat",
+        "hasChildren": false,
+        "children": [
+            {
+                "label": "插件数据",
+                "link": "/jx3dat",
+                "status": 1,
+                "key": "plugins"
+            },
+            {
+                "label": "在线构建",
+                "link": "/dbm",
+                "status": 0,
+                "key": "dbm"
+            }
+        ]
+    },
+    {
         "label": "副本",
         "link": "/fb",
         "status": 1,
@@ -45,6 +66,12 @@
                 "link": "/fb/#/drop",
                 "status": 1,
                 "key": "fb_drop"
+            },
+            {
+                "label": "瑰石查询",
+                "link": "/fb/#/gem",
+                "status": 1,
+                "key": "fb_gem"
             },
             {
                 "label": "团队平台",
@@ -74,16 +101,16 @@
                 "key": "bps_post"
             },
             {
-                "label": "职业配装",
+                "label": "在线配装",
                 "link": "/pz",
                 "status": 1,
                 "key": "pz"
             },
             {
-                "label": "技能合集",
-                "link": "/bps/#/collection",
+                "label": "数据大全",
+                "link": "/app/database",
                 "status": 1,
-                "key": "skillcollection"
+                "key": "database"
             },
             {
                 "label": "战斗分析",

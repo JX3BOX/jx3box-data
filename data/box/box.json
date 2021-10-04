@@ -23,201 +23,6 @@
         "mark": "HOT",
         "status": true
     },
-    "dbm": {
-        "uuid": "dbm",
-        "href": "/dbm",
-        "img": "/box/dbm.svg",
-        "hover": "/box/dbm_on.svg",
-        "name": "数据构建",
-        "abbr": "云数据",
-        "hasMark": false,
-        "markcls": "isdoing",
-        "mark": "ING",
-        "status": false
-    },
-    "talent": {
-        "uuid": "talent",
-        "href": "/app/talent",
-        "img": "/box/talent.svg",
-        "hover": "/box/talent_on.svg",
-        "name": "奇穴模拟",
-        "abbr": "奇穴",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "talent2": {
-        "uuid": "talent2",
-        "href": "/app/talent2",
-        "img": "/box/talent2.svg",
-        "hover": "/box/talent2_on.svg",
-        "name": "镇派模拟",
-        "abbr": "镇派",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": false
-    },
-    "meridians": {
-        "uuid": "meridians",
-        "href": "/app/meridians",
-        "img": "/box/meridians.svg",
-        "hover": "/box/meridians_on.svg",
-        "name": "经脉模拟",
-        "abbr": "经脉",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": false
-    },
-    "icons": {
-        "uuid": "icons",
-        "href": "/app/icons",
-        "img": "/box/icons.svg",
-        "hover": "/box/icons_on.svg",
-        "name": "图标大全",
-        "abbr": "图标",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "macroeditor": {
-        "uuid": "macroeditor",
-        "href": "/app/macroeditor",
-        "img": "/box/macroeditor.svg",
-        "hover": "/box/macroeditor_on.svg",
-        "name": "宏编辑器",
-        "abbr": "写宏器",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "translator": {
-        "uuid": "translator",
-        "href": "/app/translator",
-        "img": "/box/translator.svg",
-        "hover": "/box/translator_on.svg",
-        "name": "繁体转换",
-        "abbr": "繁体",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "tool": {
-        "uuid": "tool",
-        "href": "/tool",
-        "img": "/box/tool.svg",
-        "hover": "/box/tool_on.svg",
-        "name": "教程工具",
-        "abbr": "工具",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-
-    "fb": {
-        "uuid": "fb",
-        "href": "/fb",
-        "img": "/box/fb.svg",
-        "hover": "/box/fb_on.svg",
-        "name": "副本专栏",
-        "abbr": "副本",
-        "hasMark": true,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true,
-        "lf":true
-    },
-    "team": {
-        "uuid": "team",
-        "href": "/team",
-        "img": "/box/team.svg",
-        "hover": "/box/team_on.svg",
-        "name": "团队平台",
-        "abbr": "团队",
-        "hasMark": true,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "battle": {
-        "uuid": "battle",
-        "href": "/battle",
-        "img": "/box/battle.svg",
-        "hover": "/box/battle_on.svg",
-        "name": "战斗分析",
-        "abbr": "复盘",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "fbdata": {
-        "uuid": "fbdata",
-        "href": "/fb/#/attr",
-        "img": "/box/fbdata.svg",
-        "hover": "/box/fbdata_on.svg",
-        "name": "特殊机制",
-        "abbr": "机制",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "fbdrop": {
-        "uuid": "fbdrop",
-        "href": "/fb/#/drop",
-        "img": "/box/fbdrop.svg",
-        "hover": "/box/fbdrop_on.svg",
-        "name": "副本掉落",
-        "abbr": "掉落",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "fbgem": {
-        "uuid": "fbgem",
-        "href": "/fb/#/gem",
-        "img": "/box/fbgem.svg",
-        "hover": "/box/fbgem_on.svg",
-        "name": "瑰石查询",
-        "abbr": "瑰石",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "rank": {
-        "uuid": "rank",
-        "href": "/rank",
-        "img": "/box/rank.svg",
-        "hover": "/box/rank_on.svg",
-        "name": "秘境百强",
-        "abbr": "百强榜",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "sandbox": {
-        "uuid": "sandbox",
-        "href": "/app/sandbox",
-        "img": "/box/sandbox.svg",
-        "hover": "/box/sandbox_on.svg",
-        "name": "阵营沙盘",
-        "abbr": "沙盘",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-
     "bps": {
         "uuid": "bps",
         "href": "/bps",
@@ -229,81 +34,21 @@
         "markcls": "ishot",
         "mark": "HOT",
         "status": true,
-        "lf":true
+        "lf":false
     },
-    "pz": {
-        "uuid": "pz",
-        "href": "/pz",
-        "img": "/box/pz.svg",
-        "hover": "/box/pz_on.svg",
-        "name": "在线配装",
-        "abbr": "配装",
-        "hasMark": true,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "database": {
-        "uuid": "database",
-        "href": "/app/database",
-        "img": "/box/database.svg",
-        "hover": "/box/database_on.svg",
-        "name": "数据库",
-        "abbr": "数据库",
+    "fb": {
+        "uuid": "fb",
+        "href": "/fb",
+        "img": "/box/fb.svg",
+        "hover": "/box/fb_on.svg",
+        "name": "副本专栏",
+        "abbr": "副本",
         "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
-        "status": true
+        "status": true,
+        "lf":false
     },
-    "haste": {
-        "uuid": "haste",
-        "href": "/app/haste/",
-        "img": "/box/haste.svg",
-        "hover": "/box/haste_on.svg",
-        "name": "急速阈值",
-        "abbr": "急速",
-        "hasMark": true,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "xls": {
-        "uuid": "xls",
-        "href": "/app/dps",
-        "img": "/box/xls.svg",
-        "hover": "/box/xls_on.svg",
-        "name": "DPS模拟",
-        "abbr": "DPS",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "exam": {
-        "uuid": "exam",
-        "href": "/exam",
-        "img": "/box/exam.svg",
-        "hover": "/box/exam_on.svg",
-        "name": "趣味题库",
-        "abbr": "题库",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-    "collection": {
-        "uuid": "collection",
-        "href": "/collection",
-        "img": "/box/collection.svg",
-        "hover": "/box/collection_on.svg",
-        "name": "文集小册",
-        "abbr": "小册",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
-
     "cj": {
         "uuid": "cj",
         "href": "/cj",
@@ -315,7 +60,7 @@
         "markcls": "ishot",
         "mark": "HOT",
         "status": true,
-        "lf":true
+        "lf":false
     },
     "item": {
         "uuid": "item",
@@ -365,16 +110,176 @@
         "mark": "NEW",
         "status": true
     },
-    "namespace": {
-        "uuid": "namespace",
-        "href": "/namespace",
-        "img": "/box/namespace.svg",
-        "hover": "/box/namespace_on.svg",
-        "name": "剑三铭牌",
-        "abbr": "铭牌",
+    "tool": {
+        "uuid": "tool",
+        "href": "/tool",
+        "img": "/box/tool.svg",
+        "hover": "/box/tool_on.svg",
+        "name": "教程工具",
+        "abbr": "工具",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
+    "share": {
+        "uuid": "share",
+        "href": "/share",
+        "img": "/box/share.svg",
+        "hover": "/box/share_on.svg",
+        "name": "捏脸分享",
+        "abbr": "捏脸",
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
+        "status": true
+    },
+    "house": {
+        "uuid": "house",
+        "href": "https://jx3.xoyo.com/zt/2020/09/24/blueprint/#/",
+        "img": "/box/house.svg",
+        "hover": "/box/house_on.svg",
+        "name": "家园蓝图",
+        "abbr": "蓝图",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true,
+        "skip": true
+    },
+    "bbs": {
+        "uuid": "bbs",
+        "href": "/bbs",
+        "img": "/box/joke.svg",
+        "hover": "/box/joke_on.svg",
+        "name": "茶馆交流",
+        "abbr": "茶馆",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true,
+        "lf":false
+    },
+
+    "pz": {
+        "uuid": "pz",
+        "href": "/pz",
+        "img": "/box/pz.svg",
+        "hover": "/box/pz_on.svg",
+        "name": "在线配装",
+        "abbr": "配装",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true,
+        "lf":true
+    },
+    "team": {
+        "uuid": "team",
+        "href": "/team",
+        "img": "/box/team.svg",
+        "hover": "/box/team_on.svg",
+        "name": "团队平台",
+        "abbr": "团队",
+        "hasMark": true,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
+    "battle": {
+        "uuid": "battle",
+        "href": "/battle",
+        "img": "/box/battle.svg",
+        "hover": "/box/battle_on.svg",
+        "name": "战斗分析",
+        "abbr": "复盘",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "dbm": {
+        "uuid": "dbm",
+        "href": "/dbm",
+        "img": "/box/dbm.svg",
+        "hover": "/box/dbm_on.svg",
+        "name": "数据构建",
+        "abbr": "云数据",
+        "hasMark": false,
+        "markcls": "isdoing",
+        "mark": "ING",
+        "status": false
+    },
+    "database": {
+        "uuid": "database",
+        "href": "/app/database",
+        "img": "/box/database.svg",
+        "hover": "/box/database_on.svg",
+        "name": "数据库",
+        "abbr": "数据库",
+        "hasMark": true,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
+    "haste": {
+        "uuid": "haste",
+        "href": "/app/haste/",
+        "img": "/box/haste.svg",
+        "hover": "/box/haste_on.svg",
+        "name": "急速阈值",
+        "abbr": "急速",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": true
+    },
+    "talent": {
+        "uuid": "talent",
+        "href": "/app/talent",
+        "img": "/box/talent.svg",
+        "hover": "/box/talent_on.svg",
+        "name": "奇穴模拟",
+        "abbr": "奇穴",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
+        "status": true
+    },
+    "talent2": {
+        "uuid": "talent2",
+        "href": "/app/talent2",
+        "img": "/box/talent2.svg",
+        "hover": "/box/talent2_on.svg",
+        "name": "镇派模拟",
+        "abbr": "镇派",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": false
+    },
+    "meridians": {
+        "uuid": "meridians",
+        "href": "/app/meridians",
+        "img": "/box/meridians.svg",
+        "hover": "/box/meridians_on.svg",
+        "name": "经脉模拟",
+        "abbr": "经脉",
+        "hasMark": false,
+        "markcls": "isnew",
+        "mark": "NEW",
+        "status": false
+    },
+    "icons": {
+        "uuid": "icons",
+        "href": "/app/icons",
+        "img": "/box/icons.svg",
+        "hover": "/box/icons_on.svg",
+        "name": "图标大全",
+        "abbr": "图标",
+        "hasMark": false,
+        "markcls": "ishot",
+        "mark": "HOT",
         "status": true
     },
     "qiyu": {
@@ -402,33 +307,6 @@
         "mark": "NEW",
         "status": true,
         "skip": true
-    },
-    
-
-    "bbs": {
-        "uuid": "bbs",
-        "href": "/bbs",
-        "img": "/box/joke.svg",
-        "hover": "/box/joke_on.svg",
-        "name": "茶馆交流",
-        "abbr": "茶馆",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true,
-        "lf":true
-    },
-    "share": {
-        "uuid": "share",
-        "href": "/share",
-        "img": "/box/share.svg",
-        "hover": "/box/share_on.svg",
-        "name": "捏脸分享",
-        "abbr": "捏脸",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
     },
     "facedata": {
         "uuid": "facedata",
@@ -466,54 +344,16 @@
         "mark": "HOT",
         "status": true
     },
-    "house": {
-        "uuid": "house",
-        "href": "https://jx3.xoyo.com/zt/2020/09/24/blueprint/#/",
-        "img": "/box/house.svg",
-        "hover": "/box/house_on.svg",
-        "name": "家园蓝图",
-        "abbr": "蓝图",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true,
-        "skip": true
-    },
-    "furniture": {
-        "uuid": "furniture",
-        "href": "/app/furniture",
-        "img": "/box/furniture.svg",
-        "hover": "/box/furniture_on.svg",
-        "name": "家具大全",
-        "abbr": "家具",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": true
-    },
-    "flower": {
-        "uuid": "flower",
-        "href": "/app/flower",
-        "img": "/box/flower.svg",
-        "hover": "/box/flower_on.svg",
-        "name": "实时花价",
-        "abbr": "实时花价",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
-        "status": false
-    },
-    "wbl": {
-        "uuid": "wbl",
-        "href": "https://jx3.seasunwbl.com",
-        "img": "/box/wbl.png",
-        "hover": "/box/wbl.png",
-        "name": "万宝楼",
-        "abbr": "万宝楼",
+    "sandbox": {
+        "uuid": "sandbox",
+        "href": "/app/sandbox",
+        "img": "/box/sandbox.svg",
+        "hover": "/box/sandbox_on.svg",
+        "name": "阵营沙盘",
+        "abbr": "沙盘",
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true,
-        "skip": true
+        "status": true
     }
 }
