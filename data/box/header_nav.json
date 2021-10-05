@@ -80,10 +80,10 @@
                 "key": "team"
             },
             {
-                "label": "战斗分析",
-                "link": "/battle",
+                "label": "秘境百强",
+                "link": "/rank",
                 "status": 1,
-                "key": "battle_raid"
+                "key": "rank"
             }
         ]
     },

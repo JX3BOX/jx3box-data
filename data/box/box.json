@@ -229,7 +229,7 @@
         "hover": "/box/haste_on.svg",
         "name": "急速阈值",
         "abbr": "急速",
-        "hasMark": true,
+        "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
         "status": true
