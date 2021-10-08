@@ -258,18 +258,6 @@
         "mark": "NEW",
         "status": true
     },
-    "meridians": {
-        "uuid": "meridians",
-        "href": "/app/meridians",
-        "img": "/box/meridians.svg",
-        "hover": "/box/meridians_on.svg",
-        "name": "经脉模拟",
-        "abbr": "经脉",
-        "hasMark": false,
-        "markcls": "isnew",
-        "mark": "NEW",
-        "status": true
-    },
     "icons": {
         "uuid": "icons",
         "href": "/app/icons",
