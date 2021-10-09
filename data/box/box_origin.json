@@ -161,16 +161,16 @@
         "lf":false
     },
 
-    "pz": {
-        "uuid": "pz",
-        "href": "/pz",
-        "img": "/box/pz.svg",
-        "hover": "/box/pz_on.svg",
-        "name": "在线配装",
-        "abbr": "配装",
+    "database": {
+        "uuid": "database",
+        "href": "/app/database",
+        "img": "/box/database.svg",
+        "hover": "/box/database_on.svg",
+        "name": "数据库",
+        "abbr": "数据库",
         "hasMark": true,
-        "markcls": "isnew",
-        "mark": "NEW",
+        "markcls": "ishot",
+        "mark": "HOT",
         "status": true,
         "lf":true
     },
@@ -184,6 +184,18 @@
         "hasMark": true,
         "markcls": "ishot",
         "mark": "HOT",
+        "status": true
+    },
+    "pz": {
+        "uuid": "pz",
+        "href": "/pz",
+        "img": "/box/pz.svg",
+        "hover": "/box/pz_on.svg",
+        "name": "在线配装",
+        "abbr": "配装",
+        "hasMark": true,
+        "markcls": "isnew",
+        "mark": "NEW",
         "status": true
     },
     "battle": {
@@ -210,14 +222,14 @@
         "mark": "ING",
         "status": false
     },
-    "database": {
-        "uuid": "database",
-        "href": "/app/database",
-        "img": "/box/database.svg",
-        "hover": "/box/database_on.svg",
-        "name": "数据库",
-        "abbr": "数据库",
-        "hasMark": true,
+    "icons": {
+        "uuid": "icons",
+        "href": "/app/icons",
+        "img": "/box/icons.svg",
+        "hover": "/box/icons_on.svg",
+        "name": "图标大全",
+        "abbr": "图标",
+        "hasMark": false,
         "markcls": "ishot",
         "mark": "HOT",
         "status": true
@@ -256,18 +268,6 @@
         "hasMark": false,
         "markcls": "isnew",
         "mark": "NEW",
-        "status": true
-    },
-    "icons": {
-        "uuid": "icons",
-        "href": "/app/icons",
-        "img": "/box/icons.svg",
-        "hover": "/box/icons_on.svg",
-        "name": "图标大全",
-        "abbr": "图标",
-        "hasMark": false,
-        "markcls": "ishot",
-        "mark": "HOT",
         "status": true
     },
     "qiyu": {
