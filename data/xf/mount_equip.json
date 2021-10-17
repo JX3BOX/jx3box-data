@@ -1,0 +1,273 @@
+{
+    "10081": {
+        "name": "冰心诀",
+        "school_name": "七秀",
+        "client": ["all", "std", "origin"],
+        "duty": "内功",
+        "share_school": ["长歌"],
+        "primary_weapon_type": "4",
+        "primary_attribute": "根骨"
+    },
+    "10080": {
+        "name": "云裳心经",
+        "school_name": "七秀",
+        "client": ["all", "std", "origin"],
+        "duty": "治疗",
+        "share_school": ["长歌", "五毒", "药宗", "万花"],
+        "primary_weapon_type": "4",
+        "primary_attribute": "根骨"
+    },
+    "10021": {
+        "name": "花间游",
+        "school_name": "万花",
+        "client": ["all", "std", "origin"],
+        "duty": "内功",
+        "share_school": ["纯阳", "衍天"],
+        "primary_weapon_type": "5",
+        "primary_attribute": "元气"
+    },
+    "10028": {
+        "name": "离经易道",
+        "school_name": "万花",
+        "client": ["all", "std", "origin"],
+        "duty": "治疗",
+        "share_school": ["长歌", "五毒", "药宗", "七秀"],
+        "primary_weapon_type": "5",
+        "primary_attribute": "根骨"
+    },
+    "10175": {
+        "name": "毒经",
+        "school_name": "五毒",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": ["药宗"],
+        "primary_weapon_type": "10",
+        "primary_attribute": "根骨"
+    },
+    "10176": {
+        "name": "补天诀",
+        "school_name": "五毒",
+        "client": ["all", "std"],
+        "duty": "治疗",
+        "share_school": ["长歌", "万花", "药宗", "七秀"],
+        "primary_weapon_type": "10",
+        "primary_attribute": "根骨"
+    },
+    "10447": {
+        "name": "莫问",
+        "school_name": "长歌",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": ["冰心诀"],
+        "primary_weapon_type": "15",
+        "primary_attribute": "根骨"
+    },
+    "10448": {
+        "name": "相知",
+        "school_name": "长歌",
+        "client": ["all", "std"],
+        "duty": "治疗",
+        "share_school": ["五毒", "万花", "药宗", "七秀"],
+        "primary_weapon_type": "15",
+        "primary_attribute": "根骨"
+    },
+    "10627": {
+        "name": "无方",
+        "school_name": "药宗",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": ["五毒"],
+        "primary_weapon_type": "20",
+        "primary_attribute": "根骨"
+    },
+    "10626": {
+        "name": "灵素",
+        "school_name": "药宗",
+        "client": ["all", "std"],
+        "duty": "治疗",
+        "share_school": ["五毒", "万花", "长歌", "七秀"],
+        "primary_weapon_type": "20",
+        "primary_attribute": "根骨"
+    },
+    "10026": {
+        "name": "傲血战意",
+        "school_name": "天策",
+        "client": ["all", "std", "origin"],
+        "duty": "外功",
+        "share_school": ["唐门", "霸刀", "丐帮"],
+        "primary_weapon_type": "1",
+        "primary_attribute": "力道"
+    },
+    "10062": {
+        "name": "铁牢律",
+        "school_name": "天策",
+        "client": ["all", "std", "origin"],
+        "duty": "防御",
+        "share_school": ["明教", "少林", "苍云"],
+        "primary_weapon_type": "1",
+        "primary_attribute": "体质"
+    },
+    "10003": {
+        "name": "易筋经",
+        "school_name": "少林",
+        "client": ["all", "std", "origin"],
+        "duty": "内功",
+        "share_school": [],
+        "primary_weapon_type": "0",
+        "primary_attribute": "元气"
+    },
+    "10002": {
+        "name": "洗髓经",
+        "school_name": "少林",
+        "client": ["all", "std", "origin"],
+        "duty": "防御",
+        "share_school": ["明教", "天策", "苍云"],
+        "primary_weapon_type": "0",
+        "primary_attribute": "体质"
+    },
+    "10242": {
+        "name": "焚影圣诀",
+        "school_name": "明教",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": [],
+        "primary_weapon_type": "12",
+        "primary_attribute": "元气"
+    },
+    "10243": {
+        "name": "明尊琉璃体",
+        "school_name": "明教",
+        "client": ["all", "std"],
+        "duty": "防御",
+        "share_school": ["少林", "天策", "苍云"],
+        "primary_weapon_type": "12",
+        "primary_attribute": "体质"
+    },
+    "10390": {
+        "name": "分山劲",
+        "school_name": "苍云",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["纯阳", "藏剑", "蓬莱", "凌雪"],
+        "primary_weapon_type": "14",
+        "primary_attribute": "身法"
+    },
+    "10389": {
+        "name": "铁骨衣",
+        "school_name": "苍云",
+        "client": ["all", "std"],
+        "duty": "防御",
+        "share_school": ["少林", "天策", "明教"],
+        "primary_weapon_type": "14",
+        "primary_attribute": "体质"
+    },
+    "10014": {
+        "name": "紫霞功",
+        "school_name": "纯阳",
+        "client": ["all", "std", "origin"],
+        "duty": "内功",
+        "share_school": ["万花", "衍天"],
+        "primary_weapon_type": "2",
+        "primary_attribute": "根骨"
+    },
+    "10015": {
+        "name": "太虚剑意",
+        "school_name": "纯阳",
+        "client": ["all", "std", "origin"],
+        "duty": "外功",
+        "share_school": ["苍云", "藏剑", "蓬莱", "凌雪"],
+        "primary_weapon_type": "2",
+        "primary_attribute": "身法"
+    },
+    "10225": {
+        "name": "天罗诡道",
+        "school_name": "唐门",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": [],
+        "primary_weapon_type": "11",
+        "primary_attribute": "元气"
+    },
+    "10224": {
+        "name": "惊羽诀",
+        "school_name": "唐门",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["天策", "霸刀", "丐帮"],
+        "primary_weapon_type": "11",
+        "primary_attribute": "力道"
+    },
+    "10144": {
+        "name": "问水诀",
+        "school_name": "藏剑",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["苍云", "纯阳", "蓬莱", "凌雪"],
+        "primary_weapon_type": "2",
+        "tertiary_weapon_type": "9",
+        "primary_attribute": "身法"
+    },
+    "10145": {
+        "name": "山居剑意",
+        "school_name": "藏剑",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["苍云", "纯阳", "蓬莱", "凌雪"],
+        "primary_weapon_type": "2",
+        "tertiary_weapon_type": "9",
+        "primary_attribute": "身法"
+    },
+    "10268": {
+        "name": "笑尘诀",
+        "school_name": "丐帮",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["天策", "霸刀", "唐门"],
+        "primary_weapon_type": "13",
+        "primary_attribute": "力道"
+    },
+    "10464": {
+        "name": "北傲诀",
+        "school_name": "霸刀",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["天策", "丐帮", "唐门"],
+        "primary_weapon_type": "16",
+        "primary_attribute": "力道"
+    },
+    "10533": {
+        "name": "凌海诀",
+        "school_name": "蓬莱",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["苍云", "纯阳", "藏剑", "凌雪"],
+        "primary_weapon_type": "17",
+        "primary_attribute": "身法"
+    },
+    "10585": {
+        "name": "隐龙诀",
+        "school_name": "凌雪",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["苍云", "纯阳", "藏剑", "蓬莱"],
+        "primary_weapon_type": "18",
+        "primary_attribute": "身法"
+    },
+    "10615": {
+        "name": "太玄经",
+        "school_name": "衍天",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": ["纯阳", "万花"],
+        "primary_weapon_type": "19",
+        "primary_attribute": "元气"
+    },
+    "0": {
+        "name": "通用",
+        "id": 0,
+        "force": 0,
+        "kungfuId": 0,
+        "school": 0,
+        "client": ["all", "std", "origin"]
+    }
+}
