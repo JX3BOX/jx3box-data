@@ -181,7 +181,7 @@
         "force": 8,
         "kungfuId": 11,
         "school": 6,
-        "client": ["all", "std"]
+        "client": ["all", "std","origin"]
     },
     "山居剑意": {
         "name": "山居剑意",
@@ -189,7 +189,7 @@
         "force": 8,
         "kungfuId": 11,
         "school": 6,
-        "client": ["all", "std"]
+        "client": ["all", "std","origin"]
     },
     "笑尘诀": {
         "name": "笑尘诀",

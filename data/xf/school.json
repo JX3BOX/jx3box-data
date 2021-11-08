@@ -4,7 +4,7 @@
     "纯阳": { "school_id":3,"force_id":4,"mounts": [10014, 10015] ,"client":["all","std","origin"]},
     "七秀": { "school_id":4,"force_id":5,"mounts": [10081, 10080] ,"client":["all","std","origin"]},
     "少林": { "school_id":5,"force_id":1,"mounts": [10003, 10002] ,"client":["all","std","origin"]},
-    "藏剑": { "school_id":6,"force_id":8,"mounts": [10144, 10145] ,"client":["all","std"]},
+    "藏剑": { "school_id":6,"force_id":8,"mounts": [10144, 10145] ,"client":["all","std","origin"]},
     "丐帮": { "school_id":7,"force_id":9,"mounts": [10268],"client":["all","std"] },
     "明教": { "school_id":8,"force_id":10,"mounts": [10242, 10243],"client":["all","std"]},
     "五毒": { "school_id":9,"force_id":6,"mounts": [10175, 10176],"client":["all","std"]},

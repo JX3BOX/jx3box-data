@@ -200,7 +200,7 @@
     "10144": {
         "name": "问水诀",
         "school_name": "藏剑",
-        "client": ["all", "std"],
+        "client": ["all","origin", "std"],
         "duty": "外功",
         "share_school": ["苍云", "纯阳", "蓬莱", "凌雪"],
         "primary_weapon_type": "2",
@@ -210,7 +210,7 @@
     "10145": {
         "name": "山居剑意",
         "school_name": "藏剑",
-        "client": ["all", "std"],
+        "client": ["all","origin", "std"],
         "duty": "外功",
         "share_school": ["苍云", "纯阳", "蓬莱", "凌雪"],
         "primary_weapon_type": "2",
