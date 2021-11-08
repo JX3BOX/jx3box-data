@@ -66,16 +66,16 @@
     "无方": {
         "name": "无方",
         "id": 10627,
-        "force": 22,
-        "kungfuId": 22,
+        "force": 212,
+        "kungfuId": 29,
         "school": 19,
         "client": ["all", "std"]
     },
     "灵素": {
         "name": "灵素",
         "id": 10626,
-        "force": 22,
-        "kungfuId": 23,
+        "force": 212,
+        "kungfuId": 28,
         "school": 19,
         "client": ["all", "std"]
     },

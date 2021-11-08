@@ -10,4 +10,5 @@ $ npm run build
 ```
 
 ## Todo
-修改新本副本ID
++ /fb/fb_map.json 修改正式服/怀旧服状态，新副本ID与BOSS
++ /xf/xf.json  kungfuID为推栏接口内置ID
