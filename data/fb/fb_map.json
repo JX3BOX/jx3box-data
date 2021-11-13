@@ -1542,7 +1542,7 @@
                 ],
                 "icon": "image/fb_map_thumbnail/51.jpg",
                 "boss": ["叶芳致", "叶无心", "叶琦菲", "夜啸"],
-                "client": ["std", "all"]
+                "client": ["std", "origin","all"]
             },
             "持国天王殿": {
                 "devide_level": "70",
