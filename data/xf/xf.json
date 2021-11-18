@@ -68,7 +68,7 @@
         "id": 10627,
         "force": 212,
         "kungfuId": 29,
-        "school": 19,
+        "school": 24,
         "client": ["all", "std"]
     },
     "灵素": {
@@ -76,7 +76,7 @@
         "id": 10626,
         "force": 212,
         "kungfuId": 28,
-        "school": 19,
+        "school": 24,
         "client": ["all", "std"]
     },
     "傲血战意": {
