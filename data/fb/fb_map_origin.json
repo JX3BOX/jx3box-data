@@ -73,6 +73,10 @@
                     {
                         "map_id": "66",
                         "mode": "25人英雄"
+                    },
+                    {
+                        "map_id": "65",
+                        "mode": "25人挑战"
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/60.jpg",
