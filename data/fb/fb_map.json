@@ -3,6 +3,26 @@
         "name": "奉天证道",
         "level": "110",
         "dungeon": {
+            "河阳之战": {
+                "name": "河阳之战",
+                "maps": [
+                    {
+                        "map_id": "573",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "574",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "575",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/573.png",
+                "boss": ["勒齐那", "阿阁诺", "周通忌", "周贽", "常宿"],
+                "client": ["std", "all"]
+            },
             "雷域大泽": {
                 "name": "雷域大泽",
                 "maps": [
