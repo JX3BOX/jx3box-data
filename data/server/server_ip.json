@@ -42,7 +42,7 @@
     {
         "zoneName": "怀旧大区",
         "serverName": "缘起稻香",
-        "ipAddress": "110.43.133.19",
+        "ipAddress": "103.228.229.44",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "缘起稻香"
@@ -50,7 +50,7 @@
     {
         "zoneName": "怀旧大区",
         "serverName": "梦回长安",
-        "ipAddress": "110.43.133.22",
+        "ipAddress": "103.228.229.42",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "梦回长安"
@@ -58,7 +58,7 @@
     {
         "zoneName": "怀旧大区",
         "serverName": "天宝盛世",
-        "ipAddress": "110.43.133.17",
+        "ipAddress": "103.228.229.43",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "天宝盛世"
