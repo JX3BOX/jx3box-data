@@ -1,0 +1,14 @@
+{
+    "bodyMap": {
+        "1": "成男",
+        "2": "成女",
+        "5": "正太",
+        "6": "萝莉"
+    },
+    "bodyFiles": {
+        "LittleBoy": 5,
+        "LittleGirl": 6,
+        "StandardFemale": 2,
+        "StandardMale": 1
+    }
+}
