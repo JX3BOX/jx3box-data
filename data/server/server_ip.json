@@ -40,7 +40,7 @@
         "mainServer": "WeGame"
     },
     {
-        "zoneName": "怀旧大区",
+        "zoneName": "缘起大区",
         "serverName": "缘起稻香",
         "ipAddress": "103.228.229.44",
         "ipPort": "3724",
@@ -48,7 +48,7 @@
         "mainServer": "缘起稻香"
     },
     {
-        "zoneName": "怀旧大区",
+        "zoneName": "缘起大区",
         "serverName": "梦回长安",
         "ipAddress": "103.228.229.42",
         "ipPort": "3724",
@@ -56,7 +56,7 @@
         "mainServer": "梦回长安"
     },
     {
-        "zoneName": "怀旧大区",
+        "zoneName": "缘起大区",
         "serverName": "天宝盛世",
         "ipAddress": "103.228.229.43",
         "ipPort": "3724",
