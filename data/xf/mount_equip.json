@@ -38,7 +38,7 @@
     "10175": {
         "name": "毒经",
         "school_name": "五毒",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "内功",
         "share_school": ["药宗"],
         "primary_weapon_type": "10",
@@ -47,7 +47,7 @@
     "10176": {
         "name": "补天诀",
         "school_name": "五毒",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "治疗",
         "share_school": ["长歌", "万花", "药宗", "七秀"],
         "primary_weapon_type": "10",

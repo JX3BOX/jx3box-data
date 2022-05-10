@@ -37,7 +37,7 @@
         "force": 6,
         "kungfuId": 13,
         "school": 9,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "补天诀": {
         "name": "补天诀",
@@ -45,7 +45,7 @@
         "force": 6,
         "kungfuId": 14,
         "school": 9,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "莫问": {
         "name": "莫问",
