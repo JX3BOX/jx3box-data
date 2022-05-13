@@ -63,12 +63,12 @@
         "百蛊": {
             "begin": "left",
             "content": [10175, 10176],
-            "talent": ["行舟", "枫晚"]
+            "talent": ["百蛊", "织天"]
         },
         "织天": {
             "begin": "right",
             "content": [10175, 10176],
-            "talent": ["行舟", "枫晚"]
+            "talent": ["百蛊", "织天"]
         },
         "通用": {
             "begin": "left",
