@@ -60,6 +60,16 @@
             "content": [10144, 10145],
             "talent": ["行舟", "枫晚"]
         },
+        "百蛊": {
+            "begin": "left",
+            "content": [10175, 10176],
+            "talent": ["行舟", "枫晚"]
+        },
+        "织天": {
+            "begin": "right",
+            "content": [10175, 10176],
+            "talent": ["行舟", "枫晚"]
+        },
         "通用": {
             "begin": "left",
             "content": [0, 0],
