@@ -36,15 +36,11 @@
                 "maps": [
                     {
                         "map_id": "71",
-                        "mode": "5人普通"
-                    },
-                    {
-                        "map_id": "111",
                         "mode": "5人英雄"
                     },
                     {
                         "map_id": "116",
-                        "mode": "20级5人普通"
+                        "mode": "5人普通"
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/71.jpg",
