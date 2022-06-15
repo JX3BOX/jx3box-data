@@ -2,7 +2,7 @@
     {
         "zoneName": "國際服",
         "serverName": "共結來緣",
-        "ipAddress": "103.98.19.140",
+        "ipAddress": "43.132.201.250",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "共結來緣"
@@ -10,7 +10,7 @@
     {
         "zoneName": "國際服",
         "serverName": "傲血戰意",
-        "ipAddress": "103.98.19.138",
+        "ipAddress": "43.132.201.250",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "傲血戰意"
@@ -18,7 +18,7 @@
     {
         "zoneName": "國際服",
         "serverName": "巔峰再起",
-        "ipAddress": "103.98.19.139",
+        "ipAddress": "43.132.201.250",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "巔峰再起"
@@ -26,7 +26,7 @@
     {
         "zoneName": "國際服",
         "serverName": "江海雲夢",
-        "ipAddress": "103.98.19.136",
+        "ipAddress": "43.132.201.250",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "江海雲夢"
@@ -66,7 +66,7 @@
     {
         "zoneName": "缘起大区",
         "serverName": "剑啸江湖",
-        "ipAddress": "03.228.229.59",
+        "ipAddress": "103.228.229.59",
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "剑啸江湖"
