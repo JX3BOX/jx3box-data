@@ -165,7 +165,7 @@
         "force": 7,
         "kungfuId": 16,
         "school": 10,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "惊羽诀": {
         "name": "惊羽诀",
@@ -173,7 +173,7 @@
         "force": 7,
         "kungfuId": 15,
         "school": 10,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "问水诀": {
         "name": "问水诀",

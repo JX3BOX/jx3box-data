@@ -8,7 +8,7 @@
     "丐帮": { "school_id":7,"force_id":9,"mounts": [10268],"client":["all","std"] },
     "明教": { "school_id":8,"force_id":10,"mounts": [10242, 10243],"client":["all","std"]},
     "五毒": { "school_id":9,"force_id":6,"mounts": [10175, 10176],"client":["all","std","origin"]},
-    "唐门": { "school_id":10,"force_id":7,"mounts": [10224, 10225],"client":["all","std"]},
+    "唐门": { "school_id":10,"force_id":7,"mounts": [10224, 10225],"client":["all","std","origin"]},
     "苍云": { "school_id":18,"force_id":21,"mounts": [10389, 10390],"client":["all","std"]},
     "长歌": { "school_id":19,"force_id":22,"mounts": [10447, 10448],"client":["all","std"]},
     "霸刀": { "school_id":20,"force_id":23,"mounts": [10464] ,"client":["all","std"]},

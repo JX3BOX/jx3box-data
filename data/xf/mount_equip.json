@@ -182,7 +182,7 @@
     "10225": {
         "name": "天罗诡道",
         "school_name": "唐门",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "内功",
         "share_school": [],
         "primary_weapon_type": "11",
@@ -191,7 +191,7 @@
     "10224": {
         "name": "惊羽诀",
         "school_name": "唐门",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "外功",
         "share_school": ["天策", "霸刀", "丐帮"],
         "primary_weapon_type": "11",
