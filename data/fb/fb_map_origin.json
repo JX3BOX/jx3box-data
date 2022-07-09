@@ -116,6 +116,25 @@
                 "icon": "image/fb_map_thumbnail/110.jpg",
                 "boss": ["藏·剑邪鸠", "剑心", "摩提耶罗"],
                 "client": ["std", "origin", "all"]
+            },
+            "唐门密室": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "唐门密室",
+                "maps": [
+                    {
+                        "map_id": "123",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "125",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/123.jpg",
+                "boss": ["柳惊涛", "机关骰子", "汉唐", "密室机关"],
+                "client": ["std", "origin","all"]
             }
         }
     },
