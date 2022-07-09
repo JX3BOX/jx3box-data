@@ -10,17 +10,112 @@
                 "name": "荻花圣殿",
                 "maps": [
                     {
-                        "map_id": "69",
-                        "mode": "10人英雄"
+                        "map_id": "68",
+                        "mode": "10人普通"
                     },
                     {
-                        "map_id": "72",
+                        "map_id": "70",
                         "mode": "25人英雄"
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/68.jpg",
-                "boss": ["狂蟒之怒", "卫栖梧、阿里曼执法长老", "阿萨辛", "卓婉清", "沙利亚", "万花机甲"],
+                "boss": ["卫栖梧、阿里曼执法长老", "阿萨辛", "卓婉清", "沙利亚"],
                 "client": ["origin", "std", "all"]
+            },
+            "龙渊泽": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "龙渊泽",
+                "maps": [
+                    {
+                        "map_id": "119",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "117",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/109.jpg",
+                "boss": ["慕容野狐、殷青丝", "里赤梅、苏贝德哈"],
+                "client": ["std", "origin", "all"]
+            },
+            "毒神殿": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "毒神殿",
+                "maps": [
+                    {
+                        "map_id": "75",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "112",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/75.jpg",
+                "boss": ["塔丹茂伯", "鲍穆侠", "乌灵风"],
+                "client": ["std", "origin", "all"]
+            },
+            "法王窟": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "法王窟",
+                "maps": [
+                    {
+                        "map_id": "106",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "115",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/106.jpg",
+                "boss": ["胡鞑", "武逸青", "智慧"],
+                "client": ["std", "origin", "all"]
+            },
+            "无量宫": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "无量宫",
+                "maps": [
+                    {
+                        "map_id": "107",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "114",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/107.jpg",
+                "boss": ["桃叶仙", "濯尘", "多多"],
+                "client": ["std", "origin", "all"]
+            },
+            "寂灭厅": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "寂灭厅",
+                "maps": [
+                    {
+                        "map_id": "110",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "113",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/110.jpg",
+                "boss": ["藏·剑邪鸠", "剑心", "摩提耶罗"],
+                "client": ["std", "origin", "all"]
             }
         }
     },
@@ -45,7 +140,7 @@
                 ],
                 "icon": "image/fb_map_thumbnail/71.jpg",
                 "boss": ["塔纳刀王", "水云", "苏髓"],
-                "client": ["std","origin", "all"]
+                "client": ["std", "origin", "all"]
             },
             "荻花圣殿": {
                 "devide_level": "70",
