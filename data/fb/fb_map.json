@@ -48,7 +48,7 @@
                 "maps": [
                     {
                         "map_id": "563",
-                        "mode": "5人英雄"
+                        "mode": "5人普通"
                     },
                     {
                         "map_id": "564",
@@ -97,6 +97,10 @@
                     {
                         "map_id": "521",
                         "mode": "5人英雄"
+                    },
+                    {
+                        "map_id": "522",
+                        "mode": "5人挑战"
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/521.png",
