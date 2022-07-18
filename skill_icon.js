@@ -24,11 +24,17 @@ function Main(args) {
             if(!skillIDLevelAndIcon.hasOwnProperty(skillID))
                 skillIDLevelAndIcon[skillID] = {};
             skillIDLevelAndIcon[skillID][skillLevel] = skillIcon;
-            skillNameAndIcon[skillName] = skillIcon;
+            if(skillIcon != 0) {
+                if(!skillNameAndIcon.hasOwnProperty(skillName) || skillLevel > skillNameAndIcon[skillName][0])
+                    skillNameAndIcon[skillName] = [skillLevel, skillIcon];
+            }
         }
     });
     parser.on("end", () => {
         fs.writeFileSync(path.join(args[1], "skill_id_icon.json"), JSON.stringify(skillIDLevelAndIcon));
+        Object.keys(skillNameAndIcon).map(key => {
+            skillNameAndIcon[key] = skillNameAndIcon[key][1];
+        });
         fs.writeFileSync(path.join(args[1], "skill_name_icon.json"), JSON.stringify(skillNameAndIcon));
     });
 
