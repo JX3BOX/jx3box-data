@@ -1,10 +1,10 @@
 {
     "name": "@jx3box/jx3box-data",
-    "version": "1.10.8",
+    "version": "1.10.9",
     "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
     "main": "index.js",
     "scripts": {
-        "skillicon": "node skill_icon.js ./raw/skill.txt ./data/xf/skillicon.json"
+        "skillicon": "node skill_icon.js ./raw/skill.txt ./data/xf"
     },
     "repository": {
         "type": "git",
@@ -24,6 +24,7 @@
     },
     "dependencies": {
         "csv-parse": "^5.3.0",
-        "fs": "0.0.1-security"
+        "fs": "0.0.1-security",
+        "path": "^0.12.7"
     }
 }
