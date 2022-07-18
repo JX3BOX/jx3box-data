@@ -1,11 +1,10 @@
 {
     "name": "@jx3box/jx3box-data",
-    "version": "1.10.6",
+    "version": "1.10.7",
     "description": "静态数据库，自动同步至OSS，OSS CDN需手动处理",
     "main": "index.js",
     "scripts": {
-        "map": "node ./tools/map.js",
-        "build": "npm run map"
+        "skillicon": "node skill_icon.js ./raw/skill.txt ./data/xf/skillicon.json"
     },
     "repository": {
         "type": "git",
@@ -20,10 +19,11 @@
     "homepage": "https://github.com/JX3BOX/jx3box-data#readme",
     "devDependencies": {
         "axios": "^0.19.2",
-        "csv-parse": "^4.9.1",
         "iconv-lite": "^0.6.2",
-        "lodash": "^4.17.15",
-        "csv": "^5.3.2"
+        "lodash": "^4.17.15"
     },
-    "dependencies": {}
+    "dependencies": {
+        "csv-parse": "^5.3.0",
+        "fs": "0.0.1-security"
+    }
 }

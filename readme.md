@@ -1,12 +1,10 @@
 # Data
 
 ## 更新
-+ /raw/common/MapList.tab => /data/common/maplist.json
+- 技能对应图标：ui\Scheme\Case\skill.txt -> raw\skill.txt
 
 ## Build
-```
-$ npm run build
-```
+- 技能对应图标：`npm run skillicon`
 
 ## Todo
 + /fb/fb_map.json 修改正式服/怀旧服状态，新副本ID与BOSS
