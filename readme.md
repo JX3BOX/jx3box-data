@@ -1,4 +1,5 @@
 # Data
+- raw\NameToIconManual.json: 部分技能受 Lua 脚本控制而切换，无法自动从表中解析，需要在此文件手动写入
 
 ## 更新
 - 技能对应图标：

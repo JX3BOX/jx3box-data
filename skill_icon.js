@@ -89,6 +89,9 @@ function Main(args) {
             }
         }
     });
+    // 追加手动数据
+    const manualNameToIcon = JSON.parse(fs.readFileSync(path.join(args[0], "NameToIconManual.json"), "utf8"));
+    skillNameAndIcon = {...skillNameAndIcon, ...manualNameToIcon};
 
     fs.writeFileSync(path.join(args[1], "skill_id_icon.json"), JSON.stringify(skillIDLevelAndIcon, null, 4));
     fs.writeFileSync(path.join(args[1], "skill_name_icon.json"), JSON.stringify(skillNameAndIcon, null, 4));
