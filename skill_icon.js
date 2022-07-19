@@ -60,8 +60,13 @@ function Main(args) {
         skills.forEach(skill => {
             // 技能表中首先要存在
             if(skill && skillIDLevelAndIcon[skill]) {
-                // 如果有定义的最大等级 就用定义的 否则用 Level 数值最大的
-                const maxLevel = maxSkillLevel[skill] || GetMaxKey(skillIDLevelAndIcon[skill]);
+                // 如果有定义的最大等级就用定义的 否则用 Level = 0 再否则用 SkillID 里面 Level 最大的
+                let maxLevel = maxSkillLevel[skill]
+                if(!maxLevel || !skillIDLevelAndIcon[skill][maxLevel]) {
+                    maxLevel = 0;
+                    if(!skillIDLevelAndIcon[skill][maxLevel])
+                        maxLevel = GetMaxKey(skillIDLevelAndIcon[skill]);
+                }
                 const skillName = skillIDLevelToName[skill][maxLevel];
                 skillNameAndIcon[skillName] = skillIDLevelAndIcon[skill][maxLevel];
             }

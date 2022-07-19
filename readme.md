@@ -1,7 +1,11 @@
 # Data
 
 ## 更新
-- 技能对应图标：ui\Scheme\Case\skill.txt -> raw\skill.txt
+- 技能对应图标：
+    - ui\Scheme\Case\skill.txt -> raw\skill.txt
+    - ui\Scheme\Case\skill_open_level.txt -> raw\skill_open_level.txt
+    - ui\Scheme\Case\tenextrapoint.tab -> raw\tenextrapoint.tab
+    - ui\Scheme\Case\skill_kungfu.txt -> raw\skill_kungfu.txt
 
 ## Build
 - 技能对应图标：`npm run skillicon`
