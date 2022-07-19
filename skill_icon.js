@@ -38,11 +38,10 @@ function Main(args) {
         quote: null
     });
     kungFuSkillTable.forEach(line => {
-        let skills = (line["Skill"] || "").trim().replace("|", "").split(";");
+        let skills = (line["Skill"] || "").trim().replace("|", ";").split(";");
         skills.forEach(skill => {
-            const skillName = skillIDToName[skill];
-            if(skillName)
-                skillNameAndIcon[skillName] = GetValueFromMaxKey(skillIDLevelAndIcon[skill]);
+            if(skill && skillIDToName[skill])
+                skillNameAndIcon[skillIDToName[skill]] = GetValueFromMaxKey(skillIDLevelAndIcon[skill]);
         });
     });
     // 读所有心法对应奇穴技能表
