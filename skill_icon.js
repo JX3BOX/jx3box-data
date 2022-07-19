@@ -3,14 +3,29 @@ const path = require("path");
 const csvparse = require("csv-parse/sync");
 const iconv = require("iconv-lite");
 
-function GetValueFromMaxKey(obj) {
-    return Object.entries(obj).sort((x, y) => ~~y[0] - ~~x[0])[0][1];
+function GetMaxKey(obj) {
+    return Object.entries(obj).sort((x, y) => ~~y[0] - ~~x[0])[0][0];
 }
 
 function Main(args) {
-    let skillIDToName = {};
+    let maxSkillLevel = {};
+    let skillIDLevelToName = {};
     let skillIDLevelAndIcon = {};
     let skillNameAndIcon = {};
+
+    /* 0. 读所有技能的最大等级 */
+    const skillMaxLevelTable = csvparse.parse(iconv.decode(fs.readFileSync(path.join(args[0], "skill_open_level.txt"), "binary"), "gbk"), {
+        columns: true,
+        delimiter: "\t",
+        quote: null
+    });
+    skillMaxLevelTable.forEach(line => {
+        const skillID = line["SkillID"];
+        const skillLevel = line["SkillLevel"];
+        if(!maxSkillLevel.hasOwnProperty(skillID) || maxSkillLevel[skillID] < skillLevel) {
+            maxSkillLevel[skillID] = skillLevel;
+        }
+    });
 
     /* 1. 所有技能 ID 与 Level 转 IconID */
     // 读所有技能 ID 等级与图标数据
@@ -27,7 +42,10 @@ function Main(args) {
         if(!skillIDLevelAndIcon.hasOwnProperty(skillID))
             skillIDLevelAndIcon[skillID] = {};
         skillIDLevelAndIcon[skillID][skillLevel] = skillIcon;
-        skillIDToName[skillID] = line["Name"];
+
+        if(!skillIDLevelToName.hasOwnProperty(skillID))
+            skillIDLevelToName[skillID] = {};
+        skillIDLevelToName[skillID][skillLevel] = line["Name"];
     });
 
     /* 2. 玩家技能与奇穴名称转 IconID */
@@ -38,10 +56,15 @@ function Main(args) {
         quote: null
     });
     kungFuSkillTable.forEach(line => {
-        let skills = (line["Skill"] || "").trim().replace("|", ";").split(";");
+        const skills = (line["Skill"] || "").trim().replace("|", ";").split(";");
         skills.forEach(skill => {
-            if(skill && skillIDToName[skill])
-                skillNameAndIcon[skillIDToName[skill]] = GetValueFromMaxKey(skillIDLevelAndIcon[skill]);
+            // 技能表中首先要存在
+            if(skill && skillIDLevelAndIcon[skill]) {
+                // 如果有定义的最大等级 就用定义的 否则用 Level 数值最大的
+                const maxLevel = maxSkillLevel[skill] || GetMaxKey(skillIDLevelAndIcon[skill]);
+                const skillName = skillIDLevelToName[skill][maxLevel];
+                skillNameAndIcon[skillName] = skillIDLevelAndIcon[skill][maxLevel];
+            }
         });
     });
     // 读所有心法对应奇穴技能表
@@ -55,7 +78,7 @@ function Main(args) {
             const skillID = line[`SkillID${i}`];
             const skillLevel = line[`SkillLevel${i}`];
             if(skillID && skillLevel) {
-                const skillName = skillIDToName[skillID];
+                const skillName = skillIDLevelToName[skillID][skillLevel];
                 if(skillName)
                     skillNameAndIcon[skillName] = skillIDLevelAndIcon[skillID][skillLevel];
             }
