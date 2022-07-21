@@ -49,14 +49,6 @@
     },
     {
         "zoneName": "缘起大区",
-        "serverName": "梦回长安",
-        "ipAddress": "103.228.229.42",
-        "ipPort": "3724",
-        "connectState": false,
-        "mainServer": "梦回长安"
-    },
-    {
-        "zoneName": "缘起大区",
         "serverName": "天宝盛世",
         "ipAddress": "103.228.229.43",
         "ipPort": "3724",
