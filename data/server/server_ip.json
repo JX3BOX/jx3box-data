@@ -62,13 +62,5 @@
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "剑啸江湖"
-    },
-    {
-        "zoneName": "缘起大区",
-        "serverName": "天下问鼎",
-        "ipAddress": "103.228.229.58",
-        "ipPort": "3724",
-        "connectState": false,
-        "mainServer": "天下问鼎"
     }
 ]
