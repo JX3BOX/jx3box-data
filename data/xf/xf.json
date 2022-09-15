@@ -231,6 +231,14 @@
         "school": 23,
         "client": ["all", "std"]
     },
+    "孤锋诀": {
+        "name": "孤锋诀",
+        "id": 10698,
+        "force": 213,
+        "kungfuId": 30,
+        "school": 26,
+        "client": ["all", "std"]
+    },
     "通用": {
         "name": "通用",
         "id": 0,
