@@ -1,4 +1,95 @@
 {
+    "横刀断浪":{
+        "name": "横刀断浪",
+        "level": "120",
+        "dungeon":{
+            "西津渡":{
+                "name": "西津渡",
+                "maps": [
+                    {
+                        "map_id": "586",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "587",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "588",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/573.png",
+                "boss":["张景超", "刘展", "苏凤楼", "韩敬青", "藤原佑野", "李重茂"],
+                "client": ["std", "all"]
+            },
+            "沃石院":{
+                "name": "沃石院",
+                "maps": [
+                    {
+                        "map_id": "596",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "597",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/573.png",
+                "boss":["孟承", "吕一平", "时风"],
+                "client": ["std", "all"]
+            },
+            "镇海阁地井":{
+                "name": "镇海阁地井",
+                "maps": [
+                    {
+                        "map_id": "598",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "599",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/573.png",
+                "boss":["关八天", "苍森", "巨型何罗"],
+                "client": ["std", "all"]
+            },
+            "幽藤馆":{
+                "name": "幽藤馆",
+                "maps": [
+                    {
+                        "map_id": "606",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "607",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/573.png",
+                "boss":["吴添明", "秘三花", "藤原广嗣"],
+                "client": ["std", "all"]
+            },
+            "楚州_江天夜宴":{
+                "name": "楚州_江天夜宴",
+                "maps": [
+                    {
+                        "map_id": "622",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "623",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/573.png",
+                "boss":["笑妆娘", "白兆霆", "邙赫达"],
+                "client": ["std", "all"]
+            }
+        },
+        "client": ["std", "all"]
+    },
     "奉天证道": {
         "name": "奉天证道",
         "level": "110",
