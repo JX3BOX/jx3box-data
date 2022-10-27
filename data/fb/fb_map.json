@@ -19,7 +19,7 @@
                         "mode": "25人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/573.png",
+                "icon": "image/fb_map_thumbnail/588.png",
                 "boss":["张景超", "刘展", "苏凤楼", "韩敬青", "藤原佑野", "李重茂"],
                 "client": ["std", "all"]
             },
@@ -35,7 +35,7 @@
                         "mode": "5人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/573.png",
+                "icon": "image/fb_map_thumbnail/597.png",
                 "boss":["孟承", "吕一平", "时风"],
                 "client": ["std", "all"]
             },
@@ -51,7 +51,7 @@
                         "mode": "5人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/573.png",
+                "icon": "image/fb_map_thumbnail/599.png",
                 "boss":["关八天", "苍森", "巨型何罗"],
                 "client": ["std", "all"]
             },
@@ -67,7 +67,7 @@
                         "mode": "5人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/573.png",
+                "icon": "image/fb_map_thumbnail/607.png",
                 "boss":["吴添明", "秘三花", "藤原广嗣"],
                 "client": ["std", "all"]
             },
@@ -83,7 +83,7 @@
                         "mode": "5人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/573.png",
+                "icon": "image/fb_map_thumbnail/623.png",
                 "boss":["笑妆娘", "白兆霆", "邙赫达"],
                 "client": ["std", "all"]
             }
