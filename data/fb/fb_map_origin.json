@@ -3,6 +3,29 @@
         "name": "巴蜀风云",
         "level": "80",
         "dungeon": {
+            "剑湖宫": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "剑湖宫",
+                "maps": [
+                    {
+                        "map_id": "996",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "997",
+                        "mode": "10人挑战"
+                    },
+                    {
+                        "map_id": "998",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/68.jpg",
+                "boss": ["褚吉光、柳公子", "扶风", "玄冥灵龟", "迦牟"],
+                "client": ["origin", "all"]
+            },
             "荻花圣殿": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
