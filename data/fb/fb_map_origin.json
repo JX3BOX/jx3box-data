@@ -22,9 +22,9 @@
                         "mode": "25人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/68.jpg",
+                "icon": "image/fb_map_thumbnail/996.jpg",
                 "boss": ["褚吉光、柳公子", "扶风", "玄冥灵龟", "迦牟"],
-                "client": ["origin", "all"]
+                "client": ["origin"]
             },
             "荻花圣殿": {
                 "devide_level": "80",
@@ -157,7 +157,7 @@
                 ],
                 "icon": "image/fb_map_thumbnail/123.jpg",
                 "boss": ["柳惊涛", "机关骰子", "汉唐", "密室机关"],
-                "client": ["std", "origin","all"]
+                "client": ["std", "origin", "all"]
             }
         }
     },
