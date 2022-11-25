@@ -3,7 +3,7 @@
         "name": "巴蜀风云",
         "level": "80",
         "dungeon": {
-            "八荒衡鉴":{
+            "八荒衡鉴": {
                 "name": "八荒衡鉴",
                 "maps": [
                     {
@@ -12,7 +12,7 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/995.png",
-                "boss":[],
+                "boss": ["野猪王", "毒尸王", "天一教毒巫", "无常鬼", "神策将军"],
                 "client": ["origin"]
             },
             "剑湖宫": {
