@@ -1,4 +1,23 @@
 {
+    "特殊地图":{
+        "name": "特殊地图",
+        "level": "80",
+        "dungeon":{
+            "八荒衡鉴":{
+                "name": "八荒衡鉴",
+                "maps": [
+                    {
+                        "map_id": "995",
+                        "mode": "10人普通"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/995.png",
+                "boss":[],
+                "client": ["origin"]
+            }
+        },
+        "client": ["origin"]
+    },
     "巴蜀风云": {
         "name": "巴蜀风云",
         "level": "80",
