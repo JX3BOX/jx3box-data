@@ -1,6 +1,6 @@
 {
-    "特殊地图":{
-        "name": "特殊地图",
+    "横刀断浪":{
+        "name": "横刀断浪",
         "level": "120",
         "dungeon":{
             "百战异闻录":{
@@ -14,14 +14,7 @@
                 "icon": "image/fb_map_thumbnail/562.png",
                 "boss":[],
                 "client": ["std"]
-            }
-        },
-        "client": ["std"]
-    },
-    "横刀断浪":{
-        "name": "横刀断浪",
-        "level": "120",
-        "dungeon":{
+            },
             "西津渡":{
                 "name": "西津渡",
                 "maps": [
