@@ -54,13 +54,5 @@
         "ipPort": "3724",
         "connectState": false,
         "mainServer": "天宝盛世"
-    },
-    {
-        "zoneName": "缘起大区",
-        "serverName": "剑啸江湖",
-        "ipAddress": "103.228.229.59",
-        "ipPort": "3724",
-        "connectState": false,
-        "mainServer": "剑啸江湖"
     }
 ]
