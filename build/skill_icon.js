@@ -12,7 +12,7 @@ function GetMaxKey(obj) {
  * 读取所有技能最大等级
  */
 async function readSkillMaxLevel(client) {
-    let logger = baseLogger.job("readSkillMaxLevel");
+    let logger = baseLogger.job('readSkillMaxLevel');
 
     let ret = {};
     logger.info('读取所有技能最大等级');
@@ -38,7 +38,7 @@ async function readSkillMaxLevel(client) {
  * 读取与构建所有技能 ID 与等级到图标 ID、技能 ID 到技能名称的映射
  */
 async function readAllSkillInfo(client) {
-    let logger = baseLogger.job("buildSkillIDAndLevelToIconID");
+    let logger = baseLogger.job('readAllSkillInfo');
 
     let skillIDLevelAndIcon = {}, skillIDLevelToName = {};
     logger.info('读取所有技能信息');
@@ -58,7 +58,7 @@ async function readAllSkillInfo(client) {
 
         if(!skillIDLevelToName.hasOwnProperty(skillID))
             skillIDLevelToName[skillID] = {};
-        skillIDLevelToName[skillID][skillLevel] = line["Name"];
+        skillIDLevelToName[skillID][skillLevel] = line['Name'];
     }
 
     logger.info(`共构建 ${Object.keys(skillIDLevelAndIcon).length} / ${Object.keys(skillIDLevelToName).length} 条数据`);
@@ -69,7 +69,7 @@ async function readAllSkillInfo(client) {
 }
 
 async function buildPlayerSkillNameToIconID(client, maxSkillLevel, skillIDLevelAndIcon, skillIDLevelToName) {
-    let logger = baseLogger.job("buildSkillNameToIconID");
+    let logger = baseLogger.job('buildPlayerSkillNameToIconID');
  
     let skillNameAndIcon = {};
     logger.info('读取玩家心法技能');
