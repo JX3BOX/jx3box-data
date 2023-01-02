@@ -103,7 +103,7 @@ async function main(client) {
         let maxSkillLevel = await readSkillMaxLevel(client);
         let allSkillIDLevelAndName = await readAllSkillIDLevelAndName(client);
         let skillNameToIDLevel = await buildSkillNameToIDAndLevel(client, maxSkillLevel, allSkillIDLevelAndName);
-        const skillNameToIDLevelPath = path.join(__dirname, `../data/xf/skill_name_id_level_${client}.json`);
+        const skillNameToIDLevelPath = path.join(__dirname, `../data/xf/${client}/skill_name_id_level.json`);
         await writeFile(skillNameToIDLevelPath, JSON.stringify(skillNameToIDLevel, null, 4));
 
         logger.success();

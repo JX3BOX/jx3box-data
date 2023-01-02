@@ -133,8 +133,8 @@ async function main(client) {
         let { skillIDLevelAndIcon, skillIDLevelToName } = await readAllSkillInfo(client);
         let skillNameAndIcon = await buildPlayerSkillNameToIconID(client, maxSkillLevel, skillIDLevelAndIcon, skillIDLevelToName);
 
-        const skillIDLevelAndIconOutputPath = path.join(__dirname, `../data/xf/skill_id_icon_${client}.json`);
-        const skillNameAndIconOutputPath = path.join(__dirname, `../data/xf/skill_name_icon_${client}.json`);
+        const skillIDLevelAndIconOutputPath = path.join(__dirname, `../data/xf/${client}/skill_id_icon.json`);
+        const skillNameAndIconOutputPath = path.join(__dirname, `../data/xf/${client}/skill_name_icon.json`);
         await writeFile(skillIDLevelAndIconOutputPath, JSON.stringify(skillIDLevelAndIcon, null, 2));
         await writeFile(skillNameAndIconOutputPath, JSON.stringify(skillNameAndIcon, null, 2));
 
