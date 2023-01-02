@@ -23,6 +23,7 @@
         "lodash": "^4.17.15"
     },
     "dependencies": {
+        "@jx3box/jx3box-build-common": "^0.0.21",
         "csv-parse": "^5.3.0",
         "fs": "0.0.1-security",
         "path": "^0.12.7"
