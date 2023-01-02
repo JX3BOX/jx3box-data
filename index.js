@@ -2,11 +2,17 @@ const { initLogger } = require('@jx3box/jx3box-build-common/logger');
 
 /** @type {Object<string, Object<string, Function>>} */
 const support_field = {
+    // 技能图标
     skill_icon: {
         std: require('./build/skill_icon.js')('std'),
         origin: require('./build/skill_icon.js')('origin'),
     },
 
+    // 技能名称反查
+    skill_name_to_id_level: {
+        std: require('./build/skill_name_to_id_level.js')('std'),
+        origin: require('./build/skill_name_to_id_level.js')('origin'),
+    },
 };
 
 let build_fields = process.argv[2]?.split(',');
