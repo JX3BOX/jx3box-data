@@ -135,8 +135,8 @@ async function main(client) {
 
         const skillIDLevelAndIconOutputPath = path.join(__dirname, `../data/xf/skill_id_icon_${client}.json`);
         const skillNameAndIconOutputPath = path.join(__dirname, `../data/xf/skill_name_icon_${client}.json`);
-        await writeFile(skillIDLevelAndIconOutputPath, JSON.stringify(skillIDLevelAndIcon, null, 4));
-        await writeFile(skillNameAndIconOutputPath, JSON.stringify(skillNameAndIcon, null, 4));
+        await writeFile(skillIDLevelAndIconOutputPath, JSON.stringify(skillIDLevelAndIcon, null, 2));
+        await writeFile(skillNameAndIconOutputPath, JSON.stringify(skillNameAndIcon, null, 2));
 
         logger.success();
     } catch (e) {
