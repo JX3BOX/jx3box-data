@@ -74,10 +74,10 @@ async function readAllSkillReplace(client) {
         useDefaultRow: TABLE_DEFAULT_ROW_MODE.IGNORE
     });
 
-    for(let line of skillReplaceTable) {
-        if(line['dst_skill_id1'])
+    for (let line of skillReplaceTable) {
+        if (line['dst_skill_id1'])
             ret[line['dst_skill_id1']] = line['src_skill_id'];
-        if(line['dst_skill_id2'])
+        if (line['dst_skill_id2'])
             ret[line['dst_skill_id2']] = line['src_skill_id'];
     }
 
@@ -96,33 +96,40 @@ async function buildSkillNameToIDAndLevel(client, maxSkillLevel, skillIDLevelAnd
     const kungFuSkillTable = await parseTable(await readFile(kungfuSkillPath), {
         keepColumns: ['Skill'],
     });
-    const allKungfuSkills = kungFuSkillTable.reduce((acc, cur) => {
+    const kungfuSkills = kungFuSkillTable.reduce((acc, cur) => {
         const skills = (cur['Skill'] || '').trim().replace('|', ';').split(';');
         for (let skill of skills)
             if (skill)
                 acc.push(skill);
         return acc;
     }, []);
-    logger.info(`共读取 ${allKungfuSkills.length} 条数据`);
+    logger.info(`共读取 ${kungfuSkills.length} 条数据`);
 
-    // 面板奇穴表
+    // 面板奇穴表，怀旧服使用上一步 Lua 输出的所有镇派技能 ID
     logger.info('读取所有奇穴');
-    const tenextraPointPath = path.join(__dirname, `../raw/${client}/tenextrapoint.tab`);
-    const tenExtraPointsTable = await parseTable(await readFile(tenextraPointPath));
-    const allTenExtraPointSkills = tenExtraPointsTable.reduce((acc, cur) => {
-        for (let i = 1; i <= 5; ++i) {
-            const skillID = cur[`SkillID${i}`];
-            const skillLevel = cur[`SkillLevel${i}`];
-            if (skillID && skillLevel)
-                acc.push(skillID);
-        }
-        return acc;
-    }, []);
-    logger.info(`共读取 ${allTenExtraPointSkills.length} 条数据`);
+    let extraPointSkills;
+    if (client === 'std') {
+        const tenExtraPointPath = path.join(__dirname, `../raw/${client}/tenextrapoint.tab`);
+        const tenExtraPointsTable = await parseTable(await readFile(tenExtraPointPath));
+        extraPointSkills = tenExtraPointsTable.reduce((acc, cur) => {
+            for (let i = 1; i <= 5; ++i) {
+                const skillID = cur[`SkillID${i}`];
+                const skillLevel = cur[`SkillLevel${i}`];
+                if (skillID && skillLevel)
+                    acc.push(skillID);
+            }
+            return acc;
+        }, []);
+    }
+    else if (client === 'origin') {
+        const talentOutputPath = path.join(__dirname, `../temp/talent.txt`);
+        extraPointSkills = (await readFile(talentOutputPath)).split('\n').map(i => ~~i);
+    }
+    logger.info(`共读取 ${extraPointSkills.length} 条数据`);
 
     // 开始构建
     logger.info('构建技能名称到 ID 与等级反查映射');
-    for (let skillID of [...allKungfuSkills, ...allTenExtraPointSkills]) {
+    for (let skillID of [...kungfuSkills, ...extraPointSkills]) {
 
         // 直接查询
         if (skillIDLevelAndName[skillID]) {
@@ -137,15 +144,17 @@ async function buildSkillNameToIDAndLevel(client, maxSkillLevel, skillIDLevelAnd
         }
 
         // 替换查询
-        if(skillReplace[skillID]) {
+        if (skillReplace[skillID]) {
             let replaceSkillID = skillReplace[skillID];
-            let maxLevel = maxSkillLevel[replaceSkillID];
-            if (!maxLevel || !skillIDLevelAndName[replaceSkillID][maxLevel])
-                maxLevel = GetMaxKey(skillIDLevelAndName[replaceSkillID]);
-            ret[skillIDLevelAndName[replaceSkillID][maxLevel]] = {
-                id: skillID,
-                level: maxLevel
-            };
+            if (skillIDLevelAndName[replaceSkillID]) {
+                let maxLevel = maxSkillLevel[replaceSkillID];
+                if (!maxLevel || !skillIDLevelAndName[replaceSkillID][maxLevel])
+                    maxLevel = GetMaxKey(skillIDLevelAndName[replaceSkillID]);
+                ret[skillIDLevelAndName[replaceSkillID][maxLevel]] = {
+                    id: skillID,
+                    level: maxLevel
+                };
+            }
         }
     }
     logger.info(`共构建 ${Object.keys(ret).length} 条数据`);
