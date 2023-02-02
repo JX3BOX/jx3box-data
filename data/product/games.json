@@ -1,0 +1,44 @@
+[
+    {
+        "name": "指尖江湖",
+        "img": "https://img.jx3box.com/image/xsj/zjjh.png",
+        "key": "zjjh",
+        "path": "https://zjjh.jx3box.com",
+        "disabled": true
+    },
+    {
+        "name": "指尖对弈",
+        "img": "https://img.jx3box.com/image/xsj/zjdy.png",
+        "key": "zjdy",
+        "path": "https://zjdy.jx3box.com",
+        "disabled": true
+    },
+    {
+        "name": "剑侠世界3",
+        "img": "https://img.jx3box.com/image/xsj/jxsj3.png",
+        "key": "jxsj3",
+        "path": "https://jxsj3.jx3box.com",
+        "disabled": true
+    },
+    {
+        "name": "剑侠世界",
+        "img": "https://img.jx3box.com/image/xsj/jxsj.png",
+        "key": "jxsj",
+        "path": "https://jxsj.jx3box.com",
+        "disabled": true
+    },
+    {
+        "name": "剑网1:归来",
+        "img": "https://img.jx3box.com/image/xsj/jx1gl.png",
+        "key": "jx1",
+        "path": "https://jx1.jx3box.com",
+        "disabled": true
+    },
+    {
+        "name": "双生视界",
+        "img": "https://img.jx3box.com/image/xsj/sssj.png",
+        "key": "sssj",
+        "path": "https://sssj.jx3box.com",
+        "disabled": true
+    }
+]
