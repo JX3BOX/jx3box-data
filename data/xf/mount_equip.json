@@ -128,7 +128,7 @@
     "10242": {
         "name": "焚影圣诀",
         "school_name": "明教",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "内功",
         "share_school": [],
         "primary_weapon_type": "12",
@@ -137,7 +137,7 @@
     "10243": {
         "name": "明尊琉璃体",
         "school_name": "明教",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "防御",
         "share_school": ["少林", "天策", "苍云"],
         "primary_weapon_type": "12",
