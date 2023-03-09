@@ -117,7 +117,7 @@
         "force": 10,
         "kungfuId": 17,
         "school": 8,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "明尊琉璃体": {
         "name": "明尊琉璃体",
@@ -125,7 +125,7 @@
         "force": 10,
         "kungfuId": 18,
         "school": 8,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "分山劲": {
         "name": "分山劲",
