@@ -22,11 +22,11 @@
                 "boss": ["胡鞑、武逸青", "陆寻", "南之雷神", "醉蛛老人", "索笛尔", "千秋子", "乌蒙贵"],
                 "client": ["origin"]
             },
-            "光明顶密道": {
+            "光明顶秘道": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
 
-                "name": "光明顶密道",
+                "name": "光明顶秘道",
                 "maps": [
                     {
                         "map_id": "141",
@@ -37,9 +37,9 @@
                         "mode": "5人普通"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/133.jpg",
-                "boss": ["问寒松", "辛然、吴颖莲", "薛山"],
-                "client": ["origin"]
+                "icon": "image/fb_map_thumbnail/141.jpg",
+                "boss": ["问寒松", "辛然、吴颖莲", "薛山", "西域狮王"],
+                "client": ["std", "all"]
             },
             "八荒衡鉴": {
                 "name": "八荒衡鉴",
