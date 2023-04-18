@@ -534,7 +534,7 @@
     },
     "NeedSync": {
         "desc": "需要同步",
-        "adv": true
+        "adv": false
     },
     "InBirdMove": {
         "desc": "战斗轻功状态",
