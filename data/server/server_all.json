@@ -15,5 +15,9 @@
     { "zone": "双线二区", "server": "飞龙在天", "edition": "zhcn_hd" },
     { "zone": "双线四区", "server": "青梅煮酒", "edition": "zhcn_hd" },
     { "zone": "缘起大区", "server": "天宝盛世", "edition": "classic_yq" },
-    { "zone": "缘起大区", "server": "缘起稻香", "edition": "classic_yq" }
+    { "zone": "缘起大区", "server": "缘起稻香", "edition": "classic_yq" },
+    { "zone": "國際服", "server": "共結來緣", "edition": "zhtw_hd" },
+    { "zone": "國際服", "server": "傲血戰意", "edition": "zhtw_hd" },
+    { "zone": "國際服", "server": "巔峰再起", "edition": "zhtw_hd" },
+    { "zone": "國際服", "server": "江海雲夢", "edition": "zhtw_hd" }
 ]
