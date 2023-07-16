@@ -3,6 +3,25 @@
         "name": "巴蜀风云",
         "level": "80",
         "dungeon": {
+            "南诏皇宫": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "南诏皇宫",
+                "maps": [
+                    {
+                        "map_id": "140",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "155",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/140.jpg",
+                "boss": ["枯荣大师", "段宗公、泰崇傣、阁逻鸿", "萧沙", "摩提耶罗", "陈和尚、康雪烛、柳公子、阁逻凤", "李倓"],
+                "client": ["std", "all"]
+            },
             "烛龙殿": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
