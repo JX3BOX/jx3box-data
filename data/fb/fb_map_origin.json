@@ -3,6 +3,21 @@
         "name": "巴蜀风云",
         "level": "80",
         "dungeon": {
+            "会战唐门": {
+                "devide_level": "80",
+                "devide_name": "巴蜀风云",
+
+                "name": "会战唐门",
+                "maps": [
+                    {
+                        "map_id": "138",
+                        "mode": "10人挑战"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/138.jpg",
+                "boss": ["狼牙军阵", "汪莽"],
+                "client": ["std", "origin", "all"]
+            },
             "南诏皇宫": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
@@ -20,7 +35,7 @@
                 ],
                 "icon": "image/fb_map_thumbnail/140.jpg",
                 "boss": ["枯荣大师", "段宗公、泰崇傣、阁逻鸿", "萧沙", "摩提耶罗", "陈和尚、康雪烛、柳公子、阁逻凤", "李倓"],
-                "client": ["std", "all"]
+                "client": ["std", "origin", "all"]
             },
             "烛龙殿": {
                 "devide_level": "80",
