@@ -220,7 +220,7 @@
     "10268": {
         "name": "笑尘诀",
         "school_name": "丐帮",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "外功",
         "share_school": ["天策", "霸刀", "唐门" ,"刀宗"],
         "primary_weapon_type": "13",

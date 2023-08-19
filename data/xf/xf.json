@@ -197,7 +197,7 @@
         "force": 9,
         "kungfuId": 19,
         "school": 7,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "北傲诀": {
         "name": "北傲诀",
