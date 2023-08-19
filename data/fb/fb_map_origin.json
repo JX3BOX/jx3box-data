@@ -14,7 +14,7 @@
                         "mode": "10人挑战"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/138.jpg",
+                "icon": "image/fb_map_thumbnail/136.jpg",
                 "boss": ["狼牙军阵", "汪莽"],
                 "client": ["std", "origin", "all"]
             },
