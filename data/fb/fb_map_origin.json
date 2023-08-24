@@ -1,4 +1,101 @@
 {
+    "安史之乱": {
+        "name": "安史之乱",
+        "level": "90",
+        "dungeon": {
+            "战宝军械库": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "战宝军械库",
+                "maps": [
+                    {
+                        "map_id": "160",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "171",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/160.jpg",
+                "boss": ["闻人彦范", "岳承志", "卓力格图", "澹台枯火", "萧沙、韦柔丝"],
+                "client": ["std", "origin", "all"]
+            },
+            "流离岛": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "流离岛",
+                "maps": [
+                    {
+                        "map_id": "169",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "170",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/169.jpg",
+                "boss": ["詹素", "第五雍容", "詹毅"],
+                "client": ["std", "origin", "all"]
+            },
+            "华清宫回忆录": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "华清宫回忆录",
+                "maps": [
+                    {
+                        "map_id": "163",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/163.jpg",
+                "boss": ["英怀珠", "高力士", "安禄山"],
+                "client": ["std", "origin", "all"]
+            },
+            "华清宫": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "华清宫",
+                "maps": [
+                    {
+                        "map_id": "161",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "162",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/161.png",
+                "boss": ["尹素颜", "阿依努尔", "葛尔东赞"],
+                "client": ["std", "origin", "all"]
+            },
+            "一线天": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "一线天",
+                "maps": [
+                    {
+                        "map_id": "167",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "157",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/161.png",
+                "boss": ["苏清", "宁毅", "列缺、霹雳"],
+                "client": ["std", "origin", "all"]
+            }
+        }
+    },
     "巴蜀风云": {
         "name": "巴蜀风云",
         "level": "80",
