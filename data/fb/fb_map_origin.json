@@ -71,7 +71,7 @@
                         "mode": "5人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/161.png",
+                "icon": "image/fb_map_thumbnail/161.jpg",
                 "boss": ["尹素颜", "阿依努尔", "葛尔东赞"],
                 "client": ["std", "origin", "all"]
             },
@@ -90,7 +90,7 @@
                         "mode": "5人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/161.png",
+                "icon": "image/fb_map_thumbnail/157.jpg",
                 "boss": ["苏清", "宁毅", "列缺、霹雳"],
                 "client": ["std", "origin", "all"]
             }
