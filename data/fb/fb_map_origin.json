@@ -1,4 +1,34 @@
 {
+    "特殊活动": {
+        "name": "特殊活动",
+        "level": "999",
+        "dungeon": {
+            "八荒衡鉴": {
+                "name": "八荒衡鉴",
+                "maps": [
+                    {
+                        "map_id": "995",
+                        "mode": "10人普通"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/995.png",
+                "boss": ["野猪王", "毒尸王", "天一教毒巫", "无常鬼", "神策将军"],
+                "client": ["origin"]
+            },
+            "归墟秘境": {
+                "name": "归墟秘境",
+                "maps": [
+                    {
+                        "map_id": "995",
+                        "mode": "10人普通"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/995.png",
+                "boss": ["归墟之力"],
+                "client": ["origin"]
+            }
+        }
+    },
     "安史之乱": {
         "name": "安史之乱",
         "level": "90",
@@ -171,18 +201,6 @@
                 "icon": "image/fb_map_thumbnail/141.jpg",
                 "boss": ["问寒松", "辛然、吴颖莲", "薛山", "西域狮王"],
                 "client": ["std", "all"]
-            },
-            "八荒衡鉴": {
-                "name": "八荒衡鉴",
-                "maps": [
-                    {
-                        "map_id": "995",
-                        "mode": "10人普通"
-                    }
-                ],
-                "icon": "image/fb_map_thumbnail/995.png",
-                "boss": ["野猪王", "毒尸王", "天一教毒巫", "无常鬼", "神策将军"],
-                "client": ["origin"]
             },
             "剑湖宫": {
                 "devide_level": "80",
