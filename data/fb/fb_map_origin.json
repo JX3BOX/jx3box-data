@@ -33,6 +33,25 @@
         "name": "安史之乱",
         "level": "90",
         "dungeon": {
+            "大明宫": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "大明宫",
+                "maps": [
+                    {
+                        "map_id": "164",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "165",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/164.jpg",
+                "boss": ["何莘涯", "耶律燕、独孤问俗", "六道傀儡", "剑圣", "无名","伊玛目", "安禄山"],
+                "client": ["std", "origin", "all"]
+            },
             "战宝军械库": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
