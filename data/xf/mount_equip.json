@@ -148,7 +148,7 @@
         "school_name": "苍云",
         "client": ["all", "std"],
         "duty": "外功",
-        "share_school": ["纯阳", "藏剑", "蓬莱", "凌雪"],
+        "share_school": ["纯阳", "藏剑", "蓬莱", "凌雪", "万灵"],
         "primary_weapon_type": "14",
         "primary_attribute": "身法"
     },
@@ -175,7 +175,7 @@
         "school_name": "纯阳",
         "client": ["all", "std", "origin"],
         "duty": "外功",
-        "share_school": ["苍云", "藏剑", "蓬莱", "凌雪"],
+        "share_school": ["苍云", "藏剑", "蓬莱", "凌雪", "万灵"],
         "primary_weapon_type": "2",
         "primary_attribute": "身法"
     },
@@ -202,7 +202,7 @@
         "school_name": "藏剑",
         "client": ["all","origin", "std"],
         "duty": "外功",
-        "share_school": ["苍云", "纯阳", "蓬莱", "凌雪"],
+        "share_school": ["苍云", "纯阳", "蓬莱", "凌雪", "万灵"],
         "primary_weapon_type": "2",
         "tertiary_weapon_type": "9",
         "primary_attribute": "身法"
@@ -212,7 +212,7 @@
         "school_name": "藏剑",
         "client": ["all","origin", "std"],
         "duty": "外功",
-        "share_school": ["苍云", "纯阳", "蓬莱", "凌雪"],
+        "share_school": ["苍云", "纯阳", "蓬莱", "凌雪", "万灵"],
         "primary_weapon_type": "2",
         "tertiary_weapon_type": "9",
         "primary_attribute": "身法"
@@ -240,7 +240,7 @@
         "school_name": "蓬莱",
         "client": ["all", "std"],
         "duty": "外功",
-        "share_school": ["苍云", "纯阳", "藏剑", "凌雪"],
+        "share_school": ["苍云", "纯阳", "藏剑", "凌雪", "万灵"],
         "primary_weapon_type": "17",
         "primary_attribute": "身法"
     },
@@ -249,7 +249,7 @@
         "school_name": "凌雪",
         "client": ["all", "std"],
         "duty": "外功",
-        "share_school": ["苍云", "纯阳", "藏剑", "蓬莱"],
+        "share_school": ["苍云", "纯阳", "藏剑", "蓬莱", "万灵"],
         "primary_weapon_type": "18",
         "primary_attribute": "身法"
     },
@@ -270,6 +270,15 @@
         "share_school": ["天策", "丐帮", "唐门", "霸刀"],
         "primary_weapon_type": "21",
         "primary_attribute": "力道"
+    },
+    "10756": {
+        "name": "山海心诀",
+        "school_name": "万灵",
+        "client": ["all", "std"],
+        "duty": "外功",
+        "share_school": ["苍云", "纯阳", "藏剑", "蓬莱", "凌雪"],
+        "primary_weapon_type": "22",
+        "primary_attribute": "身法"
     },
     "0": {
         "name": "通用",

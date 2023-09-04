@@ -239,6 +239,14 @@
         "school": 26,
         "client": ["all", "std"]
     },
+    "山海心诀": {
+        "name": "山海心诀",
+        "id": 10756,
+        "force": 214,
+        "kungfuId": 31,
+        "school": 29,
+        "client": ["all", "std"]
+    },
     "通用": {
         "name": "通用",
         "id": 0,
