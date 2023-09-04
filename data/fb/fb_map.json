@@ -33,6 +33,42 @@
         "name": "横刀断浪",
         "level": "120",
         "dungeon": {
+            "九老洞": {
+                "name": "九老洞",
+                "maps": [
+                    {
+                        "map_id": "648",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "649",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "650",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/648.png",
+                "boss": ["魏华", "钟不归", "岑伤", "鬼筹", "麒麟", "月泉淮"],
+                "client": ["std", "all"]
+            },
+            "栖灵洞天": {
+                "name": "栖灵洞天",
+                "maps": [
+                    {
+                        "map_id": "658",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "659",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/658.png",
+                "boss": ["辛仕徽", "宣骄", "魏鑫"],
+                "client": ["std", "all"]
+            },
             "武狱黑牢": {
                 "name": "武狱黑牢",
                 "maps": [
