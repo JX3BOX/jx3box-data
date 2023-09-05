@@ -49,7 +49,7 @@
                         "mode": "25人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/588.png",
+                "icon": "image/fb_map_thumbnail/650.png",
                 "boss": ["魏华", "钟不归", "岑伤", "鬼筹", "麒麟", "月泉淮"],
                 "client": ["std", "all"]
             },
@@ -65,7 +65,7 @@
                         "mode": "5人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/588.png",
+                "icon": "image/fb_map_thumbnail/659.png",
                 "boss": ["辛仕徽", "宣骄", "魏鑫"],
                 "client": ["std", "all"]
             },
@@ -85,7 +85,7 @@
                         "mode": "25人英雄"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/588.png",
+                "icon": "image/fb_map_thumbnail/638.png",
                 "boss": ["时风", "乐临川", "牛波", "和正", "武云阙", "翁幼之"],
                 "client": ["std", "all"]
             },
@@ -101,7 +101,7 @@
                         "mode": "5人挑战"
                     }
                 ],
-                "icon": "image/fb_map_thumbnail/588.png",
+                "icon": "image/fb_map_thumbnail/640.png",
                 "boss": ["骨面天君", "曹毅", "辛万时"],
                 "client": ["std", "all"]
             },
