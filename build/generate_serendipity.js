@@ -8,10 +8,21 @@ const main = async () => {
     const type = TYPE_LIST[i];
     for (let j = 0; j < CLIENT_LIST.length; j++) {
       const client = CLIENT_LIST[j];
-      const res = await Axios({
-        url: `https://node.jx3box.com/serendipities?type=${type}&page=1&client=${client}&per=50`,
-      });
-      console.log(`${type} ${client}: ${res.data.list.reverse().map(d => d.szName).join(', ')}`);
+      let list = [];
+      let page = 1;
+      while (true) {
+        const res = await Axios({
+          url: `https://node.jx3box.com/serendipities?type=${type}&page=${page}&client=${client}&per=50`,
+        });
+        list = [...list, ...res.data.list];
+        if (res.data.page >= res.data.pages) {
+          page = 1;
+          break;
+        } else {
+          page += 1;
+        }
+      }
+      console.log(`${type} ${client}: ${list.reverse().map(d => d.szName).join(', ')}`);
     }
   }
 };
