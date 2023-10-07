@@ -17,7 +17,7 @@ jobs:
                   username: ${{ secrets.DEPLOY_USER }}
                   key: ${{ secrets.DEPLOY_KEY }}
                   script: |
-                      cd /www/wwwroot/jx3box
+                      cd /www/wwwroot/jx3box/data
                       cd jx3box-data
                       git pull origin master
 
