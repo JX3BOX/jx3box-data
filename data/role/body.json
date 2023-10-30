@@ -10,5 +10,13 @@
         "LittleGirl": 6,
         "StandardFemale": 2,
         "StandardMale": 1
+    },
+    "majorMap": {
+        "1": "origin",
+        "2": "std"
+    },
+    "faceSubtype": {
+        "1": "写实",
+        "0": "写意"
     }
 }
