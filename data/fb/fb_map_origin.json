@@ -33,6 +33,25 @@
         "name": "安史之乱",
         "level": "90",
         "dungeon": {
+            "血战天策·驰援": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "血战天策·驰援",
+                "maps": [
+                    {
+                        "map_id": "175",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "176",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_175_0.png",
+                "boss": ["席庶云", "关卡：固守天策府", "曹炎烈", "关卡：保护青骓牧场",  "阿史那从礼"],
+                "client": ["origin", "all"]
+            },
             "大明宫": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
