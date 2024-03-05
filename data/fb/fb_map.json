@@ -33,6 +33,26 @@
         "name": "横刀断浪",
         "level": "120",
         "dungeon": {
+            "冷龙峰": {
+                "name": "冷龙峰",
+                "maps": [
+                    {
+                        "map_id": "668",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "669",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "670",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_668_0.png",
+                "boss": ["葛木寒", "雨轻红", "喜雅", "鹰眼客", "赤幽明"],
+                "client": ["std", "all"]
+            },
             "九老洞": {
                 "name": "九老洞",
                 "maps": [
