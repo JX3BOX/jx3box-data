@@ -12,8 +12,16 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_995_0.png",
-                "boss": ["野猪王", "毒尸王", "天一教毒巫", "无常鬼", "神策将军"],
-                "client": ["origin"]
+                "boss": [
+                    "野猪王",
+                    "毒尸王",
+                    "天一教毒巫",
+                    "无常鬼",
+                    "神策将军"
+                ],
+                "client": [
+                    "origin"
+                ]
             },
             "归墟秘境": {
                 "name": "归墟秘境",
@@ -24,8 +32,12 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_144_0.png",
-                "boss": ["归墟之力"],
-                "client": ["origin"]
+                "boss": [
+                    "归墟之力"
+                ],
+                "client": [
+                    "origin"
+                ]
             }
         }
     },
@@ -33,10 +45,36 @@
         "name": "安史之乱",
         "level": "90",
         "dungeon": {
+            "血战天策·决战": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+                "name": "血战天策·决战",
+                "maps": [
+                    {
+                        "map_id": "985",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "986",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_985_0.png",
+                "boss": [
+                    "独孤问俗",
+                    "沙叱博",
+                    "黑齿元佑",
+                    "苏曼莎",
+                    "令狐伤"
+                ],
+                "client": [
+                    "origin",
+                    "all"
+                ]
+            },
             "血战天策·驰援": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
-
                 "name": "血战天策·驰援",
                 "maps": [
                     {
@@ -49,13 +87,21 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_175_0.png",
-                "boss": ["席庶云", "关卡：固守天策府", "曹炎烈", "关卡：保护青骓牧场",  "阿史那从礼"],
-                "client": ["origin", "all"]
+                "boss": [
+                    "席庶云",
+                    "关卡：固守天策府",
+                    "曹炎烈",
+                    "关卡：保护青骓牧场",
+                    "阿史那从礼"
+                ],
+                "client": [
+                    "origin",
+                    "all"
+                ]
             },
             "大明宫": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
-
                 "name": "大明宫",
                 "maps": [
                     {
@@ -68,13 +114,24 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_164_0.png",
-                "boss": ["何莘涯", "耶律燕、独孤问俗", "六道傀儡", "剑圣", "无名","伊玛目", "安禄山"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "何莘涯",
+                    "耶律燕、独孤问俗",
+                    "六道傀儡",
+                    "剑圣",
+                    "无名",
+                    "伊玛目",
+                    "安禄山"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "战宝军械库": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
-
                 "name": "战宝军械库",
                 "maps": [
                     {
@@ -87,13 +144,22 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_160_0.png",
-                "boss": ["闻人彦范", "岳承志", "卓力格图", "澹台枯火", "萧沙、韦柔丝"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "闻人彦范",
+                    "岳承志",
+                    "卓力格图",
+                    "澹台枯火",
+                    "萧沙、韦柔丝"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "流离岛": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
-
                 "name": "流离岛",
                 "maps": [
                     {
@@ -106,13 +172,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_170_0.png",
-                "boss": ["詹素", "第五雍容", "詹毅"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "詹素",
+                    "第五雍容",
+                    "詹毅"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "华清宫回忆录": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
-
                 "name": "华清宫回忆录",
                 "maps": [
                     {
@@ -121,13 +194,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_163_0.png",
-                "boss": ["英怀珠", "高力士", "安禄山"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "英怀珠",
+                    "高力士",
+                    "安禄山"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "华清宫": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
-
                 "name": "华清宫",
                 "maps": [
                     {
@@ -140,13 +220,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_162_0.png",
-                "boss": ["尹素颜", "阿依努尔", "葛尔东赞"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "尹素颜",
+                    "阿依努尔",
+                    "葛尔东赞"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "一线天": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
-
                 "name": "一线天",
                 "maps": [
                     {
@@ -159,8 +246,16 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_157_0.png",
-                "boss": ["苏清", "宁毅", "列缺、霹雳"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "苏清",
+                    "宁毅",
+                    "列缺、霹雳"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             }
         }
     },
@@ -171,7 +266,6 @@
             "会战唐门": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "会战唐门",
                 "maps": [
                     {
@@ -180,13 +274,19 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_138_0.png",
-                "boss": ["狼牙军阵", "汪莽"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "狼牙军阵",
+                    "汪莽"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "南诏皇宫": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "南诏皇宫",
                 "maps": [
                     {
@@ -199,13 +299,23 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_140_0.png",
-                "boss": ["枯荣大师", "段宗公、泰崇傣、阁逻鸿", "萧沙", "摩提耶罗", "陈和尚、康雪烛、柳公子、阁逻凤", "李倓"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "枯荣大师",
+                    "段宗公、泰崇傣、阁逻鸿",
+                    "萧沙",
+                    "摩提耶罗",
+                    "陈和尚、康雪烛、柳公子、阁逻凤",
+                    "李倓"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "烛龙殿": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "烛龙殿",
                 "maps": [
                     {
@@ -218,13 +328,22 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_134_0.png",
-                "boss": ["胡鞑、武逸青", "陆寻", "南之雷神", "醉蛛老人", "索笛尔", "千秋子", "乌蒙贵"],
-                "client": ["origin"]
+                "boss": [
+                    "胡鞑、武逸青",
+                    "陆寻",
+                    "南之雷神",
+                    "醉蛛老人",
+                    "索笛尔",
+                    "千秋子",
+                    "乌蒙贵"
+                ],
+                "client": [
+                    "origin"
+                ]
             },
             "光明顶秘道": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "光明顶秘道",
                 "maps": [
                     {
@@ -237,13 +356,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_141_0.png",
-                "boss": ["问寒松", "辛然、吴颖莲", "薛山", "西域狮王"],
-                "client": ["std", "all"]
+                "boss": [
+                    "问寒松",
+                    "辛然、吴颖莲",
+                    "薛山",
+                    "西域狮王"
+                ],
+                "client": [
+                    "std",
+                    "all"
+                ]
             },
             "剑湖宫": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "剑湖宫",
                 "maps": [
                     {
@@ -260,13 +386,19 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_996_0.png",
-                "boss": ["褚吉光、柳公子", "扶风", "玄冥灵龟", "迦牟"],
-                "client": ["origin"]
+                "boss": [
+                    "褚吉光、柳公子",
+                    "扶风",
+                    "玄冥灵龟",
+                    "迦牟"
+                ],
+                "client": [
+                    "origin"
+                ]
             },
             "荻花圣殿·正殿": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "荻花圣殿·正殿",
                 "maps": [
                     {
@@ -279,13 +411,21 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_68_0.png",
-                "boss": ["卫栖梧、阿里曼执法长老", "阿萨辛", "卓婉清", "沙利亚"],
-                "client": ["origin", "std", "all"]
+                "boss": [
+                    "卫栖梧、阿里曼执法长老",
+                    "阿萨辛",
+                    "卓婉清",
+                    "沙利亚"
+                ],
+                "client": [
+                    "origin",
+                    "std",
+                    "all"
+                ]
             },
             "龙渊泽": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "龙渊泽",
                 "maps": [
                     {
@@ -298,13 +438,19 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_119_0.png",
-                "boss": ["慕容野狐、殷青丝", "里赤梅、苏贝德哈"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "慕容野狐、殷青丝",
+                    "里赤梅、苏贝德哈"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "毒神殿": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "毒神殿",
                 "maps": [
                     {
@@ -317,13 +463,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_112_0.png",
-                "boss": ["塔丹茂伯", "鲍穆侠", "乌灵风"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "塔丹茂伯",
+                    "鲍穆侠",
+                    "乌灵风"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "法王窟": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "法王窟",
                 "maps": [
                     {
@@ -336,13 +489,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_115_0.png",
-                "boss": ["胡鞑", "武逸青", "智慧"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "胡鞑",
+                    "武逸青",
+                    "智慧"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "无量宫": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "无量宫",
                 "maps": [
                     {
@@ -355,13 +515,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_114_0.png",
-                "boss": ["桃叶仙", "濯尘", "多多"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "桃叶仙",
+                    "濯尘",
+                    "多多"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "寂灭厅": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "寂灭厅",
                 "maps": [
                     {
@@ -374,13 +541,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_113_0.png",
-                "boss": ["藏·剑邪鸠", "剑心", "摩提耶罗"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "藏·剑邪鸠",
+                    "剑心",
+                    "摩提耶罗"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "唐门密室": {
                 "devide_level": "80",
                 "devide_name": "巴蜀风云",
-
                 "name": "唐门密室",
                 "maps": [
                     {
@@ -393,8 +567,17 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_125_0.png",
-                "boss": ["柳惊涛", "机关骰子", "汉唐", "密室机关"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "柳惊涛",
+                    "机关骰子",
+                    "汉唐",
+                    "密室机关"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             }
         }
     },
@@ -405,7 +588,6 @@
             "仙踪林": {
                 "devide_level": "70",
                 "devide_name": "五毒现世",
-
                 "name": "仙踪林",
                 "maps": [
                     {
@@ -418,13 +600,20 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_71_0.png",
-                "boss": ["塔纳刀王", "水云", "苏髓"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "塔纳刀王",
+                    "水云",
+                    "苏髓"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "荻花圣殿·前厅": {
                 "devide_level": "70",
                 "devide_name": "圣殿风云",
-
                 "name": "荻花圣殿·前厅",
                 "maps": [
                     {
@@ -437,13 +626,23 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_69_0.png",
-                "boss": ["牡丹", "塔洛马蒂、姬无双", "慕容追风", "蛮熊之力", "贪狼之牙", "飞猿之影"],
-                "client": ["origin", "std", "all"]
+                "boss": [
+                    "牡丹",
+                    "塔洛马蒂、姬无双",
+                    "慕容追风",
+                    "蛮熊之力",
+                    "贪狼之牙",
+                    "飞猿之影"
+                ],
+                "client": [
+                    "origin",
+                    "std",
+                    "all"
+                ]
             },
             "荻花宫后山": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "荻花宫后山",
                 "maps": [
                     {
@@ -456,13 +655,23 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_67_0.png",
-                "boss": ["罗索斯", "乌蛊婆婆", "水烟", "仄羽戈", "提坦德亚罗", "牡丹"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "罗索斯",
+                    "乌蛊婆婆",
+                    "水烟",
+                    "仄羽戈",
+                    "提坦德亚罗",
+                    "牡丹"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "剑冢": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "剑冢",
                 "maps": [
                     {
@@ -475,13 +684,27 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_62_0.png",
-                "boss": ["叶芳致", "叶琦菲", "夜啸", "叶火汐", "叶昊天", "叶金素", "叶冬辰", "叶凌烈", "叶无心", "叶秋池"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "叶芳致",
+                    "叶琦菲",
+                    "夜啸",
+                    "叶火汐",
+                    "叶昊天",
+                    "叶金素",
+                    "叶冬辰",
+                    "叶凌烈",
+                    "叶无心",
+                    "叶秋池"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "持国天王殿": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "持国天王殿",
                 "maps": [
                     {
@@ -498,13 +721,18 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_60_0.png",
-                "boss": ["提多罗吒"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "提多罗吒"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "宫中神武遗迹": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "宫中神武遗迹",
                 "maps": [
                     {
@@ -517,13 +745,18 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_61_0.png",
-                "boss": ["谢云流"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "谢云流"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "战宝迦兰": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "战宝迦兰",
                 "maps": [
                     {
@@ -536,13 +769,24 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_32_0.png",
-                "boss": ["王海银", "朱癸", "平等", "掌火", "镇恶", "餐风、饮火、吞云", "千手观音"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "王海银",
+                    "朱癸",
+                    "平等",
+                    "掌火",
+                    "镇恶",
+                    "餐风、饮火、吞云",
+                    "千手观音"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "灵霄峡": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "灵霄峡",
                 "maps": [
                     {
@@ -555,13 +799,24 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_45_0.png",
-                "boss": ["虎啸", "射云", "华鹤炎", "神策暗刺卫", "慧钟", "千叶佛像", "水中月、镜中花、空中云"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "虎啸",
+                    "射云",
+                    "华鹤炎",
+                    "神策暗刺卫",
+                    "慧钟",
+                    "千叶佛像",
+                    "水中月、镜中花、空中云"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "天工坊": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "天工坊",
                 "maps": [
                     {
@@ -574,13 +829,24 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_37_0.png",
-                "boss": ["方季常", "平三指", "震天甲士", "华铁颅", "煞灵魔尸", "塔玛", "司徒一一"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "方季常",
+                    "平三指",
+                    "震天甲士",
+                    "华铁颅",
+                    "煞灵魔尸",
+                    "塔玛",
+                    "司徒一一"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "无盐岛": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "无盐岛",
                 "maps": [
                     {
@@ -593,13 +859,23 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_41_0.png",
-                "boss": ["罗翼", "常万山", "杜姬欣", "温纱儿", "庞虎文", "杨心羽"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "罗翼",
+                    "常万山",
+                    "杜姬欣",
+                    "温纱儿",
+                    "庞虎文",
+                    "杨心羽"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "空雾峰": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "空雾峰",
                 "maps": [
                     {
@@ -612,13 +888,24 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_43_0.png",
-                "boss": ["冯度", "王彦直", "鬼影小次郎", "鲁飞", "夕罗双", "藤原樱奈", "梅剑雄"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "冯度",
+                    "王彦直",
+                    "鬼影小次郎",
+                    "鲁飞",
+                    "夕罗双",
+                    "藤原樱奈",
+                    "梅剑雄"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "天地三才阵": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "天地三才阵",
                 "maps": [
                     {
@@ -631,13 +918,24 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_36_0.png",
-                "boss": ["人熊", "邓文峰", "商仲永", "李千水", "范霸", "赵天龙", "朴宗资"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "人熊",
+                    "邓文峰",
+                    "商仲永",
+                    "李千水",
+                    "范霸",
+                    "赵天龙",
+                    "朴宗资"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "荻花宫前山": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "荻花宫前山",
                 "maps": [
                     {
@@ -650,13 +948,22 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_40_0.png",
-                "boss": ["阿里曼监察使", "阿里曼入教主祭司", "卫栖梧", "沙利亚", "阿斯玛"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "阿里曼监察使",
+                    "阿里曼入教主祭司",
+                    "卫栖梧",
+                    "沙利亚",
+                    "阿斯玛"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "日轮山城": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "日轮山城",
                 "maps": [
                     {
@@ -669,13 +976,26 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_44_0.png",
-                "boss": ["上衫勇刀", "雾影奈叶、猿飞菖蒲", "源明雅", "八歧大蛇", "吉汰", "尸灵武者", "谢云流", "野村一郎", "服部胧藏"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "上衫勇刀",
+                    "雾影奈叶、猿飞菖蒲",
+                    "源明雅",
+                    "八歧大蛇",
+                    "吉汰",
+                    "尸灵武者",
+                    "谢云流",
+                    "野村一郎",
+                    "服部胧藏"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "天子峰": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "天子峰",
                 "maps": [
                     {
@@ -688,13 +1008,29 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_42_0.png",
-                "boss": ["柳随风", "孙敬萧", "李尧", "玄悲", "陌香", "方宇谦", "玄阴子", "程傲", "王积薪", "道衍", "李裳秋", "方鹤影"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "柳随风",
+                    "孙敬萧",
+                    "李尧",
+                    "玄悲",
+                    "陌香",
+                    "方宇谦",
+                    "玄阴子",
+                    "程傲",
+                    "王积薪",
+                    "道衍",
+                    "李裳秋",
+                    "方鹤影"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             },
             "风雨稻香村": {
                 "devide_level": "70",
                 "devide_name": "风起稻香",
-
                 "name": "风雨稻香村",
                 "maps": [
                     {
@@ -707,10 +1043,28 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_47_0.png",
-                "boss": ["殷不为", "肖童", "刘大海", "秦雷", "狼牙夜暮刺客", "卢元霸", "齐宗强", "肖红", "熊奎、汪莽"],
-                "client": ["std", "origin", "all"]
+                "boss": [
+                    "殷不为",
+                    "肖童",
+                    "刘大海",
+                    "秦雷",
+                    "狼牙夜暮刺客",
+                    "卢元霸",
+                    "齐宗强",
+                    "肖红",
+                    "熊奎、汪莽"
+                ],
+                "client": [
+                    "std",
+                    "origin",
+                    "all"
+                ]
             }
         },
-        "client": ["std", "origin", "all"]
+        "client": [
+            "std",
+            "origin",
+            "all"
+        ]
     }
 }
