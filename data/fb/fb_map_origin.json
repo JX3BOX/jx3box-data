@@ -49,6 +49,7 @@
                 "devide_level": "90",
                 "devide_name": "安史之乱",
                 "name": "血战天策·决战",
+                "search_name":"血战天策",
                 "maps": [
                     {
                         "map_id": "985",
@@ -76,6 +77,7 @@
                 "devide_level": "90",
                 "devide_name": "安史之乱",
                 "name": "血战天策·驰援",
+                "search_name":"血战天策",
                 "maps": [
                     {
                         "map_id": "175",
