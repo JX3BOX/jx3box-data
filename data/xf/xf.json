@@ -133,7 +133,7 @@
         "force": 21,
         "kungfuId": 21,
         "school": 18,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "铁骨衣": {
         "name": "铁骨衣",
@@ -141,7 +141,7 @@
         "force": 21,
         "kungfuId": 20,
         "school": 18,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "紫霞功": {
         "name": "紫霞功",

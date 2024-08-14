@@ -146,7 +146,7 @@
     "10390": {
         "name": "分山劲",
         "school_name": "苍云",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "外功",
         "share_school": ["纯阳", "藏剑", "蓬莱", "凌雪", "万灵"],
         "primary_weapon_type": "14",
@@ -155,7 +155,7 @@
     "10389": {
         "name": "铁骨衣",
         "school_name": "苍云",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "防御",
         "share_school": ["少林", "天策", "明教"],
         "primary_weapon_type": "14",
