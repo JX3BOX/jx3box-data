@@ -278,6 +278,21 @@
                     "all"
                 ]
             },
+            "直城门": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "直城门",
+                "maps": [
+                    {
+                        "map_id": "179",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_179_0.png",
+                "boss": ["牛介平", "安守忠", "阿史那承庆", "恶狼"],
+                "client": ["std", "all", "origin"]
+            },
             "雁门关之役": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
