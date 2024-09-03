@@ -22,7 +22,7 @@
         "school_name": "万花",
         "client": ["all", "std", "origin"],
         "duty": "内功",
-        "share_school": ["纯阳", "衍天"],
+        "share_school": ["纯阳", "衍天", "段氏"],
         "primary_weapon_type": "5",
         "primary_attribute": "元气"
     },
@@ -166,7 +166,7 @@
         "school_name": "纯阳",
         "client": ["all", "std", "origin"],
         "duty": "内功",
-        "share_school": ["万花", "衍天"],
+        "share_school": ["万花", "衍天", "段氏"],
         "primary_weapon_type": "2",
         "primary_attribute": "根骨"
     },
@@ -258,7 +258,7 @@
         "school_name": "衍天",
         "client": ["all", "std"],
         "duty": "内功",
-        "share_school": ["纯阳", "万花"],
+        "share_school": ["纯阳", "万花", "段氏"],
         "primary_weapon_type": "19",
         "primary_attribute": "元气"
     },
@@ -279,6 +279,15 @@
         "share_school": ["苍云", "纯阳", "藏剑", "蓬莱", "凌雪"],
         "primary_weapon_type": "22",
         "primary_attribute": "身法"
+    },
+    "10786": {
+        "name": "周天功",
+        "school_name": "段氏",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": ["纯阳", "万花", "衍天"],
+        "primary_weapon_type": "23",
+        "primary_attribute": "元气"
     },
     "0": {
         "name": "通用",

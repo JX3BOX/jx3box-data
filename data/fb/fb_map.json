@@ -29,6 +29,76 @@
             }
         }
     },
+    "丝路风语": {
+        "name": "丝路风语",
+        "level": "130",
+        "dungeon": {
+            "天龙寺": {
+                "name": "天龙寺",
+                "maps": [
+                    {
+                        "map_id": "682",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "683",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_683_0.png",
+                "boss": ["枯荣大师", "段留影", "段业声"],
+                "client": ["std", "all"]
+            },
+            "冰川宫宝库": {
+                "name": "冰川宫宝库",
+                "maps": [
+                    {
+                        "map_id": "684",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "685",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_685_0.png",
+                "boss": ["甄三笔", "思结日", "月凌人"],
+                "client": ["std", "all"]
+            },
+            "风砂旧垒": {
+                "name": "风砂旧垒",
+                "maps": [
+                    {
+                        "map_id": "690",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "691",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_691_0.png",
+                "boss": ["刘重", "野希密", "玛兰"],
+                "client": ["std", "all"]
+            },
+            "不染窟": {
+                "name": "不染窟",
+                "maps": [
+                    {
+                        "map_id": "693",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "694",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_694_0.png",
+                "boss": ["奚筠", "米珊", "雨轻红"],
+                "client": ["std", "all"]
+            }
+        }
+    },
     "横刀断浪": {
         "name": "横刀断浪",
         "level": "120",

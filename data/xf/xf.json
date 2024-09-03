@@ -247,6 +247,14 @@
         "school": 29,
         "client": ["all", "std"]
     },
+    "周天功": {
+        "name": "周天功",
+        "id": 10786,
+        "force": 215,
+        "kungfuId": 33,
+        "school": 38,
+        "client": ["all", "std"]
+    },
     "通用": {
         "name": "通用",
         "id": 0,

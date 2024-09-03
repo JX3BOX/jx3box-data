@@ -17,5 +17,6 @@
     "衍天": { "school_id": 23, "force_id": 211, "mounts": [10615], "client": ["all", "std"] },
     "药宗": { "school_id": 24, "force_id": 212, "mounts": [10627, 10626], "client": ["all", "std"] },
     "刀宗": { "school_id": 26, "force_id": 213, "mounts": [10698], "client": ["all", "std"] },
-    "万灵": { "school_id": 29, "force_id": 214, "mounts": [10756], "client": ["all", "std"] }
+    "万灵": { "school_id": 29, "force_id": 214, "mounts": [10756], "client": ["all", "std"] },
+    "段氏": { "school_id": 38, "force_id": 215, "mounts": [10786], "client": ["all", "std"] }
 }
