@@ -33,6 +33,26 @@
         "name": "丝路风语",
         "level": "130",
         "dungeon": {
+            "一之窟": {
+                "name": "一之窟",
+                "maps": [
+                    {
+                        "map_id": "686",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "687",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "688",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_688_0.png",
+                "boss": ["骆耀阳", "韦柔丝", "宋泉", "伍靖远", "苏什", "芭德"],
+                "client": ["std", "all"]
+            },
             "天龙寺": {
                 "name": "天龙寺",
                 "maps": [
