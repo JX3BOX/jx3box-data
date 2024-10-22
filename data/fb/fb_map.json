@@ -26,6 +26,18 @@
                 "icon": "image/fb_map_thumbnail/loading_995_0.png",
                 "boss": ["鬼眼", "野猪王", "毒尸王", "天一教毒巫", "无常鬼", "神策将军"],
                 "client": ["std"]
+            },
+            "试炼之地": {
+                "name": "试炼之地",
+                "maps": [
+                    {
+                        "map_id": "143",
+                        "mode": "1人普通"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_143_0.png",
+                "boss": ["雷神", "机甲龙", "小木头人", "机关守卫"],
+                "client": ["std"]
             }
         }
     },
