@@ -45,6 +45,25 @@
         "name": "安史之乱",
         "level": "90",
         "dungeon": {
+            "秦皇陵": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "秦皇陵",
+                "maps": [
+                    {
+                        "map_id": "182",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "183",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_182_0.png",
+                "boss": ["王翦", "石麒麟", "探雪", "令狐伤", "安禄山"],
+                "client": ["std", "all", "origin"]
+            },
             "风雪稻香村": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
@@ -61,7 +80,7 @@
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_177_0.png",
-                "boss": ["地字一号", "史朝义", "黑鹰", "无名"],
+                "boss": ["莫寻常", "地字一号", "史朝义", "黑鹰", "无名"],
                 "client": ["std", "all", "origin"]
             },
             "血战天策·决战": {
