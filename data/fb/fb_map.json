@@ -45,6 +45,26 @@
         "name": "丝路风语",
         "level": "130",
         "dungeon": {
+            "太极宫": {
+                "name": "太极宫",
+                "maps": [
+                    {
+                        "map_id": "706",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "707",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "708",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_706_0.png",
+                "boss": ["邢廷恩", "许灵素", "侯青", "李系", "年勒", "薛琢玉"],
+                "client": ["std", "all"]
+            },
             "一之窟": {
                 "name": "一之窟",
                 "maps": [
