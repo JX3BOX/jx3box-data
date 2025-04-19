@@ -45,6 +45,22 @@
         "name": "丝路风语",
         "level": "130",
         "dungeon": {
+            "空城殿": {
+                "name": "空城殿",
+                "maps": [
+                    {
+                        "map_id": "710",
+                        "mode": "25人挑战·空城殿·上"
+                    },
+                    {
+                        "map_id": "711",
+                        "mode": "25人挑战·空城殿·下"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_710_0.png",
+                "boss": ["池清川", "李倓"],
+                "client": ["std", "all"]
+            },
             "太极宫": {
                 "name": "太极宫",
                 "maps": [
