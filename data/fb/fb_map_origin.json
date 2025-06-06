@@ -77,6 +77,25 @@
         "name": "安史之乱",
         "level": "90",
         "dungeon": {
+            "太原之战·逐虎驱狼": {
+                "devide_level": "90",
+                "devide_name": "安史之乱",
+
+                "name": "太原之战·逐虎驱狼",
+                "maps": [
+                    {
+                        "map_id": "192",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "199",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_192_0.png",
+                "boss": ["靺鞨三骑将", "安雨", "月华", "白陶", "史思明"],
+                "client": ["std", "all", "origin"]
+            },
             "太原之战·夜守孤城": {
                 "devide_level": "90",
                 "devide_name": "安史之乱",
@@ -90,6 +109,10 @@
                     {
                         "map_id": "198",
                         "mode": "25人英雄"
+                    },
+                    {
+                        "map_id": "973",
+                        "mode": "25人挑战"
                     }
                 ],
                 "icon": "image/fb_map_thumbnail/loading_191_0.png",
