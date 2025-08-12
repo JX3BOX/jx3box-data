@@ -53,7 +53,7 @@
         "force": 22,
         "kungfuId": 22,
         "school": 19,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "相知": {
         "name": "相知",
@@ -61,7 +61,7 @@
         "force": 22,
         "kungfuId": 23,
         "school": 19,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "无方": {
         "name": "无方",

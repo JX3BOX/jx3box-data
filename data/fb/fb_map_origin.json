@@ -73,6 +73,162 @@
             }
         }
     },
+    "剑胆琴心": {
+        "name": "剑胆琴心",
+        "level": "95",
+        "dungeon": {
+            "永王行宫·仙侣庭园": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "永王行宫·仙侣庭园",
+                "maps": [
+                    {
+                        "map_id": "220",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "231",
+                        "mode": "25人英雄"
+                    },
+                    {
+                        "map_id": "234",
+                        "mode": "10人挑战"
+                    },
+                    {
+                        "map_id": "236",
+                        "mode": "25人挑战"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_220_0.png",
+                "boss": ["屈焰阳", "森九岚", "李玚", "仲虚念", "李璘与苏十三娘"],
+                "client": ["std", "all", "origin"]
+            },
+            "永王行宫·花月别院": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "永王行宫·花月别院",
+                "maps": [
+                    {
+                        "map_id": "221",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "230",
+                        "mode": "25人英雄"
+                    },
+                    {
+                        "map_id": "235",
+                        "mode": "10人挑战"
+                    },
+                    {
+                        "map_id": "237",
+                        "mode": "25人挑战"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_221_0.png",
+                "boss": ["韩非池", "莫雨", "李白"],
+                "client": ["std", "all", "origin"]
+            },
+            "天泣林": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "天泣林",
+                "maps": [
+                    {
+                        "map_id": "203",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "224",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_224_0.png",
+                "boss": ["看舞", "崖剑", "高力士"],
+                "client": ["std", "all", "origin"]
+            },
+            "阴山圣泉": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "阴山圣泉",
+                "maps": [
+                    {
+                        "map_id": "204",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "227",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_227_0.png",
+                "boss": ["秦秀", "莫蕾", "植尸将"],
+                "client": ["std", "all", "origin"]
+            },
+            "梵空禅院": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "梵空禅院",
+                "maps": [
+                    {
+                        "map_id": "209",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "228",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_228_0.png",
+                "boss": ["悟影", "双雄剑意", "幻影剑圣"],
+                "client": ["std", "all", "origin"]
+            },
+            "引仙水榭": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "引仙水榭",
+                "maps": [
+                    {
+                        "map_id": "218",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "229",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_229_0.png",
+                "boss": ["平花秀夜", "剑姬阵", "李倓与李复"],
+                "client": ["std", "all", "origin"]
+            },
+            "微山书院": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "微山书院",
+                "maps": [
+                    {
+                        "map_id": "219",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "225",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_225_0.png",
+                "boss": ["凤息颜", "赵宫商", "月侍弓"],
+                "client": ["std", "all", "origin"]
+            }
+        },
+        "client": ["std", "all", "origin"]
+    },
     "安史之乱": {
         "name": "安史之乱",
         "level": "90",
