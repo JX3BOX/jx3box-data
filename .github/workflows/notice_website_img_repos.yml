@@ -1,0 +1,27 @@
+name: Notify Website-img Repository
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  notify-main-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify website-imgs repository
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.WEBSITE_IMG_REPO_TOKEN }}" \
+            https://api.github.com/repos/JX3BOX/website-imgs/dispatches \
+            -d '{
+              "event_type": "jx3box_submodule_updated",
+              "client_payload": {
+                "submodule_name": "${{ github.repository }}",
+                "repository": "${{ github.repository }}",
+                "ref": "${{ github.ref }}",
+                "sha": "${{ github.sha }}"
+              }
+            }'
