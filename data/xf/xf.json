@@ -255,6 +255,14 @@
         "school": 38,
         "client": ["all", "std"]
     },
+    "幽罗引": {
+        "name": "幽罗引",
+        "id": 10821,
+        "force": 221,
+        "kungfuId": 0,
+        "school": 39,
+        "client": ["all", "std"]
+    },
     "通用": {
         "name": "通用",
         "id": 0,

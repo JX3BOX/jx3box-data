@@ -4,7 +4,7 @@
         "school_name": "七秀",
         "client": ["all", "std", "origin"],
         "duty": "内功",
-        "share_school": ["长歌"],
+        "share_school": ["长歌", "无相"],
         "primary_weapon_type": "4",
         "primary_attribute": "根骨"
     },
@@ -58,7 +58,7 @@
         "school_name": "长歌",
         "client": ["all", "std", "origin"],
         "duty": "内功",
-        "share_school": ["冰心诀"],
+        "share_school": ["七秀", "无相"],
         "primary_weapon_type": "15",
         "primary_attribute": "根骨"
     },
@@ -288,6 +288,15 @@
         "share_school": ["纯阳", "万花", "衍天"],
         "primary_weapon_type": "23",
         "primary_attribute": "元气"
+    },
+    "10821": {
+        "name": "幽罗引",
+        "school_name": "无相",
+        "client": ["all", "std"],
+        "duty": "内功",
+        "share_school": ["七秀", "长歌"],
+        "primary_weapon_type": "24",
+        "primary_attribute": "根骨"
     },
     "0": {
         "name": "通用",
