@@ -45,6 +45,42 @@
         "name": "丝路风语",
         "level": "130",
         "dungeon": {
+            "会战弓月城": {
+                "name": "会战弓月城",
+                "maps": [
+                    {
+                        "map_id": "722",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "723",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "724",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_722_0.png",
+                "boss": ["巴图仁钦", "竭勒", "图南子", "叶葵", "尹雪尘"],
+                "client": ["std", "all"]
+            },
+            "獭山岛": {
+                "name": "獭山岛",
+                "maps": [
+                    {
+                        "map_id": "725",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "726",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_725_0.png",
+                "boss": ["石固勇", "汪佑", "瓦赫拉"],
+                "client": ["std", "all"]
+            },
             "空城殿": {
                 "name": "空城殿",
                 "maps": [
