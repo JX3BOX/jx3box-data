@@ -45,6 +45,18 @@
         "name": "丝路风语",
         "level": "130",
         "dungeon": {
+            "缚罪之渊": {
+                "name": "缚罪之渊",
+                "maps": [
+                    {
+                        "map_id": "720",
+                        "mode": "25人挑战"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_720_0.png",
+                "boss": ["阿里曼幻身", "阿萨辛"],
+                "client": ["std", "all"]
+            },
             "会战弓月城": {
                 "name": "会战弓月城",
                 "maps": [
