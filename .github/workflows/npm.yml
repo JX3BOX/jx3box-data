@@ -1,4 +1,4 @@
-name: PKG&OSS
+name: Npm Publish
 on:
     push:
         branches:

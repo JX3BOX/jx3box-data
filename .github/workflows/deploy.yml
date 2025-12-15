@@ -1,4 +1,4 @@
-name: PKG&OSS
+name: Sync Nj2 & OSS
 on:
     push:
         branches:
