@@ -3,6 +3,30 @@
         "name": "特殊活动",
         "level": "999",
         "dungeon": {
+            "厄境余息": {
+                "name": "厄境余息",
+                "maps": [
+                    {
+                        "map_id": "967",
+                        "mode": "中宵"
+                    },
+                    {
+                        "map_id": "967",
+                        "mode": "冥夜"
+                    },
+                    {
+                        "map_id": "967",
+                        "mode": "血月"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_967_0.png",
+                "boss": [
+                    "恩扎"
+                ],
+                "client": [
+                    "origin"
+                ]
+            },
             "剑踪幻域": {
                 "name": "剑踪幻域",
                 "maps": [
@@ -78,6 +102,44 @@
         "name": "剑胆琴心",
         "level": "95",
         "dungeon": {
+            "上阳宫·观风殿": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "上阳宫·观风殿",
+                "maps": [
+                    {
+                        "map_id": "240",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "248",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_240_0.png",
+                "boss": ["沈眠风", "柳绯君", "月华", "曹炎烈", "独孤先生"],
+                "client": ["std", "all"]
+            },
+            "上阳宫·双曜亭": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "上阳宫·双曜亭",
+                "maps": [
+                    {
+                        "map_id": "241",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "249",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_241_0.png",
+                "boss": ["黑齿元佑", "哥舒翰", "安庆绪"],
+                "client": ["std", "all"]
+            },
             "永王行宫·仙侣庭园": {
                 "devide_level": "95",
                 "devide_name": "剑胆琴心",
