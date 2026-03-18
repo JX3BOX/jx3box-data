@@ -31,6 +31,6 @@ jobs:
               uses: manyuanrong/setup-ossutil@v2.0
               with:
                   endpoint: "oss-cn-hangzhou.aliyuncs.com"
-                  access-key-id: ${{secrets.AccessKey_ID_CDN}}
-                  access-key-secret: ${{secrets.Access_Key_Secret_CDN}}
+                  access-key-id: ${{secrets.AccessKey_ID}}
+                  access-key-secret: ${{secrets.Access_Key_Secret}}
             - run: ossutil cp -rf data oss://jx3box/data
