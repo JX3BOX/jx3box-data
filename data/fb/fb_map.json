@@ -45,6 +45,26 @@
         "name": "丝路风语",
         "level": "130",
         "dungeon": {
+            "阆风悬城": {
+                "name": "阆风悬城",
+                "maps": [
+                    {
+                        "map_id": "793",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "794",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "795",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_793_0.png",
+                "boss": ["笑妆娘", "唐醉", "柳公子", "阿史", "唐怀仁"],
+                "client": ["std", "all"]
+            },
             "缚罪之渊": {
                 "name": "缚罪之渊",
                 "maps": [
