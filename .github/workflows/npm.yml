@@ -7,25 +7,31 @@ jobs:
     publish-npm:
         # needs: build
         runs-on: ubuntu-latest
+        permissions:
+            contents: read
+            id-token: write
         steps:
-            - uses: actions/checkout@v2
-            - uses: actions/setup-node@v1
+            # npmjs 发布走 npm trusted publisher(OIDC)，这里不要再传 NPM_TOKEN。
+            - uses: actions/checkout@v6
+            - uses: actions/setup-node@v6
               with:
-                  node-version: 12
+                  node-version: 24
                   registry-url: https://registry.npmjs.org/
             # - run: npm ci
-            - run: npm publish --access public
-              env:
-                  NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+            - run: npm publish --provenance --access public
 
     publish-gpr:
         # needs: build
         runs-on: ubuntu-latest
+        permissions:
+            contents: read
+            packages: write
         steps:
-            - uses: actions/checkout@v2
-            - uses: actions/setup-node@v1
+            # GitHub Packages 目前没有 npm 那种 trusted publisher，继续使用 GITHUB_TOKEN。
+            - uses: actions/checkout@v6
+            - uses: actions/setup-node@v6
               with:
-                  node-version: 12
+                  node-version: 24
                   registry-url: https://npm.pkg.github.com/
                   scope: "@jx3box"
             # - run: npm ci
