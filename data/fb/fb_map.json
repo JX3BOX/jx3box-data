@@ -45,6 +45,18 @@
         "name": "丝路风语",
         "level": "130",
         "dungeon": {
+            "阆风悬城·元心殿": {
+                "name": "阆风悬城·元心殿",
+                "maps": [
+                    {
+                        "map_id": 804,
+                        "mode": "25人挑战"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_804_0.png",
+                "boss": ["鲁念雪", "千机源枢"],
+                "client": ["std", "all"]
+            },
             "阆风悬城": {
                 "name": "阆风悬城",
                 "maps": [
