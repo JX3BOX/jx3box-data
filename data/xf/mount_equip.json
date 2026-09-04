@@ -229,7 +229,7 @@
     "10464": {
         "name": "北傲诀",
         "school_name": "霸刀",
-        "client": ["all", "std"],
+        "client": ["all", "std", "origin"],
         "duty": "外功",
         "share_school": ["天策", "丐帮", "唐门" ,"刀宗"],
         "primary_weapon_type": "16",

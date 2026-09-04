@@ -205,7 +205,7 @@
         "force": 23,
         "kungfuId": 24,
         "school": 20,
-        "client": ["all", "std"]
+        "client": ["all", "std", "origin"]
     },
     "凌海诀": {
         "name": "凌海诀",

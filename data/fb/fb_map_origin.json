@@ -3,6 +3,13 @@
         "name": "特殊活动",
         "level": "999",
         "dungeon": {
+            "淬锋试炼": {
+                "name": "淬锋试炼",
+                "icon": "image/fb_map_thumbnail/loading_262_0.png",
+                "client": [
+                    "origin"
+                ]
+            },
             "厄境余息": {
                 "name": "厄境余息",
                 "maps": [
@@ -101,6 +108,63 @@
         "name": "剑胆琴心",
         "level": "95",
         "dungeon": {
+            "风雷刀谷·锻刀厅": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "风雷刀谷·锻刀厅",
+                "maps": [
+                    {
+                        "map_id": "263",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "271",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_263_0.png",
+                "boss": ["史朝英", "柳愚", "柳哲", "柳时清", "解语"],
+                "client": ["std", "all", "origin"]
+            },
+            "风雷刀谷·千雷殿": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "风雷刀谷·千雷殿",
+                "maps": [
+                    {
+                        "map_id": "264",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "270",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_264_0.png",
+                "boss": ["伊玛目", "柳秀岳", "柳鸾旗"],
+                "client": ["std", "all", "origin"]
+            },
+            "夕颜阁": {
+                "devide_level": "95",
+                "devide_name": "剑胆琴心",
+
+                "name": "夕颜阁",
+                "maps": [
+                    {
+                        "map_id": "256",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "257",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_257_0.png",
+                "boss": ["柳夕的心魔", "柳哲", "柳浮云"],
+                "client": ["std", "all", "origin"]
+            },
             "上阳宫·观风殿": {
                 "devide_level": "95",
                 "devide_name": "剑胆琴心",
