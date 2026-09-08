@@ -41,6 +41,84 @@
             }
         }
     },
+    "苍生铸世": {
+        "name": "苍生铸世",
+        "level": "50",
+        "dungeon": {
+            "洛阳之战": {
+                "name": "洛阳之战",
+                "maps": [
+                    {
+                        "map_id": "828",
+                        "mode": "10人普通"
+                    },
+                    {
+                        "map_id": "835",
+                        "mode": "25人普通"
+                    },
+                    {
+                        "map_id": "836",
+                        "mode": "25人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_828_0.png",
+                "boss": ["突利和顺", "田承嗣", "伊曼·寂夜、伊曼·逐焰", "阿史那承庆", "史朝义"],
+                "client": ["std", "all"]
+            },
+            "南山马场": {
+                "name": "南山马场",
+                "maps": [
+                    {
+                        "map_id": "832",
+                        "mode": "5人普通"
+                    },
+                    {
+                        "map_id": "833",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_832_0.png",
+                "boss": ["卢敬恒", "阿孜娅", "宓萱"],
+                "client": ["std", "all"]
+            },
+            "昊渊极": {
+                "name": "昊渊极",
+                "maps": [
+                    {
+                        "map_id": "842",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_842_0.png",
+                "boss": ["火鸢兽", "疙瘩", "四月初吉"],
+                "client": ["std", "all"]
+            },
+            "玄元观": {
+                "name": "玄元观",
+                "maps": [
+                    {
+                        "map_id": "843",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_843_0.png",
+                "boss": ["应天尺", "玉在香", "韦人杰"],
+                "client": ["std", "all"]
+            },
+            "大阳津": {
+                "name": "大阳津",
+                "maps": [
+                    {
+                        "map_id": "844",
+                        "mode": "5人英雄"
+                    }
+                ],
+                "icon": "image/fb_map_thumbnail/loading_844_0.png",
+                "boss": ["烛鳞官", "阿史德不赛音", "晏厄 晏灾"],
+                "client": ["std", "all"]
+            }
+        }
+    },
     "丝路风语": {
         "name": "丝路风语",
         "level": "130",
