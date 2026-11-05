@@ -55,6 +55,10 @@
         "client": "std",
         "ip": ""
     },
+    "九天": {
+        "client": "std",
+        "ip": ""
+    },
     "缘起稻香": {
         "client": "origin",
         "ip": ""
