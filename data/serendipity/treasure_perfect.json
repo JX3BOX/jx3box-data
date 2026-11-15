@@ -1,0 +1,352 @@
+{
+  "perfect": {
+    "assets": {
+      "worldBackground": "world/world_bg.svg",
+      "textBackground": "world/text_bg.png",
+      "textActiveBackground": "world/text_bg_act.png"
+    },
+    "layouts": {
+      "portrait": {
+        "stage": {
+          "width": 700,
+          "height": 700
+        },
+        "worldBackgroundStyle": {
+          "left": 55,
+          "bottom": 36,
+          "width": 579
+        },
+        "count": {
+          "badge": "portrait/world_qy_bg.png",
+          "style": {
+            "top": 82,
+            "left": -23
+          },
+          "imageStyle": {
+            "width": 184
+          },
+          "textStyle": {
+            "top": 7,
+            "right": 10
+          },
+          "format": "inline"
+        }
+      },
+      "landscape": {
+        "stage": {
+          "width": 700,
+          "height": 700
+        },
+        "worldBackgroundStyle": {
+          "left": 55,
+          "bottom": 36,
+          "width": 579
+        },
+        "count": {
+          "badge": "landscape/world_qy_bg.png",
+          "style": {
+            "top": 0,
+            "right": 41
+          },
+          "imageStyle": {
+            "width": 32
+          },
+          "textStyle": {
+            "bottom": 10,
+            "left": "50%",
+            "transform": "translateX(-50%)",
+            "lineHeight": 20
+          },
+          "format": "stack"
+        }
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "key": "sssh",
+        "image": "world/1.png",
+        "activeImage": "world/1_act.png",
+        "imageStyle": {
+          "top": 1,
+          "left": 261,
+          "width": 168
+        },
+        "labelStyle": {
+          "top": 78,
+          "left": 311
+        }
+      },
+      {
+        "id": 90,
+        "key": "lnrh",
+        "image": "world/90.png",
+        "activeImage": "world/90_act.png",
+        "imageStyle": {
+          "top": 63,
+          "left": 345,
+          "width": 149
+        },
+        "labelStyle": {
+          "top": 103,
+          "right": 280
+        }
+      },
+      {
+        "id": 135,
+        "key": "fgzm",
+        "image": "world/135.png",
+        "activeImage": "world/135_act.png",
+        "imageStyle": {
+          "top": 110,
+          "left": 302,
+          "width": 211
+        },
+        "labelStyle": {
+          "top": 158,
+          "left": 308
+        }
+      },
+      {
+        "id": 111,
+        "key": "zhg",
+        "image": "world/111.png",
+        "activeImage": "world/111_act.png",
+        "imageStyle": {
+          "top": 66,
+          "left": 325,
+          "width": 314
+        },
+        "labelStyle": {
+          "top": 180,
+          "right": 159
+        }
+      },
+      {
+        "id": 154,
+        "key": "gdsg",
+        "image": "world/154.png",
+        "activeImage": "world/154_act.png",
+        "imageStyle": {
+          "top": 89,
+          "left": 249,
+          "width": 75
+        },
+        "labelStyle": {
+          "top": 98,
+          "left": 239
+        }
+      },
+      {
+        "id": 3,
+        "key": "yylj",
+        "image": "world/3.png",
+        "activeImage": "world/3_act.png",
+        "imageStyle": {
+          "top": 56,
+          "left": 67,
+          "width": 325
+        },
+        "labelStyle": {
+          "top": 188,
+          "left": 211
+        }
+      },
+      {
+        "id": 21,
+        "key": "swbj",
+        "image": "world/21.png",
+        "activeImage": "world/21_act.png",
+        "imageStyle": {
+          "top": 162,
+          "left": 71,
+          "width": 276
+        },
+        "labelStyle": {
+          "top": 246,
+          "left": 180
+        }
+      },
+      {
+        "id": 126,
+        "key": "swxf",
+        "image": "world/126.png",
+        "activeImage": "world/126_act.png",
+        "imageStyle": {
+          "top": 276,
+          "left": 27,
+          "width": 321
+        },
+        "labelStyle": {
+          "top": 402,
+          "left": 92
+        }
+      },
+      {
+        "id": 88,
+        "key": "xxjt",
+        "image": "world/88.png",
+        "activeImage": "world/88_act.png",
+        "imageStyle": {
+          "top": 126,
+          "left": 198,
+          "width": 314
+        },
+        "labelStyle": {
+          "top": 270,
+          "left": 282
+        }
+      },
+      {
+        "id": 142,
+        "key": "gsyj",
+        "image": "world/142.png",
+        "activeImage": "world/142_act.png",
+        "imageStyle": {
+          "top": 319,
+          "left": 273,
+          "width": 180
+        },
+        "labelStyle": {
+          "top": 325,
+          "left": 348
+        }
+      },
+      {
+        "id": 163,
+        "key": "hrzx",
+        "image": "world/163.png",
+        "activeImage": "world/163_act.png",
+        "imageStyle": {
+          "top": 235,
+          "left": 427,
+          "width": 146
+        },
+        "labelStyle": {
+          "top": 210,
+          "right": 204
+        }
+      },
+      {
+        "id": 136,
+        "key": "kwyh",
+        "image": "world/136.png",
+        "activeImage": "world/136_act.png",
+        "imageStyle": {
+          "top": 295,
+          "left": 400,
+          "width": 144
+        },
+        "labelStyle": {
+          "top": 289,
+          "right": 168
+        }
+      },
+      {
+        "id": 106,
+        "key": "qqj",
+        "image": "world/106.png",
+        "activeImage": "world/106_act.png",
+        "imageStyle": {
+          "top": 231,
+          "left": 456,
+          "width": 206
+        },
+        "labelStyle": {
+          "top": 340,
+          "right": 62
+        }
+      },
+      {
+        "id": 83,
+        "key": "zzwg",
+        "image": "world/83.png",
+        "activeImage": "world/83_act.png",
+        "imageStyle": {
+          "top": 327,
+          "left": 467,
+          "width": 165
+        },
+        "labelStyle": {
+          "bottom": 202,
+          "right": 88
+        }
+      },
+      {
+        "id": 66,
+        "key": "jcs",
+        "image": "world/66.png",
+        "activeImage": "world/66_act.png",
+        "imageStyle": {
+          "top": 317,
+          "left": 304,
+          "width": 185
+        },
+        "labelStyle": {
+          "top": 429,
+          "left": 376
+        }
+      },
+      {
+        "id": 2,
+        "key": "scqf",
+        "image": "world/2.png",
+        "activeImage": "world/2_act.png",
+        "imageStyle": {
+          "top": 355,
+          "left": 398,
+          "width": 142
+        },
+        "labelStyle": {
+          "bottom": 152,
+          "right": 244
+        }
+      },
+      {
+        "id": 78,
+        "key": "tjh",
+        "image": "world/78.png",
+        "activeImage": "world/78_act.png",
+        "imageStyle": {
+          "top": 338,
+          "left": 124,
+          "width": 176
+        },
+        "labelStyle": {
+          "bottom": 147,
+          "left": 108
+        }
+      },
+      {
+        "id": 121,
+        "key": "rjg",
+        "image": "world/121.png",
+        "activeImage": "world/121_act.png",
+        "imageStyle": {
+          "top": 500,
+          "left": 198,
+          "width": 436
+        },
+        "labelStyle": {
+          "bottom": 37,
+          "right": 310
+        }
+      },
+      {
+        "id": 104,
+        "key": "wldg",
+        "image": "world/104.png",
+        "activeImage": "world/104_act.png",
+        "imageStyle": {
+          "top": 462,
+          "left": 293,
+          "width": 108
+        },
+        "labelStyle": {
+          "bottom": 151,
+          "left": 288
+        }
+      }
+    ]
+  }
+}
